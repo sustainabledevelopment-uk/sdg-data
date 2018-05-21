@@ -1,0 +1,2191 @@
+Year,Region,Local Authority,Deprivation Decile,GeoCode,Value
+2010,,,,E92000001,5.6
+2010,North East,,,E12000001,4.6
+2010,North West,,,E12000002,5.1
+2010,Yorkshire and the Humber,,,E12000003,5.3
+2010,East Midlands,,,E12000004,5.7
+2010,West Midlands,,,E12000005,5.7
+2010,East of England,,,E12000006,5.6
+2010,London,,,E12000007,7.2
+2010,South East,,,E12000008,5.5
+2010,South West,,,E12000009,4.7
+2010,North East,Hartlepool,,E06000001,4.7
+2010,North East,Middlesbrough,,E06000002,5.0
+2010,North East,Redcar and Cleveland,,E06000003,4.5
+2010,North East,Stockton-on-Tees,,E06000004,4.6
+2010,North East,Darlington,,E06000005,4.5
+2010,North West,Halton,,E06000006,5.5
+2010,North West,Warrington,,E06000007,5.4
+2010,North West,Blackburn with Darwen,,E06000008,5.1
+2010,North West,Blackpool,,E06000009,4.3
+2010,Yorkshire and the Humber,Kingston upon Hull,,E06000010,5.9
+2010,Yorkshire and the Humber,East Riding of Yorkshire,,E06000011,4.9
+2010,Yorkshire and the Humber,North East Lincolnshire,,E06000012,5.6
+2010,Yorkshire and the Humber,North Lincolnshire,,E06000013,5.5
+2010,Yorkshire and the Humber,York,,E06000014,4.8
+2010,East Midlands,Derby,,E06000015,6.1
+2010,East Midlands,Leicester,,E06000016,6.6
+2010,East Midlands,Rutland,,E06000017,5.1
+2010,East Midlands,Nottingham,,E06000018,6.4
+2010,West Midlands,Herefordshire,,E06000019,4.5
+2010,West Midlands,Telford and Wrekin,,E06000020,4.8
+2010,West Midlands,Stoke-on-Trent,,E06000021,5.6
+2010,South West,Bath and North East Somerset,,E06000022,4.9
+2010,South West,Bristol,,E06000023,5.8
+2010,South West,North Somerset,,E06000024,4.6
+2010,South West,South Gloucestershire,,E06000025,5.4
+2010,South West,Plymouth,,E06000026,4.5
+2010,South West,Torbay,,E06000027,4.0
+2010,South West,Bournemouth,,E06000028,5.1
+2010,South West,Poole,,E06000029,5.2
+2010,South West,Swindon,,E06000030,5.8
+2010,East of England,Peterborough,,E06000031,5.7
+2010,East of England,Luton,,E06000032,6.4
+2010,East of England,Southend-on-Sea,,E06000033,6.1
+2010,East of England,Thurrock,,E06000034,6.5
+2010,South East,Medway,,E06000035,6.1
+2010,South East,Bracknell Forest,,E06000036,5.6
+2010,South East,West Berkshire,,E06000037,5.5
+2010,South East,Reading,,E06000038,5.9
+2010,South East,Slough,,E06000039,6.8
+2010,South East,Windsor and Maidenhead,,E06000040,5.9
+2010,South East,Wokingham,,E06000041,5.7
+2010,South East,Milton Keynes,,E06000042,5.8
+2010,South East,Brighton and Hove,,E06000043,5.4
+2010,South East,Portsmouth,,E06000044,5.9
+2010,South East,Southampton,,E06000045,6.2
+2010,South East,Isle of Wight,,E06000046,4.6
+2010,North East,County Durham,,E06000047,4.3
+2010,North West,Cheshire East,,E06000049,4.9
+2010,North West,Cheshire West and Chester,,E06000050,4.7
+2010,West Midlands,Shropshire,,E06000051,4.2
+2010,South West,Cornwall,,E06000052,3.8
+2010,South West,Isles of Scilly,,E06000053,3.2
+2010,South West,Wiltshire,,E06000054,4.9
+2010,East of England,Bedford,,E06000055,5.5
+2010,East of England,Central Bedfordshire,,E06000056,5.5
+2010,North East,Northumberland,,E06000057,3.9
+2010,North West,Bolton,,E08000001,5.5
+2010,North West,Bury,,E08000002,5.5
+2010,North West,Manchester,,E08000003,5.9
+2010,North West,Oldham,,E08000004,5.7
+2010,North West,Rochdale,,E08000005,5.5
+2010,North West,Salford,,E08000006,5.9
+2010,North West,Stockport,,E08000007,5.7
+2010,North West,Tameside,,E08000008,5.8
+2010,North West,Trafford,,E08000009,5.6
+2010,North West,Wigan,,E08000010,5.2
+2010,North West,Knowsley,,E08000011,5.5
+2010,North West,Liverpool,,E08000012,5.4
+2010,North West,St. Helens,,E08000013,5.5
+2010,North West,Sefton,,E08000014,4.6
+2010,North West,Wirral,,E08000015,4.7
+2010,Yorkshire and the Humber,Barnsley,,E08000016,5.4
+2010,Yorkshire and the Humber,Doncaster,,E08000017,5.6
+2010,Yorkshire and the Humber,Rotherham,,E08000018,5.7
+2010,Yorkshire and the Humber,Sheffield,,E08000019,5.5
+2010,North East,Newcastle upon Tyne,,E08000021,4.9
+2010,North East,North Tyneside,,E08000022,4.8
+2010,North East,South Tyneside,,E08000023,5.0
+2010,North East,Sunderland,,E08000024,5.0
+2010,West Midlands,Birmingham,,E08000025,6.4
+2010,West Midlands,Coventry,,E08000026,6.2
+2010,West Midlands,Dudley,,E08000027,5.9
+2010,West Midlands,Sandwell,,E08000028,6.9
+2010,West Midlands,Solihull,,E08000029,6.0
+2010,West Midlands,Walsall,,E08000030,6.4
+2010,West Midlands,Wolverhampton,,E08000031,5.8
+2010,Yorkshire and the Humber,Bradford,,E08000032,5.3
+2010,Yorkshire and the Humber,Calderdale,,E08000033,5.0
+2010,Yorkshire and the Humber,Kirklees,,E08000034,5.4
+2010,Yorkshire and the Humber,Leeds,,E08000035,5.5
+2010,Yorkshire and the Humber,Wakefield,,E08000036,5.7
+2010,North East,Gateshead,,E08000037,4.9
+2010,London,City of London,,E09000001,9.0
+2010,London,Barking and Dagenham,,E09000002,7.1
+2010,London,Barnet,,E09000003,6.8
+2010,London,Bexley,,E09000004,6.6
+2010,London,Brent,,E09000005,7.2
+2010,London,Bromley,,E09000006,6.3
+2010,London,Camden,,E09000007,7.7
+2010,London,Croydon,,E09000008,6.5
+2010,London,Ealing,,E09000009,7.2
+2010,London,Enfield,,E09000010,6.6
+2010,London,Greenwich,,E09000011,7.2
+2010,London,Hackney,,E09000012,7.8
+2010,London,Hammersmith and Fulham,,E09000013,7.9
+2010,London,Haringey,,E09000014,7.1
+2010,London,Harrow,,E09000015,6.4
+2010,London,Havering,,E09000016,6.3
+2010,London,Hillingdon,,E09000017,6.5
+2010,London,Hounslow,,E09000018,7.1
+2010,London,Islington,,E09000019,7.9
+2010,London,Kensington and Chelsea,,E09000020,8.3
+2010,London,Kingston upon Thames,,E09000021,6.7
+2010,London,Lambeth,,E09000022,7.7
+2010,London,Lewisham,,E09000023,7.2
+2010,London,Merton,,E09000024,6.9
+2010,London,Newham,,E09000025,7.6
+2010,London,Redbridge,,E09000026,7.0
+2010,London,Richmond upon Thames,,E09000027,6.8
+2010,London,Southwark,,E09000028,7.9
+2010,London,Sutton,,E09000029,6.4
+2010,London,Tower Hamlets,,E09000030,8.1
+2010,London,Waltham Forest,,E09000031,7.3
+2010,London,Wandsworth,,E09000032,7.3
+2010,London,Westminster,,E09000033,8.3
+2011,,,,E92000001,5.4
+2011,North East,,,E12000001,4.1
+2011,North West,,,E12000002,4.6
+2011,Yorkshire and the Humber,,,E12000003,5.0
+2011,East Midlands,,,E12000004,5.3
+2011,West Midlands,,,E12000005,5.3
+2011,East of England,,,E12000006,5.5
+2011,London,,,E12000007,7.2
+2011,South East,,,E12000008,5.5
+2011,South West,,,E12000009,4.4
+2011,North East,Hartlepool,,E06000001,4.2
+2011,North East,Middlesbrough,,E06000002,4.4
+2011,North East,Redcar and Cleveland,,E06000003,4.0
+2011,North East,Stockton-on-Tees,,E06000004,4.2
+2011,North East,Darlington,,E06000005,4.0
+2011,North West,Halton,,E06000006,4.9
+2011,North West,Warrington,,E06000007,4.9
+2011,North West,Blackburn with Darwen,,E06000008,4.5
+2011,North West,Blackpool,,E06000009,3.6
+2011,Yorkshire and the Humber,Kingston upon Hull,,E06000010,5.6
+2011,Yorkshire and the Humber,East Riding of Yorkshire,,E06000011,4.7
+2011,Yorkshire and the Humber,North East Lincolnshire,,E06000012,5.0
+2011,Yorkshire and the Humber,North Lincolnshire,,E06000013,5.2
+2011,Yorkshire and the Humber,York,,E06000014,4.5
+2011,East Midlands,Derby,,E06000015,5.6
+2011,East Midlands,Leicester,,E06000016,6.2
+2011,East Midlands,Rutland,,E06000017,4.9
+2011,East Midlands,Nottingham,,E06000018,5.9
+2011,West Midlands,Herefordshire,,E06000019,4.0
+2011,West Midlands,Telford and Wrekin,,E06000020,4.4
+2011,West Midlands,Stoke-on-Trent,,E06000021,5.2
+2011,South West,Bath and North East Somerset,,E06000022,4.7
+2011,South West,Bristol,,E06000023,5.3
+2011,South West,North Somerset,,E06000024,4.3
+2011,South West,South Gloucestershire,,E06000025,5.2
+2011,South West,Plymouth,,E06000026,4.3
+2011,South West,Torbay,,E06000027,3.9
+2011,South West,Bournemouth,,E06000028,4.9
+2011,South West,Poole,,E06000029,4.9
+2011,South West,Swindon,,E06000030,5.5
+2011,East of England,Peterborough,,E06000031,5.5
+2011,East of England,Luton,,E06000032,6.4
+2011,East of England,Southend-on-Sea,,E06000033,5.7
+2011,East of England,Thurrock,,E06000034,6.3
+2011,South East,Medway,,E06000035,5.8
+2011,South East,Bracknell Forest,,E06000036,5.7
+2011,South East,West Berkshire,,E06000037,5.6
+2011,South East,Reading,,E06000038,6.0
+2011,South East,Slough,,E06000039,6.8
+2011,South East,Windsor and Maidenhead,,E06000040,6.1
+2011,South East,Wokingham,,E06000041,5.9
+2011,South East,Milton Keynes,,E06000042,5.7
+2011,South East,Brighton and Hove,,E06000043,5.6
+2011,South East,Portsmouth,,E06000044,5.9
+2011,South East,Southampton,,E06000045,6.3
+2011,South East,Isle of Wight,,E06000046,4.6
+2011,North East,County Durham,,E06000047,3.8
+2011,North West,Cheshire East,,E06000049,4.5
+2011,North West,Cheshire West and Chester,,E06000050,4.2
+2011,West Midlands,Shropshire,,E06000051,3.8
+2011,South West,Cornwall,,E06000052,3.4
+2011,South West,Wiltshire,,E06000054,4.8
+2011,East of England,Bedford,,E06000055,5.6
+2011,East of England,Central Bedfordshire,,E06000056,5.6
+2011,North East,Northumberland,,E06000057,3.4
+2011,South East,Aylesbury Vale,,E07000004,5.5
+2011,South East,Chiltern,,E07000005,5.7
+2011,South East,South Bucks,,E07000006,6.4
+2011,South East,Wycombe,,E07000007,5.9
+2011,East of England,Cambridge,,E07000008,5.7
+2011,East of England,East Cambridgeshire,,E07000009,5.1
+2011,East of England,Fenland,,E07000010,5.2
+2011,East of England,Huntingdonshire,,E07000011,5.4
+2011,East of England,South Cambridgeshire,,E07000012,5.4
+2011,North West,Allerdale,,E07000026,2.7
+2011,North West,Barrow-in-Furness,,E07000027,3.4
+2011,North West,Carlisle,,E07000028,3.1
+2011,North West,Copeland,,E07000029,2.7
+2011,North West,Eden,,E07000030,3.0
+2011,North West,South Lakeland,,E07000031,3.1
+2011,East Midlands,Amber Valley,,E07000032,5.0
+2011,East Midlands,Bolsover,,E07000033,5.3
+2011,East Midlands,Chesterfield,,E07000034,4.9
+2011,East Midlands,Derbyshire Dales,,E07000035,4.3
+2011,East Midlands,Erewash,,E07000036,5.5
+2011,East Midlands,High Peak,,E07000037,4.4
+2011,East Midlands,North East Derbyshire,,E07000038,4.9
+2011,East Midlands,South Derbyshire,,E07000039,5.0
+2011,South West,East Devon,,E07000040,3.8
+2011,South West,Exeter,,E07000041,4.2
+2011,South West,Mid Devon,,E07000042,3.9
+2011,South West,North Devon,,E07000043,3.4
+2011,South West,South Hams,,E07000044,3.6
+2011,South West,Teignbridge,,E07000045,3.9
+2011,South West,Torridge,,E07000046,3.3
+2011,South West,West Devon,,E07000047,3.4
+2011,South West,Christchurch,,E07000048,4.6
+2011,South West,East Dorset,,E07000049,4.7
+2011,South West,North Dorset,,E07000050,4.5
+2011,South West,Purbeck,,E07000051,4.3
+2011,South West,West Dorset,,E07000052,4.1
+2011,South West,Weymouth and Portland,,E07000053,4.1
+2011,South East,Eastbourne,,E07000061,5.0
+2011,South East,Hastings,,E07000062,5.1
+2011,South East,Lewes,,E07000063,4.9
+2011,South East,Rother,,E07000064,4.8
+2011,South East,Wealden,,E07000065,4.9
+2011,East of England,Basildon,,E07000066,5.9
+2011,East of England,Braintree,,E07000067,5.4
+2011,East of England,Brentwood,,E07000068,5.9
+2011,East of England,Castle Point,,E07000069,5.7
+2011,East of England,Chelmsford,,E07000070,5.7
+2011,East of England,Colchester,,E07000071,5.4
+2011,East of England,Epping Forest,,E07000072,6.2
+2011,East of England,Harlow,,E07000073,6.1
+2011,East of England,Maldon,,E07000074,5.2
+2011,East of England,Rochford,,E07000075,5.6
+2011,East of England,Tendring,,E07000076,5.0
+2011,East of England,Uttlesford,,E07000077,5.5
+2011,South West,Cheltenham,,E07000078,5.1
+2011,South West,Cotswold,,E07000079,4.7
+2011,South West,Forest of Dean,,E07000080,4.2
+2011,South West,Gloucester,,E07000081,5.0
+2011,South West,Stroud,,E07000082,4.6
+2011,South West,Tewkesbury,,E07000083,4.8
+2011,South East,Basingstoke and Deane,,E07000084,5.6
+2011,South East,East Hampshire,,E07000085,5.2
+2011,South East,Eastleigh,,E07000086,5.8
+2011,South East,Fareham,,E07000087,5.6
+2011,South East,Gosport,,E07000088,5.3
+2011,South East,Hart,,E07000089,5.4
+2011,South East,Havant,,E07000090,5.4
+2011,South East,New Forest,,E07000091,4.8
+2011,South East,Rushmoor,,E07000092,5.9
+2011,South East,Test Valley,,E07000093,5.3
+2011,South East,Winchester,,E07000094,5.3
+2011,East of England,Broxbourne,,E07000095,6.2
+2011,East of England,Dacorum,,E07000096,5.8
+2011,East of England,Hertsmere,,E07000098,6.4
+2011,East of England,North Hertfordshire,,E07000099,5.7
+2011,East of England,Three Rivers,,E07000102,6.1
+2011,East of England,Watford,,E07000103,6.5
+2011,South East,Ashford,,E07000105,5.2
+2011,South East,Canterbury,,E07000106,5.0
+2011,South East,Dartford,,E07000107,6.5
+2011,South East,Dover,,E07000108,4.9
+2011,South East,Gravesham,,E07000109,5.9
+2011,South East,Maidstone,,E07000110,5.4
+2011,South East,Sevenoaks,,E07000111,5.7
+2011,South East,Shepway,,E07000112,4.9
+2011,South East,Swale,,E07000113,5.4
+2011,South East,Thanet,,E07000114,5.0
+2011,South East,Tonbridge and Malling,,E07000115,5.6
+2011,South East,Tunbridge Wells,,E07000116,5.1
+2011,North West,Burnley,,E07000117,4.5
+2011,North West,Chorley,,E07000118,4.4
+2011,North West,Fylde,,E07000119,3.6
+2011,North West,Hyndburn,,E07000120,4.6
+2011,North West,Lancaster,,E07000121,3.7
+2011,North West,Pendle,,E07000122,4.3
+2011,North West,Preston,,E07000123,4.4
+2011,North West,Ribble Valley,,E07000124,3.8
+2011,North West,Rossendale,,E07000125,4.3
+2011,North West,South Ribble,,E07000126,4.3
+2011,North West,West Lancashire,,E07000127,4.3
+2011,North West,Wyre,,E07000128,3.5
+2011,East Midlands,Blaby,,E07000129,5.6
+2011,East Midlands,Charnwood,,E07000130,5.4
+2011,East Midlands,Harborough,,E07000131,5.1
+2011,East Midlands,Hinckley and Bosworth,,E07000132,5.3
+2011,East Midlands,Melton,,E07000133,5.0
+2011,East Midlands,North West Leicestershire,,E07000134,5.1
+2011,East Midlands,Oadby and Wigston,,E07000135,5.5
+2011,East Midlands,Boston,,E07000136,5.0
+2011,East Midlands,East Lindsey,,E07000137,4.6
+2011,East Midlands,Lincoln,,E07000138,5.2
+2011,East Midlands,North Kesteven,,E07000139,5.0
+2011,East Midlands,South Holland,,E07000140,4.9
+2011,East Midlands,South Kesteven,,E07000141,5.1
+2011,East Midlands,West Lindsey,,E07000142,4.9
+2011,East of England,Breckland,,E07000143,4.8
+2011,East of England,Broadland,,E07000144,4.9
+2011,East of England,Great Yarmouth,,E07000145,4.8
+2011,East of England,King's Lynn and West Norfolk,,E07000146,4.8
+2011,East of England,North Norfolk,,E07000147,4.5
+2011,East of England,Norwich,,E07000148,5.2
+2011,East of England,South Norfolk,,E07000149,4.8
+2011,East Midlands,Corby,,E07000150,5.3
+2011,East Midlands,Daventry,,E07000151,5.2
+2011,East Midlands,East Northamptonshire,,E07000152,5.4
+2011,East Midlands,Kettering,,E07000153,5.5
+2011,East Midlands,Northampton,,E07000154,5.9
+2011,East Midlands,South Northamptonshire,,E07000155,5.2
+2011,East Midlands,Wellingborough,,E07000156,5.7
+2011,Yorkshire and the Humber,Craven,,E07000163,3.6
+2011,Yorkshire and the Humber,Hambleton,,E07000164,4.0
+2011,Yorkshire and the Humber,Harrogate,,E07000165,4.1
+2011,Yorkshire and the Humber,Richmondshire,,E07000166,3.6
+2011,Yorkshire and the Humber,Ryedale,,E07000167,4.0
+2011,Yorkshire and the Humber,Scarborough,,E07000168,3.9
+2011,Yorkshire and the Humber,Selby,,E07000169,4.9
+2011,East Midlands,Ashfield,,E07000170,5.4
+2011,East Midlands,Bassetlaw,,E07000171,5.0
+2011,East Midlands,Broxtowe,,E07000172,5.6
+2011,East Midlands,Gedling,,E07000173,5.5
+2011,East Midlands,Mansfield,,E07000174,5.3
+2011,East Midlands,Newark and Sherwood,,E07000175,5.1
+2011,East Midlands,Rushcliffe,,E07000176,5.2
+2011,South East,Cherwell,,E07000177,5.4
+2011,South East,Oxford,,E07000178,5.9
+2011,South East,South Oxfordshire,,E07000179,5.5
+2011,South East,Vale of White Horse,,E07000180,5.5
+2011,South East,West Oxfordshire,,E07000181,5.1
+2011,South West,Mendip,,E07000187,4.3
+2011,South West,Sedgemoor,,E07000188,5.2
+2011,South West,South Somerset,,E07000189,5.4
+2011,South West,Taunton Deane,,E07000190,5.3
+2011,South West,West Somerset,,E07000191,3.4
+2011,West Midlands,Cannock Chase,,E07000192,5.0
+2011,West Midlands,East Staffordshire,,E07000193,4.9
+2011,West Midlands,Lichfield,,E07000194,5.1
+2011,West Midlands,Newcastle-under-Lyme,,E07000195,4.8
+2011,West Midlands,South Staffordshire,,E07000196,4.9
+2011,West Midlands,Stafford,,E07000197,4.7
+2011,West Midlands,Staffordshire Moorlands,,E07000198,4.4
+2011,West Midlands,Tamworth,,E07000199,5.4
+2011,East of England,Babergh,,E07000200,5.2
+2011,East of England,Forest Heath,,E07000201,5.1
+2011,East of England,Ipswich,,E07000202,5.5
+2011,East of England,Mid Suffolk,,E07000203,5.1
+2011,East of England,St. Edmundsbury,,E07000204,5.3
+2011,East of England,Suffolk Coastal,,E07000205,5.0
+2011,East of England,Waveney,,E07000206,4.7
+2011,South East,Elmbridge,,E07000207,6.1
+2011,South East,Epsom and Ewell,,E07000208,6.0
+2011,South East,Guildford,,E07000209,5.7
+2011,South East,Mole Valley,,E07000210,5.6
+2011,South East,Reigate and Banstead,,E07000211,5.8
+2011,South East,Runnymede,,E07000212,6.4
+2011,South East,Spelthorne,,E07000213,6.4
+2011,South East,Surrey Heath,,E07000214,6.0
+2011,South East,Tandridge,,E07000215,5.6
+2011,South East,Waverley,,E07000216,5.2
+2011,South East,Woking,,E07000217,5.7
+2011,West Midlands,North Warwickshire,,E07000218,5.5
+2011,West Midlands,Nuneaton and Bedworth,,E07000219,5.5
+2011,West Midlands,Rugby,,E07000220,5.2
+2011,West Midlands,Stratford-on-Avon,,E07000221,4.9
+2011,West Midlands,Warwick,,E07000222,5.3
+2011,South East,Adur,,E07000223,5.3
+2011,South East,Arun,,E07000224,4.9
+2011,South East,Chichester,,E07000225,5.1
+2011,South East,Crawley,,E07000226,5.7
+2011,South East,Horsham,,E07000227,5.2
+2011,South East,Mid Sussex,,E07000228,5.3
+2011,South East,Worthing,,E07000229,5.2
+2011,West Midlands,Bromsgrove,,E07000234,5.1
+2011,West Midlands,Malvern Hills,,E07000235,4.3
+2011,West Midlands,Redditch,,E07000236,5.0
+2011,West Midlands,Worcester,,E07000237,5.0
+2011,West Midlands,Wychavon,,E07000238,4.7
+2011,West Midlands,Wyre Forest,,E07000239,4.6
+2011,East of England,St Albans,,E07000240,6.1
+2011,East of England,Welwyn Hatfield,,E07000241,6.1
+2011,East of England,East Hertfordshire,,E07000242,5.8
+2011,East of England,Stevenage,,E07000243,6.0
+2011,North West,Bolton,,E08000001,5.0
+2011,North West,Bury,,E08000002,5.2
+2011,North West,Manchester,,E08000003,5.4
+2011,North West,Oldham,,E08000004,5.3
+2011,North West,Rochdale,,E08000005,5.2
+2011,North West,Salford,,E08000006,5.5
+2011,North West,Stockport,,E08000007,5.2
+2011,North West,Tameside,,E08000008,5.4
+2011,North West,Trafford,,E08000009,5.1
+2011,North West,Wigan,,E08000010,4.8
+2011,North West,Knowsley,,E08000011,4.9
+2011,North West,Liverpool,,E08000012,4.7
+2011,North West,St. Helens,,E08000013,4.9
+2011,North West,Sefton,,E08000014,4.1
+2011,North West,Wirral,,E08000015,4.0
+2011,Yorkshire and the Humber,Barnsley,,E08000016,5.1
+2011,Yorkshire and the Humber,Doncaster,,E08000017,5.3
+2011,Yorkshire and the Humber,Rotherham,,E08000018,5.4
+2011,Yorkshire and the Humber,Sheffield,,E08000019,5.1
+2011,North East,Newcastle upon Tyne,,E08000021,4.3
+2011,North East,North Tyneside,,E08000022,4.3
+2011,North East,South Tyneside,,E08000023,4.4
+2011,North East,Sunderland,,E08000024,4.3
+2011,West Midlands,Birmingham,,E08000025,5.9
+2011,West Midlands,Coventry,,E08000026,5.8
+2011,West Midlands,Dudley,,E08000027,5.3
+2011,West Midlands,Sandwell,,E08000028,6.2
+2011,West Midlands,Solihull,,E08000029,5.6
+2011,West Midlands,Walsall,,E08000030,6.0
+2011,West Midlands,Wolverhampton,,E08000031,5.4
+2011,Yorkshire and the Humber,Bradford,,E08000032,4.9
+2011,Yorkshire and the Humber,Calderdale,,E08000033,4.7
+2011,Yorkshire and the Humber,Kirklees,,E08000034,5.0
+2011,Yorkshire and the Humber,Leeds,,E08000035,5.2
+2011,Yorkshire and the Humber,Wakefield,,E08000036,5.3
+2011,North East,Gateshead,,E08000037,4.2
+2011,London,City of London,,E09000001,8.9
+2011,London,Barking and Dagenham,,E09000002,7.0
+2011,London,Barnet,,E09000003,7.0
+2011,London,Bexley,,E09000004,6.5
+2011,London,Brent,,E09000005,7.5
+2011,London,Bromley,,E09000006,6.1
+2011,London,Camden,,E09000007,7.9
+2011,London,Croydon,,E09000008,6.4
+2011,London,Ealing,,E09000009,7.3
+2011,London,Enfield,,E09000010,6.9
+2011,London,Greenwich,,E09000011,6.9
+2011,London,Hackney,,E09000012,8.0
+2011,London,Hammersmith and Fulham,,E09000013,7.9
+2011,London,Haringey,,E09000014,7.3
+2011,London,Harrow,,E09000015,6.7
+2011,London,Havering,,E09000016,6.3
+2011,London,Hillingdon,,E09000017,6.9
+2011,London,Hounslow,,E09000018,7.1
+2011,London,Islington,,E09000019,8.1
+2011,London,Kensington and Chelsea,,E09000020,8.3
+2011,London,Kingston upon Thames,,E09000021,6.7
+2011,London,Lambeth,,E09000022,7.5
+2011,London,Lewisham,,E09000023,7.0
+2011,London,Merton,,E09000024,6.8
+2011,London,Newham,,E09000025,7.6
+2011,London,Redbridge,,E09000026,7.1
+2011,London,Richmond upon Thames,,E09000027,6.8
+2011,London,Southwark,,E09000028,7.7
+2011,London,Sutton,,E09000029,6.4
+2011,London,Tower Hamlets,,E09000030,8.1
+2011,London,Waltham Forest,,E09000031,7.4
+2011,London,Wandsworth,,E09000032,7.2
+2011,London,Westminster,,E09000033,8.3
+2012,,,,E92000001,5.1
+2012,North East,,,E12000001,4.1
+2012,North West,,,E12000002,4.4
+2012,Yorkshire and the Humber,,,E12000003,4.9
+2012,East Midlands,,,E12000004,5.2
+2012,West Midlands,,,E12000005,5.1
+2012,East of England,,,E12000006,5.3
+2012,London,,,E12000007,6.6
+2012,South East,,,E12000008,5.1
+2012,South West,,,E12000009,4.2
+2012,North East,Hartlepool,,E06000001,4.2
+2012,North East,Middlesbrough,,E06000002,4.4
+2012,North East,Redcar and Cleveland,,E06000003,4.1
+2012,North East,Stockton-on-Tees,,E06000004,4.2
+2012,North East,Darlington,,E06000005,4.1
+2012,North West,Halton,,E06000006,4.8
+2012,North West,Warrington,,E06000007,4.7
+2012,North West,Blackburn with Darwen,,E06000008,4.3
+2012,North West,Blackpool,,E06000009,3.4
+2012,Yorkshire and the Humber,Kingston upon Hull,,E06000010,5.4
+2012,Yorkshire and the Humber,East Riding of Yorkshire,,E06000011,4.9
+2012,Yorkshire and the Humber,North East Lincolnshire,,E06000012,5.0
+2012,Yorkshire and the Humber,North Lincolnshire,,E06000013,5.4
+2012,Yorkshire and the Humber,York,,E06000014,4.5
+2012,East Midlands,Derby,,E06000015,5.5
+2012,East Midlands,Leicester,,E06000016,5.9
+2012,East Midlands,Rutland,,E06000017,4.9
+2012,East Midlands,Nottingham,,E06000018,5.8
+2012,West Midlands,Herefordshire,,E06000019,4.1
+2012,West Midlands,Telford and Wrekin,,E06000020,4.4
+2012,West Midlands,Stoke-on-Trent,,E06000021,4.9
+2012,South West,Bath and North East Somerset,,E06000022,4.4
+2012,South West,Bristol,,E06000023,5.2
+2012,South West,North Somerset,,E06000024,4.1
+2012,South West,South Gloucestershire,,E06000025,5.0
+2012,South West,Plymouth,,E06000026,4.0
+2012,South West,Torbay,,E06000027,3.6
+2012,South West,Bournemouth,,E06000028,4.4
+2012,South West,Poole,,E06000029,4.4
+2012,South West,Swindon,,E06000030,5.2
+2012,East of England,Peterborough,,E06000031,5.4
+2012,East of England,Luton,,E06000032,5.8
+2012,East of England,Southend-on-Sea,,E06000033,5.3
+2012,East of England,Thurrock,,E06000034,5.9
+2012,South East,Medway,,E06000035,5.5
+2012,South East,Bracknell Forest,,E06000036,5.0
+2012,South East,West Berkshire,,E06000037,5.2
+2012,South East,Reading,,E06000038,5.7
+2012,South East,Slough,,E06000039,6.4
+2012,South East,Windsor and Maidenhead,,E06000040,5.6
+2012,South East,Wokingham,,E06000041,5.3
+2012,South East,Milton Keynes,,E06000042,5.3
+2012,South East,Brighton and Hove,,E06000043,5.0
+2012,South East,Portsmouth,,E06000044,5.3
+2012,South East,Southampton,,E06000045,5.7
+2012,South East,Isle of Wight,,E06000046,4.1
+2012,North East,County Durham,,E06000047,3.9
+2012,North West,Cheshire East,,E06000049,4.3
+2012,North West,Cheshire West and Chester,,E06000050,4.2
+2012,West Midlands,Shropshire,,E06000051,3.9
+2012,South West,Cornwall,,E06000052,3.3
+2012,South West,Isles of Scilly,,E06000053,3.3
+2012,South West,Wiltshire,,E06000054,4.5
+2012,East of England,Bedford,,E06000055,5.2
+2012,East of England,Central Bedfordshire,,E06000056,5.2
+2012,North East,Northumberland,,E06000057,3.6
+2012,South East,Aylesbury Vale,,E07000004,5.0
+2012,South East,Chiltern,,E07000005,5.1
+2012,South East,South Bucks,,E07000006,5.9
+2012,South East,Wycombe,,E07000007,5.3
+2012,East of England,Cambridge,,E07000008,5.364171123
+2012,East of England,East Cambridgeshire,,E07000009,5.062277534
+2012,East of England,Fenland,,E07000010,5.15439456
+2012,East of England,Huntingdonshire,,E07000011,5.265523588
+2012,East of England,South Cambridgeshire,,E07000012,5.272368233
+2012,North West,Allerdale,,E07000026,2.652538073
+2012,North West,Barrow-in-Furness,,E07000027,3.32870301
+2012,North West,Carlisle,,E07000028,3.057491961
+2012,North West,Copeland,,E07000029,2.7829709339999997
+2012,North West,Eden,,E07000030,2.9644126539999998
+2012,North West,South Lakeland,,E07000031,3.07963247
+2012,East Midlands,Amber Valley,,E07000032,4.781006247
+2012,East Midlands,Bolsover,,E07000033,5.232507791000001
+2012,East Midlands,Chesterfield,,E07000034,4.703909071
+2012,East Midlands,Derbyshire Dales,,E07000035,4.028080409
+2012,East Midlands,Erewash,,E07000036,5.390911827999999
+2012,East Midlands,High Peak,,E07000037,4.095833691
+2012,East Midlands,North East Derbyshire,,E07000038,4.760197824
+2012,East Midlands,South Derbyshire,,E07000039,4.941549718
+2012,South West,East Devon,,E07000040,3.58067304
+2012,South West,Exeter,,E07000041,3.9547948980000003
+2012,South West,Mid Devon,,E07000042,3.77817666
+2012,South West,North Devon,,E07000043,3.2520084139999996
+2012,South West,South Hams,,E07000044,3.358552935
+2012,South West,Teignbridge,,E07000045,3.602357042
+2012,South West,Torridge,,E07000046,3.243157291
+2012,South West,West Devon,,E07000047,3.156181565
+2012,South West,Christchurch,,E07000048,4.140640834
+2012,South West,East Dorset,,E07000049,4.238395166
+2012,South West,North Dorset,,E07000050,4.330586907
+2012,South West,Purbeck,,E07000051,3.8235245030000002
+2012,South West,West Dorset,,E07000052,3.872827925
+2012,South West,Weymouth and Portland,,E07000053,3.690166676
+2012,South East,Eastbourne,,E07000061,4.488661961
+2012,South East,Hastings,,E07000062,4.6723639519999995
+2012,South East,Lewes,,E07000063,4.4314888
+2012,South East,Rother,,E07000064,4.431433113
+2012,South East,Wealden,,E07000065,4.504855731
+2012,East of England,Basildon,,E07000066,5.514592562000001
+2012,East of England,Braintree,,E07000067,5.292292167
+2012,East of England,Brentwood,,E07000068,5.591198906
+2012,East of England,Castle Point,,E07000069,5.23587615
+2012,East of England,Chelmsford,,E07000070,5.429989282
+2012,East of England,Colchester,,E07000071,5.161799847
+2012,East of England,Epping Forest,,E07000072,5.747136125
+2012,East of England,Harlow,,E07000073,5.5969748820000005
+2012,East of England,Maldon,,E07000074,5.058571077
+2012,East of England,Rochford,,E07000075,5.191801924
+2012,East of England,Tendring,,E07000076,4.755980096
+2012,East of England,Uttlesford,,E07000077,5.3093428419999995
+2012,South West,Cheltenham,,E07000078,4.786498913
+2012,South West,Cotswold,,E07000079,4.471741825
+2012,South West,Forest of Dean,,E07000080,4.089239352
+2012,South West,Gloucester,,E07000081,4.788607123999999
+2012,South West,Stroud,,E07000082,4.310516413
+2012,South West,Tewkesbury,,E07000083,4.7049640969999995
+2012,South East,Basingstoke and Deane,,E07000084,5.23764311
+2012,South East,East Hampshire,,E07000085,4.7361098639999994
+2012,South East,Eastleigh,,E07000086,5.246256569
+2012,South East,Fareham,,E07000087,5.087555031
+2012,South East,Gosport,,E07000088,4.710794293
+2012,South East,Hart,,E07000089,4.849115085
+2012,South East,Havant,,E07000090,4.875502475
+2012,South East,New Forest,,E07000091,4.320663689
+2012,South East,Rushmoor,,E07000092,5.239354821
+2012,South East,Test Valley,,E07000093,4.9136293
+2012,South East,Winchester,,E07000094,4.8468973239999995
+2012,East of England,Broxbourne,,E07000095,5.624804631
+2012,East of England,Dacorum,,E07000096,5.213344519
+2012,East of England,Hertsmere,,E07000098,5.762732147
+2012,East of England,North Hertfordshire,,E07000099,5.349226119
+2012,East of England,Three Rivers,,E07000102,5.468609937999999
+2012,East of England,Watford,,E07000103,5.7945202689999995
+2012,South East,Ashford,,E07000105,4.95855278
+2012,South East,Canterbury,,E07000106,4.837526712
+2012,South East,Dartford,,E07000107,6.0004162910000005
+2012,South East,Dover,,E07000108,4.67297496
+2012,South East,Gravesham,,E07000109,5.518886802000001
+2012,South East,Maidstone,,E07000110,5.123551397
+2012,South East,Sevenoaks,,E07000111,5.21544328
+2012,South East,Shepway,,E07000112,4.632251033
+2012,South East,Swale,,E07000113,5.112659928999999
+2012,South East,Thanet,,E07000114,4.722453615
+2012,South East,Tonbridge and Malling,,E07000115,5.220800431
+2012,South East,Tunbridge Wells,,E07000116,4.710738769
+2012,North West,Burnley,,E07000117,4.181574688
+2012,North West,Chorley,,E07000118,4.353718501
+2012,North West,Fylde,,E07000119,3.486802618
+2012,North West,Hyndburn,,E07000120,4.314865378
+2012,North West,Lancaster,,E07000121,3.5676378210000004
+2012,North West,Pendle,,E07000122,3.973149498
+2012,North West,Preston,,E07000123,4.222881721
+2012,North West,Ribble Valley,,E07000124,3.630381724
+2012,North West,Rossendale,,E07000125,4.059167888
+2012,North West,South Ribble,,E07000126,4.229020435
+2012,North West,West Lancashire,,E07000127,4.384923355
+2012,North West,Wyre,,E07000128,3.3308435010000004
+2012,East Midlands,Blaby,,E07000129,5.370788084
+2012,East Midlands,Charnwood,,E07000130,5.35391392
+2012,East Midlands,Harborough,,E07000131,4.960823317
+2012,East Midlands,Hinckley and Bosworth,,E07000132,5.143340816
+2012,East Midlands,Melton,,E07000133,5.016738936
+2012,East Midlands,North West Leicestershire,,E07000134,5.094025431
+2012,East Midlands,Oadby and Wigston,,E07000135,5.277280617
+2012,East Midlands,Boston,,E07000136,5.174730083
+2012,East Midlands,East Lindsey,,E07000137,4.790382424
+2012,East Midlands,Lincoln,,E07000138,5.217818137
+2012,East Midlands,North Kesteven,,E07000139,5.333396179
+2012,East Midlands,South Holland,,E07000140,5.099942419
+2012,East Midlands,South Kesteven,,E07000141,5.166331156
+2012,East Midlands,West Lindsey,,E07000142,5.134331062
+2012,East of England,Breckland,,E07000143,4.7758461819999996
+2012,East of England,Broadland,,E07000144,4.837194011
+2012,East of England,Great Yarmouth,,E07000145,4.6537541
+2012,East of England,King's Lynn and West Norfolk,,E07000146,4.8788280969999995
+2012,East of England,North Norfolk,,E07000147,4.575052619
+2012,East of England,Norwich,,E07000148,5.037933977
+2012,East of England,South Norfolk,,E07000149,4.868407425
+2012,East Midlands,Corby,,E07000150,5.113323404
+2012,East Midlands,Daventry,,E07000151,4.922715415
+2012,East Midlands,East Northamptonshire,,E07000152,5.182686275
+2012,East Midlands,Kettering,,E07000153,5.306915102
+2012,East Midlands,Northampton,,E07000154,5.658893139
+2012,East Midlands,South Northamptonshire,,E07000155,5.000576614
+2012,East Midlands,Wellingborough,,E07000156,5.518721642999999
+2012,Yorkshire and the Humber,Craven,,E07000163,3.41327262
+2012,Yorkshire and the Humber,Hambleton,,E07000164,4.27382113
+2012,Yorkshire and the Humber,Harrogate,,E07000165,4.053856892
+2012,Yorkshire and the Humber,Richmondshire,,E07000166,3.6394220180000003
+2012,Yorkshire and the Humber,Ryedale,,E07000167,4.263613102
+2012,Yorkshire and the Humber,Scarborough,,E07000168,4.06252205
+2012,Yorkshire and the Humber,Selby,,E07000169,5.237808761
+2012,East Midlands,Ashfield,,E07000170,5.175282618
+2012,East Midlands,Bassetlaw,,E07000171,5.086725461
+2012,East Midlands,Broxtowe,,E07000172,5.447345737000001
+2012,East Midlands,Gedling,,E07000173,5.264750775
+2012,East Midlands,Mansfield,,E07000174,5.091979284
+2012,East Midlands,Newark and Sherwood,,E07000175,5.267621193
+2012,East Midlands,Rushcliffe,,E07000176,5.295382485
+2012,South East,Cherwell,,E07000177,5.154228763
+2012,South East,Oxford,,E07000178,5.461393867000001
+2012,South East,South Oxfordshire,,E07000179,5.0820797330000005
+2012,South East,Vale of White Horse,,E07000180,5.100329498
+2012,South East,West Oxfordshire,,E07000181,4.825437815
+2012,South West,Mendip,,E07000187,4.080185368
+2012,South West,Sedgemoor,,E07000188,4.072304353
+2012,South West,South Somerset,,E07000189,4.24838271
+2012,South West,Taunton Deane,,E07000190,4.221319076
+2012,South West,West Somerset,,E07000191,3.2529667669999998
+2012,West Midlands,Cannock Chase,,E07000192,4.846786434
+2012,West Midlands,East Staffordshire,,E07000193,4.801699183
+2012,West Midlands,Lichfield,,E07000194,4.963204554
+2012,West Midlands,Newcastle-under-Lyme,,E07000195,4.615300755
+2012,West Midlands,South Staffordshire,,E07000196,4.840410076
+2012,West Midlands,Stafford,,E07000197,4.6111321919999995
+2012,West Midlands,Staffordshire Moorlands,,E07000198,4.2125008180000005
+2012,West Midlands,Tamworth,,E07000199,5.192741062
+2012,East of England,Babergh,,E07000200,5.155057743
+2012,East of England,Forest Heath,,E07000201,4.997421319
+2012,East of England,Ipswich,,E07000202,5.203954759
+2012,East of England,Mid Suffolk,,E07000203,5.157323586
+2012,East of England,St. Edmundsbury,,E07000204,5.204341415
+2012,East of England,Suffolk Coastal,,E07000205,4.876666456000001
+2012,East of England,Waveney,,E07000206,4.516150791
+2012,South East,Elmbridge,,E07000207,5.460071779
+2012,South East,Epsom and Ewell,,E07000208,5.3490055110000005
+2012,South East,Guildford,,E07000209,5.1511891069999995
+2012,South East,Mole Valley,,E07000210,5.050493819
+2012,South East,Reigate and Banstead,,E07000211,5.183294012
+2012,South East,Runnymede,,E07000212,5.710991761
+2012,South East,Spelthorne,,E07000213,5.702365602
+2012,South East,Surrey Heath,,E07000214,5.326224952
+2012,South East,Tandridge,,E07000215,5.0553623860000005
+2012,South East,Waverley,,E07000216,4.666031455
+2012,South East,Woking,,E07000217,5.076991294
+2012,West Midlands,North Warwickshire,,E07000218,5.2631499260000005
+2012,West Midlands,Nuneaton and Bedworth,,E07000219,5.2018557439999995
+2012,West Midlands,Rugby,,E07000220,4.959051196
+2012,West Midlands,Stratford-on-Avon,,E07000221,4.78550027
+2012,West Midlands,Warwick,,E07000222,5.106467267
+2012,South East,Adur,,E07000223,4.747433074
+2012,South East,Arun,,E07000224,4.4505874389999995
+2012,South East,Chichester,,E07000225,4.7020211
+2012,South East,Crawley,,E07000226,5.131788277
+2012,South East,Horsham,,E07000227,4.757034545
+2012,South East,Mid Sussex,,E07000228,4.786110553
+2012,South East,Worthing,,E07000229,4.688859797
+2012,West Midlands,Bromsgrove,,E07000234,5.005281683
+2012,West Midlands,Malvern Hills,,E07000235,4.3285243
+2012,West Midlands,Redditch,,E07000236,4.874837336000001
+2012,West Midlands,Worcester,,E07000237,4.916842782
+2012,West Midlands,Wychavon,,E07000238,4.754759139
+2012,West Midlands,Wyre Forest,,E07000239,4.581891552
+2012,East of England,St Albans,,E07000240,5.536502156
+2012,East of England,Welwyn Hatfield,,E07000241,5.614630675
+2012,East of England,East Hertfordshire,,E07000242,5.340125606
+2012,East of England,Stevenage,,E07000243,5.466571867000001
+2012,North West,Bolton,,E08000001,4.7
+2012,North West,Bury,,E08000002,4.8
+2012,North West,Manchester,,E08000003,5.1
+2012,North West,Oldham,,E08000004,5.0
+2012,North West,Rochdale,,E08000005,4.8
+2012,North West,Salford,,E08000006,5.2
+2012,North West,Stockport,,E08000007,4.8
+2012,North West,Tameside,,E08000008,5.0
+2012,North West,Trafford,,E08000009,4.8
+2012,North West,Wigan,,E08000010,4.6
+2012,North West,Knowsley,,E08000011,4.8
+2012,North West,Liverpool,,E08000012,4.5
+2012,North West,St. Helens,,E08000013,4.8
+2012,North West,Sefton,,E08000014,4.0
+2012,North West,Wirral,,E08000015,3.9
+2012,Yorkshire and the Humber,Barnsley,,E08000016,5.0
+2012,Yorkshire and the Humber,Doncaster,,E08000017,5.3
+2012,Yorkshire and the Humber,Rotherham,,E08000018,5.2
+2012,Yorkshire and the Humber,Sheffield,,E08000019,4.7
+2012,North East,Newcastle upon Tyne,,E08000021,4.2
+2012,North East,North Tyneside,,E08000022,4.3
+2012,North East,South Tyneside,,E08000023,4.4
+2012,North East,Sunderland,,E08000024,4.4
+2012,West Midlands,Birmingham,,E08000025,5.7
+2012,West Midlands,Coventry,,E08000026,5.5
+2012,West Midlands,Dudley,,E08000027,5.2
+2012,West Midlands,Sandwell,,E08000028,6.0
+2012,West Midlands,Solihull,,E08000029,5.4
+2012,West Midlands,Walsall,,E08000030,5.8
+2012,West Midlands,Wolverhampton,,E08000031,5.3
+2012,Yorkshire and the Humber,Bradford,,E08000032,4.7
+2012,Yorkshire and the Humber,Calderdale,,E08000033,4.4
+2012,Yorkshire and the Humber,Kirklees,,E08000034,4.7
+2012,Yorkshire and the Humber,Leeds,,E08000035,5.0
+2012,Yorkshire and the Humber,Wakefield,,E08000036,5.4
+2012,North East,Gateshead,,E08000037,4.2
+2012,London,City of London,,E09000001,8.3
+2012,London,Barking and Dagenham,,E09000002,6.5
+2012,London,Barnet,,E09000003,6.4
+2012,London,Bexley,,E09000004,6.0
+2012,London,Brent,,E09000005,6.9
+2012,London,Bromley,,E09000006,5.6
+2012,London,Camden,,E09000007,7.3
+2012,London,Croydon,,E09000008,5.9
+2012,London,Ealing,,E09000009,6.8
+2012,London,Enfield,,E09000010,6.3
+2012,London,Greenwich,,E09000011,6.5
+2012,London,Hackney,,E09000012,7.3
+2012,London,Hammersmith and Fulham,,E09000013,7.2
+2012,London,Haringey,,E09000014,6.7
+2012,London,Harrow,,E09000015,6.1
+2012,London,Havering,,E09000016,5.9
+2012,London,Hillingdon,,E09000017,6.2
+2012,London,Hounslow,,E09000018,6.5
+2012,London,Islington,,E09000019,7.4
+2012,London,Kensington and Chelsea,,E09000020,7.6
+2012,London,Kingston upon Thames,,E09000021,6.1
+2012,London,Lambeth,,E09000022,6.9
+2012,London,Lewisham,,E09000023,6.5
+2012,London,Merton,,E09000024,6.2
+2012,London,Newham,,E09000025,6.9
+2012,London,Redbridge,,E09000026,6.6
+2012,London,Richmond upon Thames,,E09000027,6.1
+2012,London,Southwark,,E09000028,7.1
+2012,London,Sutton,,E09000029,5.8
+2012,London,Tower Hamlets,,E09000030,7.4
+2012,London,Waltham Forest,,E09000031,6.8
+2012,London,Wandsworth,,E09000032,6.6
+2012,London,Westminster,,E09000033,7.7
+2013,,,,E92000001,5.325149221
+2013,North East,,,E12000001,4.2192206269999994
+2013,North West,,,E12000002,4.57081001
+2013,Yorkshire and the Humber,,,E12000003,5.088025118
+2013,East Midlands,,,E12000004,5.636813987999999
+2013,West Midlands,,,E12000005,5.354895572
+2013,East of England,,,E12000006,5.553178667
+2013,London,,,E12000007,6.719710912
+2013,South East,,,E12000008,5.229774362
+2013,South West,,,E12000009,4.531894876
+2013,North East,Hartlepool,,E06000001,4.134446181
+2013,North East,Middlesbrough,,E06000002,4.390672852
+2013,North East,Redcar and Cleveland,,E06000003,4.183914035
+2013,North East,Stockton-on-Tees,,E06000004,4.1799946189999995
+2013,North East,Darlington,,E06000005,4.012974745
+2013,North West,Halton,,E06000006,4.799946283
+2013,North West,Warrington,,E06000007,4.773737688
+2013,North West,Blackburn with Darwen,,E06000008,4.4630690930000005
+2013,North West,Blackpool,,E06000009,3.8485211360000005
+2013,Yorkshire and the Humber,Kingston upon Hull,,E06000010,5.711041207999999
+2013,Yorkshire and the Humber,East Riding of Yorkshire,,E06000011,5.220336525
+2013,Yorkshire and the Humber,North East Lincolnshire,,E06000012,5.410160456
+2013,Yorkshire and the Humber,North Lincolnshire,,E06000013,5.635362389
+2013,Yorkshire and the Humber,York,,E06000014,4.608403074
+2013,East Midlands,Derby,,E06000015,5.659629754
+2013,East Midlands,Leicester,,E06000016,6.016967093
+2013,East Midlands,Rutland,,E06000017,5.227372193
+2013,East Midlands,Nottingham,,E06000018,5.970396152
+2013,West Midlands,Herefordshire,,E06000019,4.593772338
+2013,West Midlands,Telford and Wrekin,,E06000020,4.63110629
+2013,West Midlands,Stoke-on-Trent,,E06000021,5.1540077
+2013,South West,Bath and North East Somerset,,E06000022,4.7764176869999995
+2013,South West,Bristol,,E06000023,5.266809757
+2013,South West,North Somerset,,E06000024,4.445737971000001
+2013,South West,South Gloucestershire,,E06000025,5.2929874969999995
+2013,South West,Plymouth,,E06000026,4.231531614
+2013,South West,Torbay,,E06000027,3.911356632
+2013,South West,Bournemouth,,E06000028,4.727960761
+2013,South West,Poole,,E06000029,4.736392961
+2013,South West,Swindon,,E06000030,5.416570284
+2013,East of England,Peterborough,,E06000031,5.58103233
+2013,East of England,Luton,,E06000032,5.864317666
+2013,East of England,Southend-on-Sea,,E06000033,5.591765518
+2013,East of England,Thurrock,,E06000034,6.066662223
+2013,South East,Medway,,E06000035,5.751622992000001
+2013,South East,Bracknell Forest,,E06000036,5.094871527
+2013,South East,West Berkshire,,E06000037,5.179421002
+2013,South East,Reading,,E06000038,5.725445677000001
+2013,South East,Slough,,E06000039,6.384423239
+2013,South East,Windsor and Maidenhead,,E06000040,5.53028211
+2013,South East,Wokingham,,E06000041,5.373776593
+2013,South East,Milton Keynes,,E06000042,5.426842739
+2013,South East,Brighton and Hove,,E06000043,5.060889013
+2013,South East,Portsmouth,,E06000044,5.422726176
+2013,South East,Southampton,,E06000045,5.6008858429999995
+2013,South East,Isle of Wight,,E06000046,4.427083878
+2013,North East,County Durham,,E06000047,4.285807201
+2013,North West,Cheshire East,,E06000049,4.594600657
+2013,North West,Cheshire West and Chester,,E06000050,4.434946883
+2013,West Midlands,Shropshire,,E06000051,4.209888672
+2013,South West,Cornwall,,E06000052,3.700867915
+2013,South West,Isles of Scilly,,E06000053,2.789060328
+2013,South West,Wiltshire,,E06000054,4.809292861
+2013,East of England,Bedford,,E06000055,5.41784338
+2013,East of England,Central Bedfordshire,,E06000056,5.401038241
+2013,North East,Northumberland,,E06000057,3.827279175
+2013,South East,Aylesbury Vale,,E07000004,5.099206963
+2013,South East,Chiltern,,E07000005,5.1459827780000005
+2013,South East,South Bucks,,E07000006,5.821880209
+2013,South East,Wycombe,,E07000007,5.289036187
+2013,East of England,Cambridge,,E07000008,5.554108723
+2013,East of England,East Cambridgeshire,,E07000009,5.4709619279999995
+2013,East of England,Fenland,,E07000010,5.706019454
+2013,East of England,Huntingdonshire,,E07000011,5.538599266
+2013,East of England,South Cambridgeshire,,E07000012,5.476194481
+2013,North West,Allerdale,,E07000026,3.278979612
+2013,North West,Barrow-in-Furness,,E07000027,3.784534494
+2013,North West,Carlisle,,E07000028,3.468563175
+2013,North West,Copeland,,E07000029,3.386834271
+2013,North West,Eden,,E07000030,3.512426502
+2013,North West,South Lakeland,,E07000031,3.5998799189999997
+2013,East Midlands,Amber Valley,,E07000032,5.314087792
+2013,East Midlands,Bolsover,,E07000033,6.234332103
+2013,East Midlands,Chesterfield,,E07000034,5.363167511
+2013,East Midlands,Derbyshire Dales,,E07000035,4.483964697
+2013,East Midlands,Erewash,,E07000036,5.671332377000001
+2013,East Midlands,High Peak,,E07000037,4.352765478999999
+2013,East Midlands,North East Derbyshire,,E07000038,6.142093589
+2013,East Midlands,South Derbyshire,,E07000039,5.394781712
+2013,South West,East Devon,,E07000040,3.9434670169999997
+2013,South West,Exeter,,E07000041,4.174517219
+2013,South West,Mid Devon,,E07000042,4.218450441
+2013,South West,North Devon,,E07000043,3.65811196
+2013,South West,South Hams,,E07000044,3.668216156
+2013,South West,Teignbridge,,E07000045,3.96455461
+2013,South West,Torridge,,E07000046,3.6273044619999997
+2013,South West,West Devon,,E07000047,3.571284489
+2013,South West,Christchurch,,E07000048,4.422450417
+2013,South West,East Dorset,,E07000049,4.547580746
+2013,South West,North Dorset,,E07000050,4.639974915
+2013,South West,Purbeck,,E07000051,4.1846342519999995
+2013,South West,West Dorset,,E07000052,4.251674465
+2013,South West,Weymouth and Portland,,E07000053,3.983422065
+2013,South East,Eastbourne,,E07000061,4.69835611
+2013,South East,Hastings,,E07000062,4.996114886
+2013,South East,Lewes,,E07000063,4.548098002
+2013,South East,Rother,,E07000064,4.7292597789999995
+2013,South East,Wealden,,E07000065,4.683505903
+2013,East of England,Basildon,,E07000066,5.8329262129999995
+2013,East of England,Braintree,,E07000067,5.660322387999999
+2013,East of England,Brentwood,,E07000068,5.803588075
+2013,East of England,Castle Point,,E07000069,5.586242287
+2013,East of England,Chelmsford,,E07000070,5.74682308
+2013,East of England,Colchester,,E07000071,5.581252397999999
+2013,East of England,Epping Forest,,E07000072,5.861915125
+2013,East of England,Harlow,,E07000073,5.784457936
+2013,East of England,Maldon,,E07000074,5.533199528
+2013,East of England,Rochford,,E07000075,5.553079607999999
+2013,East of England,Tendring,,E07000076,5.202330788
+2013,East of England,Uttlesford,,E07000077,5.536848926
+2013,South West,Cheltenham,,E07000078,5.068987513
+2013,South West,Cotswold,,E07000079,4.837559982
+2013,South West,Forest of Dean,,E07000080,4.829469467
+2013,South West,Gloucester,,E07000081,5.14423069
+2013,South West,Stroud,,E07000082,4.793816426
+2013,South West,Tewkesbury,,E07000083,5.050023546
+2013,South East,Basingstoke and Deane,,E07000084,5.2437996039999994
+2013,South East,East Hampshire,,E07000085,4.840576421000001
+2013,South East,Eastleigh,,E07000086,5.305783974
+2013,South East,Fareham,,E07000087,5.20733518
+2013,South East,Gosport,,E07000088,4.829541558
+2013,South East,Hart,,E07000089,4.945399212
+2013,South East,Havant,,E07000090,4.9619198010000005
+2013,South East,New Forest,,E07000091,4.624254212
+2013,South East,Rushmoor,,E07000092,5.360195211000001
+2013,South East,Test Valley,,E07000093,5.043201567
+2013,South East,Winchester,,E07000094,4.962744925
+2013,East of England,Broxbourne,,E07000095,5.69256269
+2013,East of England,Dacorum,,E07000096,5.28295438
+2013,East of England,Hertsmere,,E07000098,5.797374636
+2013,East of England,North Hertfordshire,,E07000099,5.440348437999999
+2013,East of England,Three Rivers,,E07000102,5.521474262999999
+2013,East of England,Watford,,E07000103,5.777963235
+2013,South East,Ashford,,E07000105,5.393927263999999
+2013,South East,Canterbury,,E07000106,5.232110206000001
+2013,South East,Dartford,,E07000107,6.1759897839999995
+2013,South East,Dover,,E07000108,5.251236558
+2013,South East,Gravesham,,E07000109,5.774098045
+2013,South East,Maidstone,,E07000110,5.491499415
+2013,South East,Sevenoaks,,E07000111,5.446502783
+2013,South East,Shepway,,E07000112,5.067034864
+2013,South East,Swale,,E07000113,5.51672319
+2013,South East,Thanet,,E07000114,5.189122566
+2013,South East,Tonbridge and Malling,,E07000115,5.52265236
+2013,South East,Tunbridge Wells,,E07000116,4.9607457880000005
+2013,North West,Burnley,,E07000117,4.40277798
+2013,North West,Chorley,,E07000118,4.713115167
+2013,North West,Fylde,,E07000119,3.8153926119999997
+2013,North West,Hyndburn,,E07000120,4.477747703
+2013,North West,Lancaster,,E07000121,3.773147283
+2013,North West,Pendle,,E07000122,4.303507475
+2013,North West,Preston,,E07000123,4.396277165
+2013,North West,Ribble Valley,,E07000124,4.087350381
+2013,North West,Rossendale,,E07000125,4.231832951
+2013,North West,South Ribble,,E07000126,4.452519363
+2013,North West,West Lancashire,,E07000127,4.597018865
+2013,North West,Wyre,,E07000128,3.7617082539999998
+2013,East Midlands,Blaby,,E07000129,5.626168408
+2013,East Midlands,Charnwood,,E07000130,5.603394053
+2013,East Midlands,Harborough,,E07000131,5.211461118
+2013,East Midlands,Hinckley and Bosworth,,E07000132,5.484340165
+2013,East Midlands,Melton,,E07000133,5.321701283
+2013,East Midlands,North West Leicestershire,,E07000134,6.037079349
+2013,East Midlands,Oadby and Wigston,,E07000135,5.402603687
+2013,East Midlands,Boston,,E07000136,5.799806268999999
+2013,East Midlands,East Lindsey,,E07000137,5.40193121
+2013,East Midlands,Lincoln,,E07000138,5.558395664
+2013,East Midlands,North Kesteven,,E07000139,5.854915592
+2013,East Midlands,South Holland,,E07000140,5.681230925
+2013,East Midlands,South Kesteven,,E07000141,5.56746969
+2013,East Midlands,West Lindsey,,E07000142,5.645929961
+2013,East of England,Breckland,,E07000143,5.357173184
+2013,East of England,Broadland,,E07000144,5.3745099210000005
+2013,East of England,Great Yarmouth,,E07000145,5.247371844
+2013,East of England,King's Lynn and West Norfolk,,E07000146,5.375739472999999
+2013,East of England,North Norfolk,,E07000147,5.251722397
+2013,East of England,Norwich,,E07000148,5.4752195960000005
+2013,East of England,South Norfolk,,E07000149,5.4185929
+2013,East Midlands,Corby,,E07000150,5.206236004
+2013,East Midlands,Daventry,,E07000151,5.13128524
+2013,East Midlands,East Northamptonshire,,E07000152,5.477158341
+2013,East Midlands,Kettering,,E07000153,5.527827005
+2013,East Midlands,Northampton,,E07000154,5.774652577
+2013,East Midlands,South Northamptonshire,,E07000155,5.221684056
+2013,East Midlands,Wellingborough,,E07000156,5.771907333
+2013,Yorkshire and the Humber,Craven,,E07000163,3.618150711
+2013,Yorkshire and the Humber,Hambleton,,E07000164,4.3412783
+2013,Yorkshire and the Humber,Harrogate,,E07000165,4.075669233999999
+2013,Yorkshire and the Humber,Richmondshire,,E07000166,3.711096672
+2013,Yorkshire and the Humber,Ryedale,,E07000167,4.470806677
+2013,Yorkshire and the Humber,Scarborough,,E07000168,4.379117794
+2013,Yorkshire and the Humber,Selby,,E07000169,5.7019589989999995
+2013,East Midlands,Ashfield,,E07000170,5.827175648
+2013,East Midlands,Bassetlaw,,E07000171,5.87444277
+2013,East Midlands,Broxtowe,,E07000172,5.7372939270000005
+2013,East Midlands,Gedling,,E07000173,5.577824791
+2013,East Midlands,Mansfield,,E07000174,5.939730655
+2013,East Midlands,Newark and Sherwood,,E07000175,6.041902802999999
+2013,East Midlands,Rushcliffe,,E07000176,5.58524103
+2013,South East,Cherwell,,E07000177,5.261488328
+2013,South East,Oxford,,E07000178,5.623242863
+2013,South East,South Oxfordshire,,E07000179,5.252622296
+2013,South East,Vale of White Horse,,E07000180,5.302776764
+2013,South East,West Oxfordshire,,E07000181,5.02820034
+2013,South West,Mendip,,E07000187,4.504688799
+2013,South West,Sedgemoor,,E07000188,4.456416496
+2013,South West,South Somerset,,E07000189,4.609803771
+2013,South West,Taunton Deane,,E07000190,4.5306988619999995
+2013,South West,West Somerset,,E07000191,3.71839585
+2013,West Midlands,Cannock Chase,,E07000192,5.127686511
+2013,West Midlands,East Staffordshire,,E07000193,5.149453695
+2013,West Midlands,Lichfield,,E07000194,5.1421414069999996
+2013,West Midlands,Newcastle-under-Lyme,,E07000195,4.873396187
+2013,West Midlands,South Staffordshire,,E07000196,5.093201447
+2013,West Midlands,Stafford,,E07000197,4.939167939
+2013,West Midlands,Staffordshire Moorlands,,E07000198,4.69570168
+2013,West Midlands,Tamworth,,E07000199,5.4907669939999995
+2013,East of England,Babergh,,E07000200,5.596424805
+2013,East of England,Forest Heath,,E07000201,5.3440913310000004
+2013,East of England,Ipswich,,E07000202,5.597612969
+2013,East of England,Mid Suffolk,,E07000203,5.621439098
+2013,East of England,St. Edmundsbury,,E07000204,5.526225097
+2013,East of England,Suffolk Coastal,,E07000205,5.360305502
+2013,East of England,Waveney,,E07000206,5.175415226
+2013,South East,Elmbridge,,E07000207,5.548357642
+2013,South East,Epsom and Ewell,,E07000208,5.482296926
+2013,South East,Guildford,,E07000209,5.264883257
+2013,South East,Mole Valley,,E07000210,5.162805596
+2013,South East,Reigate and Banstead,,E07000211,5.268112468
+2013,South East,Runnymede,,E07000212,5.788289764
+2013,South East,Spelthorne,,E07000213,5.820733282000001
+2013,South East,Surrey Heath,,E07000214,5.394902987999999
+2013,South East,Tandridge,,E07000215,5.192608478
+2013,South East,Waverley,,E07000216,4.79878691
+2013,South East,Woking,,E07000217,5.196287606
+2013,West Midlands,North Warwickshire,,E07000218,5.810948163
+2013,West Midlands,Nuneaton and Bedworth,,E07000219,5.53216468
+2013,West Midlands,Rugby,,E07000220,5.166231691
+2013,West Midlands,Stratford-on-Avon,,E07000221,5.005342571
+2013,West Midlands,Warwick,,E07000222,5.302407064
+2013,South East,Adur,,E07000223,4.795386373
+2013,South East,Arun,,E07000224,4.576036788
+2013,South East,Chichester,,E07000225,4.761163435
+2013,South East,Crawley,,E07000226,5.183073017
+2013,South East,Horsham,,E07000227,4.845854958
+2013,South East,Mid Sussex,,E07000228,4.89254506
+2013,South East,Worthing,,E07000229,4.742543167
+2013,West Midlands,Bromsgrove,,E07000234,5.227062944
+2013,West Midlands,Malvern Hills,,E07000235,4.67514123
+2013,West Midlands,Redditch,,E07000236,4.961986254
+2013,West Midlands,Worcester,,E07000237,5.096845723
+2013,West Midlands,Wychavon,,E07000238,5.0592293989999995
+2013,West Midlands,Wyre Forest,,E07000239,4.854637085
+2013,East of England,St Albans,,E07000240,5.58726554
+2013,East of England,Welwyn Hatfield,,E07000241,5.698766557000001
+2013,East of England,East Hertfordshire,,E07000242,5.513183128
+2013,East of England,Stevenage,,E07000243,5.492088653
+2013,North West,Bolton,,E08000001,4.873784191
+2013,North West,Bury,,E08000002,4.862536981
+2013,North West,Manchester,,E08000003,5.206655791
+2013,North West,Oldham,,E08000004,4.980646678
+2013,North West,Rochdale,,E08000005,4.843964255
+2013,North West,Salford,,E08000006,5.276182252
+2013,North West,Stockport,,E08000007,4.868296561
+2013,North West,Tameside,,E08000008,5.03810551
+2013,North West,Trafford,,E08000009,4.907096733
+2013,North West,Wigan,,E08000010,4.927922918999999
+2013,North West,Knowsley,,E08000011,4.821966133
+2013,North West,Liverpool,,E08000012,4.628827875
+2013,North West,St. Helens,,E08000013,4.930792465
+2013,North West,Sefton,,E08000014,4.105422616
+2013,North West,Wirral,,E08000015,4.072796236
+2013,Yorkshire and the Humber,Barnsley,,E08000016,5.5885418389999995
+2013,Yorkshire and the Humber,Doncaster,,E08000017,5.706651308
+2013,Yorkshire and the Humber,Rotherham,,E08000018,5.5731315729999995
+2013,Yorkshire and the Humber,Sheffield,,E08000019,4.988807385
+2013,North East,Newcastle upon Tyne,,E08000021,4.255987051
+2013,North East,North Tyneside,,E08000022,4.211909184
+2013,North East,South Tyneside,,E08000023,4.422305617
+2013,North East,Sunderland,,E08000024,4.467271959
+2013,West Midlands,Birmingham,,E08000025,5.878391594
+2013,West Midlands,Coventry,,E08000026,5.6989753610000005
+2013,West Midlands,Dudley,,E08000027,5.424919494
+2013,West Midlands,Sandwell,,E08000028,6.12168107
+2013,West Midlands,Solihull,,E08000029,5.614575677
+2013,West Midlands,Walsall,,E08000030,5.873197759
+2013,West Midlands,Wolverhampton,,E08000031,5.463911292000001
+2013,Yorkshire and the Humber,Bradford,,E08000032,4.664320497
+2013,Yorkshire and the Humber,Calderdale,,E08000033,4.512233838
+2013,Yorkshire and the Humber,Kirklees,,E08000034,4.845461296
+2013,Yorkshire and the Humber,Leeds,,E08000035,5.036500832
+2013,Yorkshire and the Humber,Wakefield,,E08000036,5.9799126970000005
+2013,North East,Gateshead,,E08000037,4.227664371
+2013,London,City of London,,E09000001,8.376684827
+2013,London,Barking and Dagenham,,E09000002,6.620865827
+2013,London,Barnet,,E09000003,6.512541475
+2013,London,Bexley,,E09000004,6.12318536
+2013,London,Brent,,E09000005,6.939707386
+2013,London,Bromley,,E09000006,5.798757875
+2013,London,Camden,,E09000007,7.351636673
+2013,London,Croydon,,E09000008,6.057362467000001
+2013,London,Ealing,,E09000009,6.954330777000001
+2013,London,Enfield,,E09000010,6.37638786
+2013,London,Greenwich,,E09000011,6.577152682
+2013,London,Hackney,,E09000012,7.346092229
+2013,London,Hammersmith and Fulham,,E09000013,7.300439174
+2013,London,Haringey,,E09000014,6.793634849
+2013,London,Harrow,,E09000015,6.11251806
+2013,London,Havering,,E09000016,6.0270264970000005
+2013,London,Hillingdon,,E09000017,6.318941819
+2013,London,Hounslow,,E09000018,6.665700608
+2013,London,Islington,,E09000019,7.517853552
+2013,London,Kensington and Chelsea,,E09000020,7.7680521570000005
+2013,London,Kingston upon Thames,,E09000021,6.217038142000001
+2013,London,Lambeth,,E09000022,7.054783424
+2013,London,Lewisham,,E09000023,6.5838317989999995
+2013,London,Merton,,E09000024,6.381319362
+2013,London,Newham,,E09000025,7.032917202
+2013,London,Redbridge,,E09000026,6.6795079070000005
+2013,London,Richmond upon Thames,,E09000027,6.309896328
+2013,London,Southwark,,E09000028,7.22505218
+2013,London,Sutton,,E09000029,5.951162887000001
+2013,London,Tower Hamlets,,E09000030,7.479185977999999
+2013,London,Waltham Forest,,E09000031,6.877978625
+2013,London,Wandsworth,,E09000032,6.779469637999999
+2013,London,Westminster,,E09000033,7.858655183
+2014,,,,E92000001,5.141273623
+2014,North East,,,E12000001,4.285193711
+2014,North West,,,E12000002,4.448404931000001
+2014,Yorkshire and the Humber,,,E12000003,4.942352863
+2014,East Midlands,,,E12000004,5.5116580520000005
+2014,West Midlands,,,E12000005,5.22500862
+2014,East of England,,,E12000006,5.382857331
+2014,London,,,E12000007,6.470445294
+2014,South East,,,E12000008,4.924266617
+2014,South West,,,E12000009,4.2847809980000005
+2014,North East,Hartlepool,,E06000001,4.202716066
+2014,North East,Middlesbrough,,E06000002,4.539181895
+2014,North East,Redcar and Cleveland,,E06000003,4.249805431
+2014,North East,Stockton-on-Tees,,E06000004,4.323729962
+2014,North East,Darlington,,E06000005,4.115686621
+2014,North West,Halton,,E06000006,4.626032576
+2014,North West,Warrington,,E06000007,4.638713576000001
+2014,North West,Blackburn with Darwen,,E06000008,4.324359929
+2014,North West,Blackpool,,E06000009,3.792114008
+2014,Yorkshire and the Humber,Kingston upon Hull,,E06000010,5.659162499
+2014,Yorkshire and the Humber,East Riding of Yorkshire,,E06000011,5.2092076160000005
+2014,Yorkshire and the Humber,North East Lincolnshire,,E06000012,5.3934090789999996
+2014,Yorkshire and the Humber,North Lincolnshire,,E06000013,5.653670699
+2014,Yorkshire and the Humber,York,,E06000014,4.6159843810000005
+2014,East Midlands,Derby,,E06000015,5.588800397000001
+2014,East Midlands,Leicester,,E06000016,5.910239387000001
+2014,East Midlands,Rutland,,E06000017,5.134507949
+2014,East Midlands,Nottingham,,E06000018,5.921477857
+2014,West Midlands,Herefordshire,,E06000019,4.467489056000001
+2014,West Midlands,Telford and Wrekin,,E06000020,4.493698462
+2014,West Midlands,Stoke-on-Trent,,E06000021,4.951679922
+2014,South West,Bath and North East Somerset,,E06000022,4.531232898
+2014,South West,Bristol,,E06000023,5.10376338
+2014,South West,North Somerset,,E06000024,4.246178844
+2014,South West,South Gloucestershire,,E06000025,5.07537068
+2014,South West,Plymouth,,E06000026,4.008052727
+2014,South West,Torbay,,E06000027,3.625131227
+2014,South West,Bournemouth,,E06000028,4.404889118
+2014,South West,Poole,,E06000029,4.401764172
+2014,South West,Swindon,,E06000030,5.172923271
+2014,East of England,Peterborough,,E06000031,5.519316216
+2014,East of England,Luton,,E06000032,5.610406786
+2014,East of England,Southend-on-Sea,,E06000033,5.39095593
+2014,East of England,Thurrock,,E06000034,5.833815105
+2014,South East,Medway,,E06000035,5.557218013
+2014,South East,Bracknell Forest,,E06000036,4.7477383380000004
+2014,South East,West Berkshire,,E06000037,4.879859016
+2014,South East,Reading,,E06000038,5.5047040560000005
+2014,South East,Slough,,E06000039,6.185567519
+2014,South East,Windsor and Maidenhead,,E06000040,5.231751274
+2014,South East,Wokingham,,E06000041,5.055782841
+2014,South East,Milton Keynes,,E06000042,5.198502748
+2014,South East,Brighton and Hove,,E06000043,4.63558516
+2014,South East,Portsmouth,,E06000044,5.102342288
+2014,South East,Southampton,,E06000045,5.321110984
+2014,South East,Isle of Wight,,E06000046,4.036574553
+2014,North East,County Durham,,E06000047,4.273893642
+2014,North West,Cheshire East,,E06000049,4.4288937630000005
+2014,North West,Cheshire West and Chester,,E06000050,4.288417277
+2014,West Midlands,Shropshire,,E06000051,4.071046684
+2014,South West,Cornwall,,E06000052,3.436806062
+2014,South West,Isles of Scilly,,E06000053,2.57228124
+2014,South West,Wiltshire,,E06000054,4.523850696
+2014,East of England,Bedford,,E06000055,5.209307036
+2014,East of England,Central Bedfordshire,,E06000056,5.158633329
+2014,North East,Northumberland,,E06000057,3.808762175
+2014,South East,Aylesbury Vale,,E07000004,4.832763427
+2014,South East,Chiltern,,E07000005,4.801089
+2014,South East,South Bucks,,E07000006,5.549144653
+2014,South East,Wycombe,,E07000007,4.974932658
+2014,East of England,Cambridge,,E07000008,5.3834858379999995
+2014,East of England,East Cambridgeshire,,E07000009,5.3417306689999995
+2014,East of England,Fenland,,E07000010,5.5471248289999995
+2014,East of England,Huntingdonshire,,E07000011,5.36939856
+2014,East of England,South Cambridgeshire,,E07000012,5.28545448
+2014,North West,Allerdale,,E07000026,3.15887323
+2014,North West,Barrow-in-Furness,,E07000027,3.682253616
+2014,North West,Carlisle,,E07000028,3.4798233310000004
+2014,North West,Copeland,,E07000029,3.271540032
+2014,North West,Eden,,E07000030,3.6304884160000004
+2014,North West,South Lakeland,,E07000031,3.5529598539999996
+2014,East Midlands,Amber Valley,,E07000032,5.107501248
+2014,East Midlands,Bolsover,,E07000033,5.985884016
+2014,East Midlands,Chesterfield,,E07000034,5.130577666000001
+2014,East Midlands,Derbyshire Dales,,E07000035,4.368592227
+2014,East Midlands,Erewash,,E07000036,5.580223579
+2014,East Midlands,High Peak,,E07000037,4.179078949
+2014,East Midlands,North East Derbyshire,,E07000038,5.992824512
+2014,East Midlands,South Derbyshire,,E07000039,5.237990976
+2014,South West,East Devon,,E07000040,3.670046025
+2014,South West,Exeter,,E07000041,3.9128739439999998
+2014,South West,Mid Devon,,E07000042,4.03754191
+2014,South West,North Devon,,E07000043,3.4247755730000002
+2014,South West,South Hams,,E07000044,3.381232713
+2014,South West,Teignbridge,,E07000045,3.689246325
+2014,South West,Torridge,,E07000046,3.378164385
+2014,South West,West Devon,,E07000047,3.2761898360000004
+2014,South West,Christchurch,,E07000048,4.042630156
+2014,South West,East Dorset,,E07000049,4.20847652
+2014,South West,North Dorset,,E07000050,4.348317914
+2014,South West,Purbeck,,E07000051,3.8462688469999997
+2014,South West,West Dorset,,E07000052,3.92443496
+2014,South West,Weymouth and Portland,,E07000053,3.625400778
+2014,South East,Eastbourne,,E07000061,4.258185112
+2014,South East,Hastings,,E07000062,4.628122112
+2014,South East,Lewes,,E07000063,4.093117773
+2014,South East,Rother,,E07000064,4.378844779
+2014,South East,Wealden,,E07000065,4.312674193
+2014,East of England,Basildon,,E07000066,5.629033375
+2014,East of England,Braintree,,E07000067,5.483822475
+2014,East of England,Brentwood,,E07000068,5.565197137999999
+2014,East of England,Castle Point,,E07000069,5.407332939
+2014,East of England,Chelmsford,,E07000070,5.64431906
+2014,East of England,Colchester,,E07000071,5.487473781
+2014,East of England,Epping Forest,,E07000072,5.606639225
+2014,East of England,Harlow,,E07000073,5.515660635
+2014,East of England,Maldon,,E07000074,5.377707827
+2014,East of England,Rochford,,E07000075,5.371923949
+2014,East of England,Tendring,,E07000076,5.0907239230000005
+2014,East of England,Uttlesford,,E07000077,5.313900205
+2014,South West,Cheltenham,,E07000078,4.906897258
+2014,South West,Cotswold,,E07000079,4.590948214
+2014,South West,Forest of Dean,,E07000080,4.679223682
+2014,South West,Gloucester,,E07000081,4.949885476
+2014,South West,Stroud,,E07000082,4.532211956
+2014,South West,Tewkesbury,,E07000083,4.854282268
+2014,South East,Basingstoke and Deane,,E07000084,4.921136488
+2014,South East,East Hampshire,,E07000085,4.495184318
+2014,South East,Eastleigh,,E07000086,4.947808528
+2014,South East,Fareham,,E07000087,4.86935531
+2014,South East,Gosport,,E07000088,4.469921618
+2014,South East,Hart,,E07000089,4.611904779
+2014,South East,Havant,,E07000090,4.56009978
+2014,South East,New Forest,,E07000091,4.295115031
+2014,South East,Rushmoor,,E07000092,5.014846094
+2014,South East,Test Valley,,E07000093,4.744979826000001
+2014,South East,Winchester,,E07000094,4.615778738
+2014,East of England,Broxbourne,,E07000095,5.449246487999999
+2014,East of England,Dacorum,,E07000096,4.983509095
+2014,East of England,Hertsmere,,E07000098,5.5093235929999995
+2014,East of England,North Hertfordshire,,E07000099,5.182454228
+2014,East of England,Three Rivers,,E07000102,5.20975995
+2014,East of England,Watford,,E07000103,5.5122031179999995
+2014,South East,Ashford,,E07000105,5.199160099
+2014,South East,Canterbury,,E07000106,5.103282312
+2014,South East,Dartford,,E07000107,5.923056617
+2014,South East,Dover,,E07000108,5.086913497
+2014,South East,Gravesham,,E07000109,5.569026879
+2014,South East,Maidstone,,E07000110,5.312515363999999
+2014,South East,Sevenoaks,,E07000111,5.15698095
+2014,South East,Shepway,,E07000112,4.836694957
+2014,South East,Swale,,E07000113,5.32078549
+2014,South East,Thanet,,E07000114,5.006682088
+2014,South East,Tonbridge and Malling,,E07000115,5.28457145
+2014,South East,Tunbridge Wells,,E07000116,4.653276307
+2014,North West,Burnley,,E07000117,4.230130942
+2014,North West,Chorley,,E07000118,4.562474374
+2014,North West,Fylde,,E07000119,3.7211560410000004
+2014,North West,Hyndburn,,E07000120,4.306144948
+2014,North West,Lancaster,,E07000121,3.720662354
+2014,North West,Pendle,,E07000122,4.13957956
+2014,North West,Preston,,E07000123,4.377970012
+2014,North West,Ribble Valley,,E07000124,3.9327927369999998
+2014,North West,Rossendale,,E07000125,4.217959304
+2014,North West,South Ribble,,E07000126,4.370536953
+2014,North West,West Lancashire,,E07000127,4.474369095
+2014,North West,Wyre,,E07000128,3.6643598460000004
+2014,East Midlands,Blaby,,E07000129,5.514339306
+2014,East Midlands,Charnwood,,E07000130,5.497044708
+2014,East Midlands,Harborough,,E07000131,5.067477394
+2014,East Midlands,Hinckley and Bosworth,,E07000132,5.384880667000001
+2014,East Midlands,Melton,,E07000133,5.22838829
+2014,East Midlands,North West Leicestershire,,E07000134,5.908243733
+2014,East Midlands,Oadby and Wigston,,E07000135,5.2575357039999995
+2014,East Midlands,Boston,,E07000136,5.704497491000001
+2014,East Midlands,East Lindsey,,E07000137,5.363476316
+2014,East Midlands,Lincoln,,E07000138,5.5348728739999995
+2014,East Midlands,North Kesteven,,E07000139,5.838435013
+2014,East Midlands,South Holland,,E07000140,5.568047449
+2014,East Midlands,South Kesteven,,E07000141,5.492837584
+2014,East Midlands,West Lindsey,,E07000142,5.598256551
+2014,East of England,Breckland,,E07000143,5.275591669
+2014,East of England,Broadland,,E07000144,5.315897431000001
+2014,East of England,Great Yarmouth,,E07000145,5.2093512230000005
+2014,East of England,King's Lynn and West Norfolk,,E07000146,5.281497337
+2014,East of England,North Norfolk,,E07000147,5.247984688
+2014,East of England,Norwich,,E07000148,5.402096573
+2014,East of England,South Norfolk,,E07000149,5.415589272
+2014,East Midlands,Corby,,E07000150,4.99928683
+2014,East Midlands,Daventry,,E07000151,4.928981005
+2014,East Midlands,East Northamptonshire,,E07000152,5.267367275
+2014,East Midlands,Kettering,,E07000153,5.363597632
+2014,East Midlands,Northampton,,E07000154,5.621433597999999
+2014,East Midlands,South Northamptonshire,,E07000155,5.039544164
+2014,East Midlands,Wellingborough,,E07000156,5.538092881
+2014,Yorkshire and the Humber,Craven,,E07000163,3.596183777
+2014,Yorkshire and the Humber,Hambleton,,E07000164,4.435882382
+2014,Yorkshire and the Humber,Harrogate,,E07000165,4.086338817
+2014,Yorkshire and the Humber,Richmondshire,,E07000166,3.79472073
+2014,Yorkshire and the Humber,Ryedale,,E07000167,4.528367982
+2014,Yorkshire and the Humber,Scarborough,,E07000168,4.539854943
+2014,Yorkshire and the Humber,Selby,,E07000169,5.562886013
+2014,East Midlands,Ashfield,,E07000170,5.566935947999999
+2014,East Midlands,Bassetlaw,,E07000171,5.732053855
+2014,East Midlands,Broxtowe,,E07000172,5.625656994
+2014,East Midlands,Gedling,,E07000173,5.4627820389999995
+2014,East Midlands,Mansfield,,E07000174,5.6744817770000004
+2014,East Midlands,Newark and Sherwood,,E07000175,5.977135082999999
+2014,East Midlands,Rushcliffe,,E07000176,5.477609975
+2014,South East,Cherwell,,E07000177,5.097763683
+2014,South East,Oxford,,E07000178,5.376213646
+2014,South East,South Oxfordshire,,E07000179,4.983481413
+2014,South East,Vale of White Horse,,E07000180,5.045879515
+2014,South East,West Oxfordshire,,E07000181,4.820640648
+2014,South West,Mendip,,E07000187,4.253638306
+2014,South West,Sedgemoor,,E07000188,4.294908696
+2014,South West,South Somerset,,E07000189,4.369244189
+2014,South West,Taunton Deane,,E07000190,4.346846493999999
+2014,South West,West Somerset,,E07000191,3.4622519639999996
+2014,West Midlands,Cannock Chase,,E07000192,5.120046361
+2014,West Midlands,East Staffordshire,,E07000193,5.059821331
+2014,West Midlands,Lichfield,,E07000194,5.0185985330000005
+2014,West Midlands,Newcastle-under-Lyme,,E07000195,4.732407327
+2014,West Midlands,South Staffordshire,,E07000196,4.989233671
+2014,West Midlands,Stafford,,E07000197,4.786304733
+2014,West Midlands,Staffordshire Moorlands,,E07000198,4.528673948
+2014,West Midlands,Tamworth,,E07000199,5.40518882
+2014,East of England,Babergh,,E07000200,5.442050977999999
+2014,East of England,Forest Heath,,E07000201,5.237206895
+2014,East of England,Ipswich,,E07000202,5.485232347
+2014,East of England,Mid Suffolk,,E07000203,5.575343411
+2014,East of England,St. Edmundsbury,,E07000204,5.369541925
+2014,East of England,Suffolk Coastal,,E07000205,5.2756192660000005
+2014,East of England,Waveney,,E07000206,5.1250385110000005
+2014,South East,Elmbridge,,E07000207,5.189338022
+2014,South East,Epsom and Ewell,,E07000208,5.158528329
+2014,South East,Guildford,,E07000209,4.876738511
+2014,South East,Mole Valley,,E07000210,4.876256293
+2014,South East,Reigate and Banstead,,E07000211,4.931767426
+2014,South East,Runnymede,,E07000212,5.4036123929999995
+2014,South East,Spelthorne,,E07000213,5.5000953070000005
+2014,South East,Surrey Heath,,E07000214,5.083882745
+2014,South East,Tandridge,,E07000215,4.841119813
+2014,South East,Waverley,,E07000216,4.409785218000001
+2014,South East,Woking,,E07000217,4.815421722
+2014,West Midlands,North Warwickshire,,E07000218,5.610214286000001
+2014,West Midlands,Nuneaton and Bedworth,,E07000219,5.388855542999999
+2014,West Midlands,Rugby,,E07000220,5.002680085
+2014,West Midlands,Stratford-on-Avon,,E07000221,4.834122013
+2014,West Midlands,Warwick,,E07000222,5.165032572
+2014,South East,Adur,,E07000223,4.376443329
+2014,South East,Arun,,E07000224,4.136295123
+2014,South East,Chichester,,E07000225,4.383224067
+2014,South East,Crawley,,E07000226,4.855479772
+2014,South East,Horsham,,E07000227,4.456667021
+2014,South East,Mid Sussex,,E07000228,4.488417086
+2014,South East,Worthing,,E07000229,4.308191309
+2014,West Midlands,Bromsgrove,,E07000234,5.094445715
+2014,West Midlands,Malvern Hills,,E07000235,4.522565567
+2014,West Midlands,Redditch,,E07000236,4.812243638
+2014,West Midlands,Worcester,,E07000237,4.958292496
+2014,West Midlands,Wychavon,,E07000238,4.9232140189999996
+2014,West Midlands,Wyre Forest,,E07000239,4.701127078
+2014,East of England,St Albans,,E07000240,5.297137299
+2014,East of England,Welwyn Hatfield,,E07000241,5.420582406
+2014,East of England,East Hertfordshire,,E07000242,5.257679237
+2014,East of England,Stevenage,,E07000243,5.272125367
+2014,North West,Bolton,,E08000001,4.792346311
+2014,North West,Bury,,E08000002,4.751329279
+2014,North West,Manchester,,E08000003,5.111432487
+2014,North West,Oldham,,E08000004,4.85491983
+2014,North West,Rochdale,,E08000005,4.7376419069999995
+2014,North West,Salford,,E08000006,5.173724461
+2014,North West,Stockport,,E08000007,4.729537345
+2014,North West,Tameside,,E08000008,4.846520299
+2014,North West,Trafford,,E08000009,4.8041676110000004
+2014,North West,Wigan,,E08000010,4.657026364
+2014,North West,Knowsley,,E08000011,4.689848346000001
+2014,North West,Liverpool,,E08000012,4.519299816
+2014,North West,St. Helens,,E08000013,4.669819894
+2014,North West,Sefton,,E08000014,4.014898738
+2014,North West,Wirral,,E08000015,3.9645490139999997
+2014,Yorkshire and the Humber,Barnsley,,E08000016,5.1825371019999995
+2014,Yorkshire and the Humber,Doncaster,,E08000017,5.500783605
+2014,Yorkshire and the Humber,Rotherham,,E08000018,5.316118116
+2014,Yorkshire and the Humber,Sheffield,,E08000019,4.851271808
+2014,North East,Newcastle upon Tyne,,E08000021,4.396661545
+2014,North East,North Tyneside,,E08000022,4.335793397
+2014,North East,South Tyneside,,E08000023,4.5147765369999995
+2014,North East,Sunderland,,E08000024,4.5096855069999995
+2014,West Midlands,Birmingham,,E08000025,5.742237124
+2014,West Midlands,Coventry,,E08000026,5.548297102
+2014,West Midlands,Dudley,,E08000027,5.330097482
+2014,West Midlands,Sandwell,,E08000028,6.036734416
+2014,West Midlands,Solihull,,E08000029,5.468301476000001
+2014,West Midlands,Walsall,,E08000030,5.782031397000001
+2014,West Midlands,Wolverhampton,,E08000031,5.380591363
+2014,Yorkshire and the Humber,Bradford,,E08000032,4.611048819
+2014,Yorkshire and the Humber,Calderdale,,E08000033,4.370091174
+2014,Yorkshire and the Humber,Kirklees,,E08000034,4.607241369
+2014,Yorkshire and the Humber,Leeds,,E08000035,4.9476756019999995
+2014,Yorkshire and the Humber,Wakefield,,E08000036,5.202971542
+2014,North East,Gateshead,,E08000037,4.328223267
+2014,London,City of London,,E09000001,8.268654828999999
+2014,London,Barking and Dagenham,,E09000002,6.33855285
+2014,London,Barnet,,E09000003,6.2646175379999995
+2014,London,Bexley,,E09000004,5.8186040210000005
+2014,London,Brent,,E09000005,6.699206554
+2014,London,Bromley,,E09000006,5.4781056679999995
+2014,London,Camden,,E09000007,7.210044202000001
+2014,London,Croydon,,E09000008,5.712667452000001
+2014,London,Ealing,,E09000009,6.706969604
+2014,London,Enfield,,E09000010,6.13755968
+2014,London,Greenwich,,E09000011,6.282885674
+2014,London,Hackney,,E09000012,7.1794747
+2014,London,Hammersmith and Fulham,,E09000013,7.132586953
+2014,London,Haringey,,E09000014,6.602952008
+2014,London,Harrow,,E09000015,5.80892845
+2014,London,Havering,,E09000016,5.736502991
+2014,London,Hillingdon,,E09000017,6.03938982
+2014,London,Hounslow,,E09000018,6.346618762
+2014,London,Islington,,E09000019,7.396314837
+2014,London,Kensington and Chelsea,,E09000020,7.657179182
+2014,London,Kingston upon Thames,,E09000021,5.911741582
+2014,London,Lambeth,,E09000022,6.814835191
+2014,London,Lewisham,,E09000023,6.312975278
+2014,London,Merton,,E09000024,6.064401684
+2014,London,Newham,,E09000025,6.803714301
+2014,London,Redbridge,,E09000026,6.411857252000001
+2014,London,Richmond upon Thames,,E09000027,5.979129276
+2014,London,Southwark,,E09000028,6.981516478
+2014,London,Sutton,,E09000029,5.613486722999999
+2014,London,Tower Hamlets,,E09000030,7.30144925
+2014,London,Waltham Forest,,E09000031,6.673357685
+2014,London,Wandsworth,,E09000032,6.51422471
+2014,London,Westminster,,E09000033,7.765870183
+2015,,,,E92000001,4.721398783
+2015,North East,,,E12000001,3.5124939680000002
+2015,North West,,,E12000002,4.1172286410000005
+2015,Yorkshire and the Humber,,,E12000003,4.274663383
+2015,East Midlands,,,E12000004,5.122705557
+2015,West Midlands,,,E12000005,4.799025443000001
+2015,East of England,,,E12000006,5.143506631
+2015,London,,,E12000007,5.627631147000001
+2015,South East,,,E12000008,4.704664248
+2015,South West,,,E12000009,4.283180322
+2015,North East,Hartlepool,,E06000001,3.4978301
+2015,North East,Middlesbrough,,E06000002,3.668698885
+2015,North East,Redcar and Cleveland,,E06000003,3.4685519260000004
+2015,North East,Stockton-on-Tees,,E06000004,3.531337815
+2015,North East,Darlington,,E06000005,3.4517604910000004
+2015,North West,Halton,,E06000006,4.01370184
+2015,North West,Warrington,,E06000007,3.995136822
+2015,North West,Blackburn with Darwen,,E06000008,3.738528838
+2015,North West,Blackpool,,E06000009,5.484180452
+2015,Yorkshire and the Humber,Kingston upon Hull,,E06000010,4.7711630419999995
+2015,Yorkshire and the Humber,East Riding of Yorkshire,,E06000011,4.802192874
+2015,Yorkshire and the Humber,North East Lincolnshire,,E06000012,5.68646283
+2015,Yorkshire and the Humber,North Lincolnshire,,E06000013,4.825559821000001
+2015,Yorkshire and the Humber,York,,E06000014,3.920208212
+2015,East Midlands,Derby,,E06000015,5.101042827
+2015,East Midlands,Leicester,,E06000016,5.4369487770000005
+2015,East Midlands,Rutland,,E06000017,4.922587994
+2015,East Midlands,Nottingham,,E06000018,5.316222941
+2015,West Midlands,Herefordshire,,E06000019,4.347286807
+2015,West Midlands,Telford and Wrekin,,E06000020,4.0260392419999995
+2015,West Midlands,Stoke-on-Trent,,E06000021,4.361632124
+2015,South West,Bath and North East Somerset,,E06000022,4.066770487
+2015,South West,Bristol,,E06000023,4.35266516
+2015,South West,North Somerset,,E06000024,4.005323135
+2015,South West,South Gloucestershire,,E06000025,4.680095693
+2015,South West,Plymouth,,E06000026,5.387405642
+2015,South West,Torbay,,E06000027,4.438271203
+2015,South West,Bournemouth,,E06000028,4.810219149
+2015,South West,Poole,,E06000029,4.455113758
+2015,South West,Swindon,,E06000030,5.0939646
+2015,East of England,Peterborough,,E06000031,4.842029157
+2015,East of England,Luton,,E06000032,4.987506369
+2015,East of England,Southend-on-Sea,,E06000033,5.802622055
+2015,East of England,Thurrock,,E06000034,5.649657469
+2015,South East,Medway,,E06000035,5.498999525
+2015,South East,Bracknell Forest,,E06000036,4.160356046
+2015,South East,West Berkshire,,E06000037,4.476083461
+2015,South East,Reading,,E06000038,4.538948274
+2015,South East,Slough,,E06000039,4.994044484
+2015,South East,Windsor and Maidenhead,,E06000040,4.4182455780000005
+2015,South East,Wokingham,,E06000041,4.522988382
+2015,South East,Milton Keynes,,E06000042,4.772766655
+2015,South East,Brighton and Hove,,E06000043,4.909828387
+2015,South East,Portsmouth,,E06000044,5.908671377
+2015,South East,Southampton,,E06000045,5.207268898
+2015,South East,Isle of Wight,,E06000046,4.5464405480000005
+2015,North East,County Durham,,E06000047,3.5895775530000003
+2015,North West,Cheshire East,,E06000049,4.152956335
+2015,North West,Cheshire West and Chester,,E06000050,4.181055445
+2015,West Midlands,Shropshire,,E06000051,3.8690806319999997
+2015,South West,Cornwall,,E06000052,4.061236302
+2015,South West,Isles of Scilly,,E06000053,2.913166804
+2015,South West,Wiltshire,,E06000054,4.225019154
+2015,East of England,Bedford,,E06000055,4.757844798
+2015,East of England,Central Bedfordshire,,E06000056,4.877298325
+2015,North East,Northumberland,,E06000057,3.172838219
+2015,South East,Aylesbury Vale,,E07000004,4.545711926
+2015,South East,Chiltern,,E07000005,4.425992362
+2015,South East,South Bucks,,E07000006,4.7218373730000005
+2015,South East,Wycombe,,E07000007,4.501461388
+2015,East of England,Cambridge,,E07000008,4.731735637
+2015,East of England,East Cambridgeshire,,E07000009,4.946667572
+2015,East of England,Fenland,,E07000010,5.291823092
+2015,East of England,Huntingdonshire,,E07000011,5.137559195
+2015,East of England,South Cambridgeshire,,E07000012,4.852702204
+2015,North West,Allerdale,,E07000026,2.977529413
+2015,North West,Barrow-in-Furness,,E07000027,5.880475629
+2015,North West,Carlisle,,E07000028,4.112837171000001
+2015,North West,Copeland,,E07000029,3.029554946
+2015,North West,Eden,,E07000030,3.4403676539999997
+2015,North West,South Lakeland,,E07000031,3.6289722610000004
+2015,East Midlands,Amber Valley,,E07000032,5.061480935
+2015,East Midlands,Bolsover,,E07000033,4.873584646
+2015,East Midlands,Chesterfield,,E07000034,4.295371555
+2015,East Midlands,Derbyshire Dales,,E07000035,4.135831494
+2015,East Midlands,Erewash,,E07000036,5.215863026
+2015,East Midlands,High Peak,,E07000037,3.84917104
+2015,East Midlands,North East Derbyshire,,E07000038,4.58641721
+2015,East Midlands,South Derbyshire,,E07000039,5.284852917
+2015,South West,East Devon,,E07000040,3.755169454
+2015,South West,Exeter,,E07000041,4.06653012
+2015,South West,Mid Devon,,E07000042,3.9958248939999996
+2015,South West,North Devon,,E07000043,3.598593588
+2015,South West,South Hams,,E07000044,3.5412417260000004
+2015,South West,Teignbridge,,E07000045,3.977564151
+2015,South West,Torridge,,E07000046,3.606176516
+2015,South West,West Devon,,E07000047,3.311233713
+2015,South West,Christchurch,,E07000048,3.920135432
+2015,South West,East Dorset,,E07000049,3.874569891
+2015,South West,North Dorset,,E07000050,4.070040537
+2015,South West,Purbeck,,E07000051,3.5264079639999997
+2015,South West,West Dorset,,E07000052,3.784478431
+2015,South West,Weymouth and Portland,,E07000053,3.8615575989999997
+2015,South East,Eastbourne,,E07000061,4.43231296
+2015,South East,Hastings,,E07000062,5.266616557
+2015,South East,Lewes,,E07000063,3.908467515
+2015,South East,Rother,,E07000064,4.226135288
+2015,South East,Wealden,,E07000065,3.973390099
+2015,East of England,Basildon,,E07000066,5.493267116
+2015,East of England,Braintree,,E07000067,5.379218524
+2015,East of England,Brentwood,,E07000068,5.305618442
+2015,East of England,Castle Point,,E07000069,5.278180273
+2015,East of England,Chelmsford,,E07000070,5.734470696
+2015,East of England,Colchester,,E07000071,5.48025915
+2015,East of England,Epping Forest,,E07000072,5.316923613
+2015,East of England,Harlow,,E07000073,5.291469905
+2015,East of England,Maldon,,E07000074,5.297805003
+2015,East of England,Rochford,,E07000075,5.246643052
+2015,East of England,Tendring,,E07000076,5.179155797
+2015,East of England,Uttlesford,,E07000077,4.965674332
+2015,South West,Cheltenham,,E07000078,4.703031724
+2015,South West,Cotswold,,E07000079,4.242066686
+2015,South West,Forest of Dean,,E07000080,4.290017865
+2015,South West,Gloucester,,E07000081,4.469153447
+2015,South West,Stroud,,E07000082,4.282299102
+2015,South West,Tewkesbury,,E07000083,4.647931526
+2015,South East,Basingstoke and Deane,,E07000084,4.479723605
+2015,South East,East Hampshire,,E07000085,4.183445053
+2015,South East,Eastleigh,,E07000086,4.830539739
+2015,South East,Fareham,,E07000087,4.805543246
+2015,South East,Gosport,,E07000088,5.018426965
+2015,South East,Hart,,E07000089,4.175237506
+2015,South East,Havant,,E07000090,5.0543554980000005
+2015,South East,New Forest,,E07000091,4.025653373
+2015,South East,Rushmoor,,E07000092,4.757139989
+2015,South East,Test Valley,,E07000093,4.317697674
+2015,South East,Winchester,,E07000094,4.2540176789999995
+2015,East of England,Broxbourne,,E07000095,4.835585938
+2015,East of England,Dacorum,,E07000096,4.617718438
+2015,East of England,Hertsmere,,E07000098,5.071957896
+2015,East of England,North Hertfordshire,,E07000099,4.699266818
+2015,East of England,Three Rivers,,E07000102,4.852957233
+2015,East of England,Watford,,E07000103,4.875314019
+2015,South East,Ashford,,E07000105,5.053796726
+2015,South East,Canterbury,,E07000106,5.011962481
+2015,South East,Dartford,,E07000107,5.375320435
+2015,South East,Dover,,E07000108,4.99036858
+2015,South East,Gravesham,,E07000109,5.149625027
+2015,South East,Maidstone,,E07000110,5.390740932000001
+2015,South East,Sevenoaks,,E07000111,4.895033299
+2015,South East,Shepway,,E07000112,4.9288702110000004
+2015,South East,Swale,,E07000113,5.406809316
+2015,South East,Thanet,,E07000114,5.154488511
+2015,South East,Tonbridge and Malling,,E07000115,5.211389317
+2015,South East,Tunbridge Wells,,E07000116,4.678546062
+2015,North West,Burnley,,E07000117,5.018687085
+2015,North West,Chorley,,E07000118,4.785050877
+2015,North West,Fylde,,E07000119,3.8261864119999998
+2015,North West,Hyndburn,,E07000120,3.903657726
+2015,North West,Lancaster,,E07000121,4.2489741180000005
+2015,North West,Pendle,,E07000122,3.670467002
+2015,North West,Preston,,E07000123,3.785997746
+2015,North West,Ribble Valley,,E07000124,3.73016538
+2015,North West,Rossendale,,E07000125,3.60440722
+2015,North West,South Ribble,,E07000126,3.7416025489999996
+2015,North West,West Lancashire,,E07000127,4.1379261839999995
+2015,North West,Wyre,,E07000128,4.087221841
+2015,East Midlands,Blaby,,E07000129,5.247725196
+2015,East Midlands,Charnwood,,E07000130,5.580564686000001
+2015,East Midlands,Harborough,,E07000131,4.911291147
+2015,East Midlands,Hinckley and Bosworth,,E07000132,5.32614772
+2015,East Midlands,Melton,,E07000133,5.220502206
+2015,East Midlands,North West Leicestershire,,E07000134,5.809565103
+2015,East Midlands,Oadby and Wigston,,E07000135,4.95533517
+2015,East Midlands,Boston,,E07000136,5.480176536
+2015,East Midlands,East Lindsey,,E07000137,4.937328943
+2015,East Midlands,Lincoln,,E07000138,4.951137161
+2015,East Midlands,North Kesteven,,E07000139,5.371857782
+2015,East Midlands,South Holland,,E07000140,5.229056479
+2015,East Midlands,South Kesteven,,E07000141,5.082627277
+2015,East Midlands,West Lindsey,,E07000142,5.179122646000001
+2015,East of England,Breckland,,E07000143,4.789073144
+2015,East of England,Broadland,,E07000144,4.933119059
+2015,East of England,Great Yarmouth,,E07000145,5.6510208870000005
+2015,East of England,King's Lynn and West Norfolk,,E07000146,4.658193019
+2015,East of England,North Norfolk,,E07000147,4.683400377
+2015,East of England,Norwich,,E07000148,5.908457555
+2015,East of England,South Norfolk,,E07000149,4.82356889
+2015,East Midlands,Corby,,E07000150,4.6094146910000005
+2015,East Midlands,Daventry,,E07000151,4.773737688
+2015,East Midlands,East Northamptonshire,,E07000152,5.131777221
+2015,East Midlands,Kettering,,E07000153,5.446844372999999
+2015,East Midlands,Northampton,,E07000154,5.596430306
+2015,East Midlands,South Northamptonshire,,E07000155,4.7525835789999995
+2015,East Midlands,Wellingborough,,E07000156,5.494038066
+2015,Yorkshire and the Humber,Craven,,E07000163,3.0996618839999996
+2015,Yorkshire and the Humber,Hambleton,,E07000164,3.8617424610000004
+2015,Yorkshire and the Humber,Harrogate,,E07000165,3.722317317
+2015,Yorkshire and the Humber,Richmondshire,,E07000166,3.267882029
+2015,Yorkshire and the Humber,Ryedale,,E07000167,4.026961967
+2015,Yorkshire and the Humber,Scarborough,,E07000168,4.638135688
+2015,Yorkshire and the Humber,Selby,,E07000169,4.589658428
+2015,East Midlands,Ashfield,,E07000170,4.8375433469999995
+2015,East Midlands,Bassetlaw,,E07000171,5.041453113999999
+2015,East Midlands,Broxtowe,,E07000172,5.170259957
+2015,East Midlands,Gedling,,E07000173,4.952006685
+2015,East Midlands,Mansfield,,E07000174,4.714747518
+2015,East Midlands,Newark and Sherwood,,E07000175,5.35955552
+2015,East Midlands,Rushcliffe,,E07000176,5.252572608
+2015,South East,Cherwell,,E07000177,5.022472578
+2015,South East,Oxford,,E07000178,4.914460383
+2015,South East,South Oxfordshire,,E07000179,4.534231233
+2015,South East,Vale of White Horse,,E07000180,4.616217814
+2015,South East,West Oxfordshire,,E07000181,4.484966503
+2015,South West,Mendip,,E07000187,4.080213314
+2015,South West,Sedgemoor,,E07000188,4.476150253999999
+2015,South West,South Somerset,,E07000189,4.321984986
+2015,South West,Taunton Deane,,E07000190,4.340798941
+2015,South West,West Somerset,,E07000191,3.29019426
+2015,West Midlands,Cannock Chase,,E07000192,4.57775489
+2015,West Midlands,East Staffordshire,,E07000193,4.842539272
+2015,West Midlands,Lichfield,,E07000194,4.634946128
+2015,West Midlands,Newcastle-under-Lyme,,E07000195,4.162226825
+2015,West Midlands,South Staffordshire,,E07000196,4.705774793
+2015,West Midlands,Stafford,,E07000197,4.654843016
+2015,West Midlands,Staffordshire Moorlands,,E07000198,4.037228778
+2015,West Midlands,Tamworth,,E07000199,4.851465855
+2015,East of England,Babergh,,E07000200,5.198580083
+2015,East of England,Forest Heath,,E07000201,4.831194096
+2015,East of England,Ipswich,,E07000202,6.60603221
+2015,East of England,Mid Suffolk,,E07000203,5.064717078999999
+2015,East of England,St. Edmundsbury,,E07000204,5.02256666
+2015,East of England,Suffolk Coastal,,E07000205,5.0746682210000005
+2015,East of England,Waveney,,E07000206,5.386562154
+2015,South East,Elmbridge,,E07000207,4.7645429980000005
+2015,South East,Epsom and Ewell,,E07000208,4.826996149
+2015,South East,Guildford,,E07000209,4.391202101
+2015,South East,Mole Valley,,E07000210,4.3822156230000004
+2015,South East,Reigate and Banstead,,E07000211,4.585466506
+2015,South East,Runnymede,,E07000212,4.9219619660000005
+2015,South East,Spelthorne,,E07000213,4.791381016
+2015,South East,Surrey Heath,,E07000214,4.570976826
+2015,South East,Tandridge,,E07000215,4.5141366960000004
+2015,South East,Waverley,,E07000216,4.009417494
+2015,South East,Woking,,E07000217,4.707140745
+2015,West Midlands,North Warwickshire,,E07000218,4.8845756069999995
+2015,West Midlands,Nuneaton and Bedworth,,E07000219,4.869172386
+2015,West Midlands,Rugby,,E07000220,4.6271106930000006
+2015,West Midlands,Stratford-on-Avon,,E07000221,4.604762276000001
+2015,West Midlands,Warwick,,E07000222,4.676263227
+2015,South East,Adur,,E07000223,4.592582658
+2015,South East,Arun,,E07000224,4.133328978
+2015,South East,Chichester,,E07000225,4.125787519
+2015,South East,Crawley,,E07000226,4.167727264
+2015,South East,Horsham,,E07000227,4.099264804
+2015,South East,Mid Sussex,,E07000228,4.1295862539999995
+2015,South East,Worthing,,E07000229,4.770474978999999
+2015,West Midlands,Bromsgrove,,E07000234,4.766729384
+2015,West Midlands,Malvern Hills,,E07000235,4.279131106
+2015,West Midlands,Redditch,,E07000236,4.577888333
+2015,West Midlands,Worcester,,E07000237,4.4135727
+2015,West Midlands,Wychavon,,E07000238,4.700060903
+2015,West Midlands,Wyre Forest,,E07000239,4.782787237
+2015,East of England,St Albans,,E07000240,5.094843877
+2015,East of England,Welwyn Hatfield,,E07000241,5.028593247
+2015,East of England,East Hertfordshire,,E07000242,5.037419375
+2015,East of England,Stevenage,,E07000243,4.612310524
+2015,North West,Bolton,,E08000001,4.228836278999999
+2015,North West,Bury,,E08000002,4.00106079
+2015,North West,Manchester,,E08000003,4.318974409
+2015,North West,Oldham,,E08000004,4.160819556
+2015,North West,Rochdale,,E08000005,4.004786157
+2015,North West,Salford,,E08000006,4.345124234
+2015,North West,Stockport,,E08000007,4.09111152
+2015,North West,Tameside,,E08000008,4.208565827
+2015,North West,Trafford,,E08000009,4.055416678
+2015,North West,Wigan,,E08000010,4.283068775
+2015,North West,Knowsley,,E08000011,4.337543695
+2015,North West,Liverpool,,E08000012,3.9665187439999996
+2015,North West,St. Helens,,E08000013,4.063645668
+2015,North West,Sefton,,E08000014,4.507715789
+2015,North West,Wirral,,E08000015,3.464923873
+2015,Yorkshire and the Humber,Barnsley,,E08000016,3.9913159769999997
+2015,Yorkshire and the Humber,Doncaster,,E08000017,4.528796334
+2015,Yorkshire and the Humber,Rotherham,,E08000018,4.449869221
+2015,Yorkshire and the Humber,Sheffield,,E08000019,4.1110157130000005
+2015,North East,Newcastle upon Tyne,,E08000021,3.521269857
+2015,North East,North Tyneside,,E08000022,3.5345474230000002
+2015,North East,South Tyneside,,E08000023,3.643891315
+2015,North East,Sunderland,,E08000024,3.657101482
+2015,West Midlands,Birmingham,,E08000025,5.12991984
+2015,West Midlands,Coventry,,E08000026,4.98125571
+2015,West Midlands,Dudley,,E08000027,4.8375821619999995
+2015,West Midlands,Sandwell,,E08000028,5.883705792000001
+2015,West Midlands,Solihull,,E08000029,4.837848322
+2015,West Midlands,Walsall,,E08000030,5.359533461
+2015,West Midlands,Wolverhampton,,E08000031,5.022339756
+2015,Yorkshire and the Humber,Bradford,,E08000032,4.201515928
+2015,Yorkshire and the Humber,Calderdale,,E08000033,3.695716654
+2015,Yorkshire and the Humber,Kirklees,,E08000034,3.885278643
+2015,Yorkshire and the Humber,Leeds,,E08000035,4.2783223569999995
+2015,Yorkshire and the Humber,Wakefield,,E08000036,4.23239098
+2015,North East,Gateshead,,E08000037,3.466352611
+2015,London,City of London,,E09000001,6.999731601000001
+2015,London,Barking and Dagenham,,E09000002,5.641141161
+2015,London,Barnet,,E09000003,5.400542144
+2015,London,Bexley,,E09000004,5.173564224
+2015,London,Brent,,E09000005,5.694799207000001
+2015,London,Bromley,,E09000006,4.867853102
+2015,London,Camden,,E09000007,6.309710715
+2015,London,Croydon,,E09000008,5.085403663999999
+2015,London,Ealing,,E09000009,5.498553500000001
+2015,London,Enfield,,E09000010,5.382846304
+2015,London,Greenwich,,E09000011,5.527485707
+2015,London,Hackney,,E09000012,6.316075961
+2015,London,Hammersmith and Fulham,,E09000013,6.107233194
+2015,London,Haringey,,E09000014,5.782031397000001
+2015,London,Harrow,,E09000015,4.976776463999999
+2015,London,Havering,,E09000016,5.14415331
+2015,London,Hillingdon,,E09000017,4.992411382
+2015,London,Hounslow,,E09000018,5.319064216
+2015,London,Islington,,E09000019,6.455233484
+2015,London,Kensington and Chelsea,,E09000020,6.564762119
+2015,London,Kingston upon Thames,,E09000021,5.101689795
+2015,London,Lambeth,,E09000022,5.987719161
+2015,London,Lewisham,,E09000023,5.565802424
+2015,London,Merton,,E09000024,5.2547809139999995
+2015,London,Newham,,E09000025,6.028992253999999
+2015,London,Redbridge,,E09000026,5.687985085
+2015,London,Richmond upon Thames,,E09000027,5.13094251
+2015,London,Southwark,,E09000028,6.130646279
+2015,London,Sutton,,E09000029,4.916122528
+2015,London,Tower Hamlets,,E09000030,6.382917681
+2015,London,Waltham Forest,,E09000031,5.909318321000001
+2015,London,Wandsworth,,E09000032,5.664109793
+2015,London,Westminster,,E09000033,6.65386027
+2016,,,,E92000001,5.289643243
+2016,North East,,,E12000001,3.903954495
+2016,North West,,,E12000002,4.6571652519999995
+2016,Yorkshire and the Humber,,,E12000003,4.7916251139999995
+2016,East Midlands,,,E12000004,5.657865166000001
+2016,West Midlands,,,E12000005,5.460479425
+2016,East of England,,,E12000006,5.425635894
+2016,London,,,E12000007,6.414692914
+2016,South East,,,E12000008,5.524006602999999
+2016,South West,,,E12000009,4.5174916430000005
+2016,North East,Hartlepool,,E06000001,4.028706731000001
+2016,North East,Middlesbrough,,E06000002,4.306022276
+2016,North East,Redcar and Cleveland,,E06000003,4.067603382
+2016,North East,Stockton-on-Tees,,E06000004,4.140367138
+2016,North East,Darlington,,E06000005,3.975169409
+2016,North West,Halton,,E06000006,5.005265077
+2016,North West,Warrington,,E06000007,4.885756103
+2016,North West,Blackburn with Darwen,,E06000008,4.656920809
+2016,North West,Blackpool,,E06000009,4.267992089
+2016,Yorkshire and the Humber,Kingston upon Hull,,E06000010,5.476557995
+2016,Yorkshire and the Humber,East Riding of Yorkshire,,E06000011,4.70953389
+2016,Yorkshire and the Humber,North East Lincolnshire,,E06000012,5.230403886
+2016,Yorkshire and the Humber,North Lincolnshire,,E06000013,5.079994612
+2016,Yorkshire and the Humber,York,,E06000014,4.490776767
+2016,East Midlands,Derby,,E06000015,6.389899776
+2016,East Midlands,Leicester,,E06000016,6.39196703
+2016,East Midlands,Rutland,,E06000017,5.43659062
+2016,East Midlands,Nottingham,,E06000018,6.348556005
+2016,West Midlands,Herefordshire,,E06000019,4.1120437789999995
+2016,West Midlands,Telford and Wrekin,,E06000020,4.483202205
+2016,West Midlands,Stoke-on-Trent,,E06000021,5.027613745
+2016,South West,Bath and North East Somerset,,E06000022,4.726051061000001
+2016,South West,Bristol,,E06000023,5.314556756
+2016,South West,North Somerset,,E06000024,4.412609135
+2016,South West,South Gloucestershire,,E06000025,5.183459758
+2016,South West,Plymouth,,E06000026,4.454818691
+2016,South West,Torbay,,E06000027,4.20935842
+2016,South West,Bournemouth,,E06000028,5.073307537
+2016,South West,Poole,,E06000029,5.012598986
+2016,South West,Swindon,,E06000030,5.379742299999999
+2016,East of England,Peterborough,,E06000031,5.537916747000001
+2016,East of England,Luton,,E06000032,5.957694967
+2016,East of England,Southend-on-Sea,,E06000033,5.522927615
+2016,East of England,Thurrock,,E06000034,5.900880281
+2016,South East,Medway,,E06000035,6.34723541
+2016,South East,Bracknell Forest,,E06000036,5.556304497
+2016,South East,West Berkshire,,E06000037,5.012172805
+2016,South East,Reading,,E06000038,5.854526104
+2016,South East,Slough,,E06000039,6.2346380660000005
+2016,South East,Windsor and Maidenhead,,E06000040,5.645792513
+2016,South East,Wokingham,,E06000041,5.605649184
+2016,South East,Milton Keynes,,E06000042,5.785824895
+2016,South East,Brighton and Hove,,E06000043,5.7488331420000005
+2016,South East,Portsmouth,,E06000044,6.593612822000001
+2016,South East,Southampton,,E06000045,5.976899502999999
+2016,South East,Isle of Wight,,E06000046,4.9000705369999995
+2016,North East,County Durham,,E06000047,3.726311551
+2016,North West,Cheshire East,,E06000049,4.462501274
+2016,North West,Cheshire West and Chester,,E06000050,4.329488713
+2016,West Midlands,Shropshire,,E06000051,3.970329385
+2016,South West,Cornwall,,E06000052,3.5424951
+2016,South West,Isles of Scilly,,E06000053,2.615337497
+2016,South West,Wiltshire,,E06000054,4.689765041999999
+2016,East of England,Bedford,,E06000055,5.475731825
+2016,East of England,Central Bedfordshire,,E06000056,5.404367538
+2016,North East,Northumberland,,E06000057,3.468506928
+2016,South East,Aylesbury Vale,,E07000004,5.348084466
+2016,South East,Chiltern,,E07000005,5.47713631
+2016,South East,South Bucks,,E07000006,5.778792254
+2016,South East,Wycombe,,E07000007,5.508613333
+2016,East of England,Cambridge,,E07000008,5.522432156
+2016,East of England,East Cambridgeshire,,E07000009,5.194193946
+2016,East of England,Fenland,,E07000010,5.281629796
+2016,East of England,Huntingdonshire,,E07000011,5.373682858
+2016,East of England,South Cambridgeshire,,E07000012,5.263541861
+2016,North West,Allerdale,,E07000026,2.972311191
+2016,North West,Barrow-in-Furness,,E07000027,4.204429726
+2016,North West,Carlisle,,E07000028,3.373542004
+2016,North West,Copeland,,E07000029,3.0516509939999996
+2016,North West,Eden,,E07000030,3.1862878439999998
+2016,North West,South Lakeland,,E07000031,3.39337558
+2016,East Midlands,Amber Valley,,E07000032,5.51611759
+2016,East Midlands,Bolsover,,E07000033,5.260456024
+2016,East Midlands,Chesterfield,,E07000034,4.81892692
+2016,East Midlands,Derbyshire Dales,,E07000035,4.489079361
+2016,East Midlands,Erewash,,E07000036,6.250448406
+2016,East Midlands,High Peak,,E07000037,4.193220608
+2016,East Midlands,North East Derbyshire,,E07000038,4.9206821960000005
+2016,East Midlands,South Derbyshire,,E07000039,5.838857487
+2016,South West,East Devon,,E07000040,3.9743413060000004
+2016,South West,Exeter,,E07000041,4.553214793
+2016,South West,Mid Devon,,E07000042,3.905191957
+2016,South West,North Devon,,E07000043,3.5280494019999997
+2016,South West,South Hams,,E07000044,3.6694117489999996
+2016,South West,Teignbridge,,E07000045,3.9652317089999998
+2016,South West,Torridge,,E07000046,3.466661981
+2016,South West,West Devon,,E07000047,3.414623331
+2016,South West,Christchurch,,E07000048,4.693024963
+2016,South West,East Dorset,,E07000049,4.647764844
+2016,South West,North Dorset,,E07000050,4.53870909
+2016,South West,Purbeck,,E07000051,4.182066011
+2016,South West,West Dorset,,E07000052,4.095274867
+2016,South West,Weymouth and Portland,,E07000053,4.133239602
+2016,South East,Eastbourne,,E07000061,5.3060708960000005
+2016,South East,Hastings,,E07000062,5.488189706
+2016,South East,Lewes,,E07000063,5.054787023
+2016,South East,Rother,,E07000064,4.995594522
+2016,South East,Wealden,,E07000065,4.993042482
+2016,East of England,Basildon,,E07000066,5.591022871
+2016,East of England,Braintree,,E07000067,5.379554843999999
+2016,East of England,Brentwood,,E07000068,5.545033413
+2016,East of England,Castle Point,,E07000069,5.47581995
+2016,East of England,Chelmsford,,E07000070,5.5500692439999995
+2016,East of England,Colchester,,E07000071,5.446486254
+2016,East of England,Epping Forest,,E07000072,5.697189527999999
+2016,East of England,Harlow,,E07000073,5.544747215
+2016,East of England,Maldon,,E07000074,5.234302423
+2016,East of England,Rochford,,E07000075,5.375871801000001
+2016,East of England,Tendring,,E07000076,5.1972598439999995
+2016,East of England,Uttlesford,,E07000077,5.236571894
+2016,South West,Cheltenham,,E07000078,5.27954354
+2016,South West,Cotswold,,E07000079,4.655159688
+2016,South West,Forest of Dean,,E07000080,4.4081420719999995
+2016,South West,Gloucester,,E07000081,5.395117977000001
+2016,South West,Stroud,,E07000082,4.6443589119999995
+2016,South West,Tewkesbury,,E07000083,4.95530748
+2016,South East,Basingstoke and Deane,,E07000084,5.263768188
+2016,South East,East Hampshire,,E07000085,5.035272405
+2016,South East,Eastleigh,,E07000086,5.574540112999999
+2016,South East,Fareham,,E07000087,5.6508229729999995
+2016,South East,Gosport,,E07000088,5.678257622
+2016,South East,Hart,,E07000089,5.263332093
+2016,South East,Havant,,E07000090,5.716035226
+2016,South East,New Forest,,E07000091,4.867908535
+2016,South East,Rushmoor,,E07000092,5.751436272
+2016,South East,Test Valley,,E07000093,5.08191381
+2016,South East,Winchester,,E07000094,5.0294841969999995
+2016,East of England,Broxbourne,,E07000095,5.650069795
+2016,East of England,Dacorum,,E07000096,5.4097085
+2016,East of England,Hertsmere,,E07000098,5.700909517
+2016,East of England,North Hertfordshire,,E07000099,5.382940028999999
+2016,East of England,Three Rivers,,E07000102,5.564052587999999
+2016,East of England,Watford,,E07000103,5.867038277000001
+2016,South East,Ashford,,E07000105,5.381655437
+2016,South East,Canterbury,,E07000106,5.344449838
+2016,South East,Dartford,,E07000107,6.295007852
+2016,South East,Dover,,E07000108,5.245930818
+2016,South East,Gravesham,,E07000109,6.130066492999999
+2016,South East,Maidstone,,E07000110,5.665852277999999
+2016,South East,Sevenoaks,,E07000111,5.504373687
+2016,South East,Shepway,,E07000112,5.200259357
+2016,South East,Swale,,E07000113,5.61776547
+2016,South East,Thanet,,E07000114,5.507286399
+2016,South East,Tonbridge and Malling,,E07000115,5.6168745389999994
+2016,South East,Tunbridge Wells,,E07000116,5.2518769810000006
+2016,North West,Burnley,,E07000117,4.771612501
+2016,North West,Chorley,,E07000118,4.485228084
+2016,North West,Fylde,,E07000119,3.804093131
+2016,North West,Hyndburn,,E07000120,4.806780192
+2016,North West,Lancaster,,E07000121,4.082655737
+2016,North West,Pendle,,E07000122,4.735776808
+2016,North West,Preston,,E07000123,4.706591035
+2016,North West,Ribble Valley,,E07000124,3.982761879
+2016,North West,Rossendale,,E07000125,4.356911894
+2016,North West,South Ribble,,E07000126,4.5419463669999995
+2016,North West,West Lancashire,,E07000127,4.27203062
+2016,North West,Wyre,,E07000128,3.904144875
+2016,East Midlands,Blaby,,E07000129,5.94026229
+2016,East Midlands,Charnwood,,E07000130,6.071692136
+2016,East Midlands,Harborough,,E07000131,5.528052701
+2016,East Midlands,Hinckley and Bosworth,,E07000132,5.800437496
+2016,East Midlands,Melton,,E07000133,5.604318113
+2016,East Midlands,North West Leicestershire,,E07000134,5.892463417999999
+2016,East Midlands,Oadby and Wigston,,E07000135,5.91203215
+2016,East Midlands,Boston,,E07000136,5.266025914
+2016,East Midlands,East Lindsey,,E07000137,4.913928491
+2016,East Midlands,Lincoln,,E07000138,5.370843223
+2016,East Midlands,North Kesteven,,E07000139,5.2948251310000005
+2016,East Midlands,South Holland,,E07000140,5.190083829
+2016,East Midlands,South Kesteven,,E07000141,5.435378388999999
+2016,East Midlands,West Lindsey,,E07000142,5.116895034
+2016,East of England,Breckland,,E07000143,5.015311006
+2016,East of England,Broadland,,E07000144,5.177851863
+2016,East of England,Great Yarmouth,,E07000145,5.229680485
+2016,East of England,King's Lynn and West Norfolk,,E07000146,5.048977873
+2016,East of England,North Norfolk,,E07000147,4.896479662
+2016,East of England,Norwich,,E07000148,5.502622712999999
+2016,East of England,South Norfolk,,E07000149,5.108081821
+2016,East Midlands,Corby,,E07000150,5.386352659
+2016,East Midlands,Daventry,,E07000151,5.243512494
+2016,East Midlands,East Northamptonshire,,E07000152,5.3567540639999995
+2016,East Midlands,Kettering,,E07000153,5.591853535
+2016,East Midlands,Northampton,,E07000154,5.733723679
+2016,East Midlands,South Northamptonshire,,E07000155,5.162092731
+2016,East Midlands,Wellingborough,,E07000156,5.585906702000001
+2016,Yorkshire and the Humber,Craven,,E07000163,3.851865855
+2016,Yorkshire and the Humber,Hambleton,,E07000164,3.9805798739999996
+2016,Yorkshire and the Humber,Harrogate,,E07000165,4.123999827
+2016,Yorkshire and the Humber,Richmondshire,,E07000166,3.681327577
+2016,Yorkshire and the Humber,Ryedale,,E07000167,3.9206168989999997
+2016,Yorkshire and the Humber,Scarborough,,E07000168,4.016761172
+2016,Yorkshire and the Humber,Selby,,E07000169,4.691964251
+2016,East Midlands,Ashfield,,E07000170,5.610252786
+2016,East Midlands,Bassetlaw,,E07000171,5.0554509030000006
+2016,East Midlands,Broxtowe,,E07000172,6.184758477999999
+2016,East Midlands,Gedling,,E07000173,6.029901197
+2016,East Midlands,Mansfield,,E07000174,5.412949308
+2016,East Midlands,Newark and Sherwood,,E07000175,5.472504184
+2016,East Midlands,Rushcliffe,,E07000176,5.962823866
+2016,South East,Cherwell,,E07000177,5.565417243
+2016,South East,Oxford,,E07000178,5.576498829
+2016,South East,South Oxfordshire,,E07000179,5.093218037
+2016,South East,Vale of White Horse,,E07000180,5.051113469
+2016,South East,West Oxfordshire,,E07000181,4.983381755
+2016,South West,Mendip,,E07000187,4.420345236
+2016,South West,Sedgemoor,,E07000188,4.415160056
+2016,South West,South Somerset,,E07000189,4.390126888
+2016,South West,Taunton Deane,,E07000190,4.318991135
+2016,South West,West Somerset,,E07000191,3.4632532360000003
+2016,West Midlands,Cannock Chase,,E07000192,5.405717965
+2016,West Midlands,East Staffordshire,,E07000193,5.618876372999999
+2016,West Midlands,Lichfield,,E07000194,5.526874672000001
+2016,West Midlands,Newcastle-under-Lyme,,E07000195,4.736809278
+2016,West Midlands,South Staffordshire,,E07000196,5.098924944
+2016,West Midlands,Stafford,,E07000197,4.81659753
+2016,West Midlands,Staffordshire Moorlands,,E07000198,4.557385887
+2016,West Midlands,Tamworth,,E07000199,5.955338648
+2016,East of England,Babergh,,E07000200,5.2546705000000005
+2016,East of England,Forest Heath,,E07000201,5.075309837
+2016,East of England,Ipswich,,E07000202,5.763237327000001
+2016,East of England,Mid Suffolk,,E07000203,5.193553133
+2016,East of England,St. Edmundsbury,,E07000204,5.263873071
+2016,East of England,Suffolk Coastal,,E07000205,5.15057011
+2016,East of England,Waveney,,E07000206,5.263690906
+2016,South East,Elmbridge,,E07000207,5.8514704889999996
+2016,South East,Epsom and Ewell,,E07000208,5.996625956
+2016,South East,Guildford,,E07000209,5.50239145
+2016,South East,Mole Valley,,E07000210,5.427829145
+2016,South East,Reigate and Banstead,,E07000211,5.57988247
+2016,South East,Runnymede,,E07000212,5.793120500000001
+2016,South East,Spelthorne,,E07000213,6.055851649
+2016,South East,Surrey Heath,,E07000214,5.667056057999999
+2016,South East,Tandridge,,E07000215,5.374394132000001
+2016,South East,Waverley,,E07000216,5.077052136
+2016,South East,Woking,,E07000217,5.698151134
+2016,West Midlands,North Warwickshire,,E07000218,5.733355661
+2016,West Midlands,Nuneaton and Bedworth,,E07000219,5.870301811
+2016,West Midlands,Rugby,,E07000220,5.473021936
+2016,West Midlands,Stratford-on-Avon,,E07000221,4.989416365
+2016,West Midlands,Warwick,,E07000222,5.417115899
+2016,South East,Adur,,E07000223,5.547653179
+2016,South East,Arun,,E07000224,5.145021068
+2016,South East,Chichester,,E07000225,5.017010129
+2016,South East,Crawley,,E07000226,5.70466782
+2016,South East,Horsham,,E07000227,5.172160753
+2016,South East,Mid Sussex,,E07000228,5.288291159
+2016,South East,Worthing,,E07000229,5.572036638999999
+2016,West Midlands,Bromsgrove,,E07000234,5.179443102
+2016,West Midlands,Malvern Hills,,E07000235,4.454390007
+2016,West Midlands,Redditch,,E07000236,5.0634281660000005
+2016,West Midlands,Worcester,,E07000237,5.007340769
+2016,West Midlands,Wychavon,,E07000238,4.80200982
+2016,West Midlands,Wyre Forest,,E07000239,4.723086509
+2016,East of England,St Albans,,E07000240,5.5501738110000005
+2016,East of England,Welwyn Hatfield,,E07000241,5.566550772
+2016,East of England,East Hertfordshire,,E07000242,5.394654922999999
+2016,East of England,Stevenage,,E07000243,5.443235576
+2016,North West,Bolton,,E08000001,5.030740368
+2016,North West,Bury,,E08000002,4.899194996
+2016,North West,Manchester,,E08000003,5.186785663
+2016,North West,Oldham,,E08000004,4.974816381
+2016,North West,Rochdale,,E08000005,4.823213956
+2016,North West,Salford,,E08000006,5.096060474
+2016,North West,Stockport,,E08000007,4.911579263999999
+2016,North West,Tameside,,E08000008,5.064457085
+2016,North West,Trafford,,E08000009,4.945005962
+2016,North West,Wigan,,E08000010,4.732956888
+2016,North West,Knowsley,,E08000011,5.135895393
+2016,North West,Liverpool,,E08000012,5.2306137260000005
+2016,North West,St. Helens,,E08000013,4.919108775
+2016,North West,Sefton,,E08000014,4.449373703
+2016,North West,Wirral,,E08000015,4.431466525
+2016,Yorkshire and the Humber,Barnsley,,E08000016,4.486023953
+2016,Yorkshire and the Humber,Doncaster,,E08000017,4.950145783
+2016,Yorkshire and the Humber,Rotherham,,E08000018,4.8308281
+2016,Yorkshire and the Humber,Sheffield,,E08000019,4.581046442
+2016,North East,Newcastle upon Tyne,,E08000021,3.9380824469999998
+2016,North East,North Tyneside,,E08000022,3.9841326
+2016,North East,South Tyneside,,E08000023,4.06974987
+2016,North East,Sunderland,,E08000024,4.048299598
+2016,West Midlands,Birmingham,,E08000025,6.15076155
+2016,West Midlands,Coventry,,E08000026,6.06491072
+2016,West Midlands,Dudley,,E08000027,5.618133939
+2016,West Midlands,Sandwell,,E08000028,6.313646737000001
+2016,West Midlands,Solihull,,E08000029,5.895857671
+2016,West Midlands,Walsall,,E08000030,6.130711915
+2016,West Midlands,Wolverhampton,,E08000031,5.590648795
+2016,Yorkshire and the Humber,Bradford,,E08000032,4.99534541
+2016,Yorkshire and the Humber,Calderdale,,E08000033,4.697484266
+2016,Yorkshire and the Humber,Kirklees,,E08000034,4.816786102
+2016,Yorkshire and the Humber,Leeds,,E08000035,5.136680313
+2016,Yorkshire and the Humber,Wakefield,,E08000036,4.774858525
+2016,North East,Gateshead,,E08000037,3.894535823
+2016,London,City of London,,E09000001,6.771044445
+2016,London,Barking and Dagenham,,E09000002,6.707148994
+2016,London,Barnet,,E09000003,6.159182651
+2016,London,Bexley,,E09000004,6.206999078
+2016,London,Brent,,E09000005,6.417981084
+2016,London,Bromley,,E09000006,5.844113567000001
+2016,London,Camden,,E09000007,6.5142573939999995
+2016,London,Croydon,,E09000008,6.2026432
+2016,London,Ealing,,E09000009,6.38351227
+2016,London,Enfield,,E09000010,6.330753686
+2016,London,Greenwich,,E09000011,6.4480981779999995
+2016,London,Hackney,,E09000012,6.661191992999999
+2016,London,Hammersmith and Fulham,,E09000013,6.64515718
+2016,London,Haringey,,E09000014,6.548972114
+2016,London,Harrow,,E09000015,6.004830854
+2016,London,Havering,,E09000016,5.987834199
+2016,London,Hillingdon,,E09000017,5.951250569
+2016,London,Hounslow,,E09000018,6.298720638
+2016,London,Islington,,E09000019,6.669627114
+2016,London,Kensington and Chelsea,,E09000020,6.754354773999999
+2016,London,Kingston upon Thames,,E09000021,6.102549877
+2016,London,Lambeth,,E09000022,6.638025481000001
+2016,London,Lewisham,,E09000023,6.489190951
+2016,London,Merton,,E09000024,6.5052580010000005
+2016,London,Newham,,E09000025,6.940119496
+2016,London,Redbridge,,E09000026,6.567734698
+2016,London,Richmond upon Thames,,E09000027,6.15410274
+2016,London,Southwark,,E09000028,6.590940422999999
+2016,London,Sutton,,E09000029,6.119268687000001
+2016,London,Tower Hamlets,,E09000030,6.616686969
+2016,London,Waltham Forest,,E09000031,6.829923377
+2016,London,Wandsworth,,E09000032,6.497630719
+2016,London,Westminster,,E09000033,6.71396558
+2013,,,1. Most deprived decile,E92000001,5.781138653999999
+2013,,,2. Second most deprived decile,E92000001,5.22134669
+2013,,,3. Third more deprived decile,E92000001,5.407883003999999
+2013,,,4. Fourth more deprived decile,E92000001,5.194188465
+2013,,,5. Fifth more deprived decile,E92000001,5.144915469
+2013,,,6. Fifth less deprived decile,E92000001,5.270123591
+2013,,,7. Fourth less deprived decile,E92000001,5.20542915
+2013,,,8. Third less deprived decile,E92000001,5.073647166000001
+2013,,,9. Second least deprived decile,E92000001,5.275355441
+2013,,,10. Least deprived decile,E92000001,5.28103247
+2014,,,1. Most deprived decile,E92000001,5.487271259
+2014,,,2. Second most deprived decile,E92000001,5.3535409089999995
+2014,,,3. Third more deprived decile,E92000001,4.9924498360000005
+2014,,,4. Fourth more deprived decile,E92000001,5.014071669
+2014,,,5. Fifth more deprived decile,E92000001,5.031360508
+2014,,,6. Fifth less deprived decile,E92000001,5.175871183
+2014,,,7. Fourth less deprived decile,E92000001,4.870215018000001
+2014,,,8. Third less deprived decile,E92000001,4.966948183
+2014,,,9. Second least deprived decile,E92000001,5.021308718999999
+2014,,,10. Least deprived decile,E92000001,5.084892879
+2015,,,1. Most deprived decile,E92000001,4.992414814
+2015,,,2. Second most deprived decile,E92000001,4.702504977
+2015,,,3. Third more deprived decile,E92000001,4.6683444000000005
+2015,,,4. Fourth more deprived decile,E92000001,4.812388016
+2015,,,5. Fifth more deprived decile,E92000001,4.607166896
+2015,,,6. Fifth less deprived decile,E92000001,4.696671
+2015,,,7. Fourth less deprived decile,E92000001,4.710494366
+2015,,,8. Third less deprived decile,E92000001,4.569696016
+2015,,,9. Second least deprived decile,E92000001,4.634965547
+2015,,,10. Least deprived decile,E92000001,4.598920879
+2016,,,1. Most deprived decile,E92000001,5.668778142000001
+2016,,,2. Second most deprived decile,E92000001,5.3510370410000005
+2016,,,3. Third more deprived decile,E92000001,5.020110257
+2016,,,4. Fourth more deprived decile,E92000001,5.335107174
+2016,,,5. Fifth more deprived decile,E92000001,5.1489365760000005
+2016,,,6. Fifth less deprived decile,E92000001,5.158629273
+2016,,,7. Fourth less deprived decile,E92000001,5.322978824
+2016,,,8. Third less deprived decile,E92000001,5.03548254
+2016,,,9. Second least deprived decile,E92000001,5.264017887
+2016,,,10. Least deprived decile,E92000001,5.406451745
