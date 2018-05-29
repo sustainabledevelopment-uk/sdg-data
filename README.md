@@ -22,11 +22,11 @@ The main data set, the raw data lives in `data/` in the repo.
 ```
 data/<format>/<id>.<ext>
 
-data/csv/1-2-1.csv
-data/json/1-2-1.json
+data/1-2-1.csv
+data/1-2-1.json
 ```
 
-e.g. https://mangothecat.github.io/sdg-data/data/json/1-2-1.json
+e.g. https://mangothecat.github.io/sdg-data/data/1-2-1.json
 
 ### Edges
 
@@ -51,6 +51,8 @@ meta/<id>.json
 
 ## Build time routes
 
+At build time you'll need everything. Rather than making you download each indicator separately we have an ID of `all` which you can use.
+
 ### Headline data
 
 ```
@@ -58,13 +60,15 @@ headline/<id>.<format>
 headline/all.json
 ```
 
-### Everything
+### Metadata
 
-The following is metadata and headlines for all indicators in one blob for the build.
+The following is all metadata for all indicators in one blob for the build.
 
 ```
 meta/all.json
 ```
+
+It's a JSON object with `{<id>: <meta>}` pairs.
 
 Scripts:
 
