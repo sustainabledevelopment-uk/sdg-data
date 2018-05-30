@@ -20,7 +20,7 @@ Loosely speaking with have: `<datatype>/<id>.<format>` and support csv and json 
 The main data set, the raw data lives in `data/` in the repo.
 
 ```
-data/<format>/<id>.<ext>
+data/<id>.<format>
 
 data/1-2-1.csv
 data/1-2-1.json
@@ -72,11 +72,12 @@ It's a JSON object with `{<id>: <meta>}` pairs.
 
 Scripts:
 
+`check_data.py`: Runs data and metadata checks and will prevent deployment if fails.
 `build_data.py`: Builds main data, headline, and edges output in csv, and json.
 
 Packages:
 
-The `scripts/sdg` folder holds the supporting python package for `build_data.py`.
+This uses the `sdg` package from the `sdg-build` repository during the build.
 
 ## License
 
