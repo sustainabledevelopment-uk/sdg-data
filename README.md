@@ -52,6 +52,13 @@ e.g. https://ONSdigital.github.io/sdg-data/data/1-2-1.json
 /meta/<id>.json
 ```
 
+## Statistics
+
+Statistics generated from the data and metadata. Currently just the reporting status statistics.
+
+```
+/stats/reporting.json
+```
 
 ## Build time routes
 
@@ -92,4 +99,5 @@ Data (`data/` and `meta/`) is under [open government license v3](http://www.nati
 Code (`scripts/` and top level) is MIT © Office for National Statistics
 
 
-Last updated Wed Mar 20 18:50:27 UTC 2019
+
+Last updated Fri Mar 29 16:04:32 UTC 2019
