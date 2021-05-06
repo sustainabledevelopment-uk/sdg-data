@@ -26,8 +26,8 @@ Completeness of disaggregation,1,3
 Contact sexual abuse type,1,2
 Contraceptive method,1,2
 Corruption offence type,2,4
-Country Group,1,3
 Country group,2,3
+Country Group,1,3
 Country of birth,14,31
 Country,35,10
 County,1,27
@@ -105,8 +105,8 @@ Performing/Funding,1,2
 Place of occurrence,1,10
 Police Force Area,1,43
 Product group,1,34
-Product Sector,1,4
 Product sector,2,4
+Product Sector,1,4
 Product,1,12
 Productivity,1,2
 Recipient country,1,164
@@ -114,13 +114,14 @@ Recipient region,1,6
 Region of travel,2,21
 Region,39,18
 Relationship to perpetrator,2,5
+Retirment status,1,2
 Risk of extinction category,1,3
 Road category,1,5
 Scottish Council Area,1,31
 Sector,3,11
 Security,1,2
 Sex by disability,1,4
-Sex,50,4
+Sex,51,6
 Size of particulate matter,1,1
 Skill,1,10
 Socio-economic classification,2,8
