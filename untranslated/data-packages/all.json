@@ -2810,8 +2810,8 @@
               "enum": [
                 "England",
                 "Wales",
-                "Northern Ireland",
                 "Scotland",
+                "Northern Ireland",
                 ""
               ]
             }
@@ -2832,11 +2832,11 @@
             "type": "string"
           },
           {
-            "name": "Unit multiplier",
+            "name": "Unit measure",
             "type": "string"
           },
           {
-            "name": "Unit measure",
+            "name": "Unit multiplier",
             "type": "string"
           },
           {
@@ -6892,6 +6892,10 @@
             "type": "string"
           },
           {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -7680,10 +7684,10 @@
               "enum": [
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 "East Midlands",
                 "West Midlands",
-                "East of England",
+                "East",
                 "London",
                 "South East",
                 "South West",
@@ -13063,12 +13067,22 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chikungunya and Dengue fever",
+                "Rabies",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
               "enum": [
                 "England, Wales and Northern Ireland",
-                "United Kingdom",
                 ""
               ]
             }
@@ -13080,7 +13094,6 @@
               "enum": [
                 "Chikungunya",
                 "Dengue fever",
-                "Rabies",
                 ""
               ]
             }
@@ -14389,22 +14402,32 @@
             "type": "integer"
           },
           {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 "East Midlands",
                 "West Midlands",
-                "East of England",
+                "East",
                 "London",
                 "South East",
                 "South West",
-                "Wales",
-                "Scotland",
-                "Northern Ireland",
                 ""
               ]
             }
@@ -14416,6 +14439,17 @@
               "enum": [
                 "Male",
                 "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture",
+                "Non-Agriculture",
                 ""
               ]
             }
@@ -15706,36 +15740,16 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "B) State (biomass remaining, %)",
-                "A) Pressure (Stocks harvested, %)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sustainability level (Pressure)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of fish stocks harvested below FMSY",
-                "Percentage of fish stocks harvested above FMSY",
-                "Percentage of fish stocks unknown",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sustainability level (State)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of fish stocks above MSY Btrigger",
-                "Percentage of fish stocks below MSY Btrigger",
-                "Percentage of fish stocks unknown",
+                "4) Proportion of fish stocks within biologically sustainable levels (not overexploited)",
+                "5) Proportion of fish stocks not within biologically sustainable levels (overexploited)",
+                "6) Proportion of fish stocks where biologically sustainable status is unknown",
+                "1) Proportion of fish stocks that are not overexploited",
+                "2) Proportion of fish stocks that are overexploited",
+                "3) Proportion of fish stocks with unknown level of exploitation",
                 ""
               ]
             }
@@ -15803,12 +15817,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 24",
-                "25 to 34",
-                "35 to 44",
-                "45 to 54",
-                "55 to 64",
-                "65 to 74",
+                "16-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65-74",
                 "75 and over",
                 ""
               ]
@@ -15847,10 +15861,10 @@
             "constraints": {
               "enum": [
                 "Less than £10,000",
-                "£10,000 to less than £20,000",
-                "£20,000 to less than £30,000",
-                "£30,000 to less than £40,000",
-                "£40,000 to less than £50,000",
+                "£10,000-less than £20,000",
+                "£20,000-less than £30,000",
+                "£30,000-less than £40,000",
+                "£40,000-less than £50,000",
                 "£50,000 or more",
                 "No income stated or not enough information provided",
                 ""
@@ -17384,6 +17398,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Urban/Rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",
@@ -19338,9 +19363,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tertiary",
-                "Secondary",
                 "Primary",
+                "Secondary",
+                "Tertiary",
                 ""
               ]
             }
