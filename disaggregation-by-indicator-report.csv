@@ -43,7 +43,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-3-2,"Age, Sex, Nationality",3
 #16-5-1,Corruption offence type,1
 #16-5-2,Corruption offence type,1
-#16-6-2,"Age, Sex, Disability status, Country of birth, Region, Income quartile",6
+#16-6-2,"Age, Sex, Disability status, Country of birth, Region, Country, Income quartile",7
 #16-7-1,"Age, Sex, Region, Country, Sector",5
 #16-7-2,"Age, Sex, Ethnicity, Disability status, Region, Household income, Urban or rural, Citizenship",8
 #16-8-1,"Developing country participation, Institution",2
@@ -56,7 +56,6 @@ Indicator,Disaggregations,Number of disaggregations
 #17-14-1,Mechanism,1
 #17-18-1,"Completeness of disaggregation, Goal",2
 #17-19-1,Flow of Official Development Assistance (ODA),1
-#17-2-1,LDCs bilateral and multilateral flows,1
 #17-6-1,Speed (mb/sec),1
 #17-8-1,"Age, Sex, Ethnicity, Ethnic group, Disability status, Region, Employment status, Local Authority",8
 #17-9-1,DAC classification,1

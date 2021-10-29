@@ -4457,8 +4457,8 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
@@ -4466,7 +4466,7 @@
                 "South West",
                 "Wales",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
@@ -5751,8 +5751,8 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
@@ -6170,7 +6170,7 @@
                 "LMICs",
                 "Other LICs",
                 "UMICs",
-                "Undefined"
+                "Unspecified"
               ]
             },
             "title": "Country income classification"
@@ -6186,9 +6186,9 @@
             "constraints": {
               "enum": [
                 "",
-                "(a) ODA for biodiversity",
-                "(b) Tax revenue from biodiversity-relevant taxes",
-                "(b) Tax revenue from biodiversity-relevant taxes out of total tax revenue"
+                "Tax revenue from biodiversity-relevant taxes",
+                "Tax revenue from biodiversity-relevant taxes out of total tax revenue",
+                "Total official development assistance for biodiversity, by recipient countries"
               ]
             },
             "title": "Series"
@@ -9632,17 +9632,6 @@
       "schema": {
         "fields": [
           {
-            "name": "LDCs bilateral and multilateral flows",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Least developed countries (bilateral and imputed multilateral)"
-              ]
-            },
-            "title": "LDCs bilateral and multilateral flows"
-          },
-          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
@@ -10778,15 +10767,15 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
@@ -11111,7 +11100,7 @@
                 "LMICs",
                 "Other LICs",
                 "UMICs",
-                "Undefined"
+                "Unspecified"
               ]
             },
             "title": "Country income classification"
@@ -11127,9 +11116,9 @@
             "constraints": {
               "enum": [
                 "",
-                "(a) ODA for biodiversity",
-                "(b) Tax revenue from biodiversity-relevant taxes",
-                "(b) Tax revenue from biodiversity-relevant taxes out of total tax revenue"
+                "Tax revenue from biodiversity-relevant taxes",
+                "Tax revenue from biodiversity-relevant taxes out of total tax revenue",
+                "Total official development assistance for biodiversity, by recipient countries"
               ]
             },
             "title": "Series"
@@ -11379,10 +11368,24 @@
                 "70 to 74",
                 "75 to 79",
                 "80 to 84",
-                "85+"
+                "85 and over"
               ]
             },
             "title": "Age"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "England",
+                "Northern Ireland",
+                "Scotland",
+                "Wales"
+              ]
+            },
+            "title": "Country"
           },
           {
             "name": "Country of birth",
@@ -11438,18 +11441,15 @@
             "constraints": {
               "enum": [
                 "",
+                "East",
                 "East Midlands",
-                "East of England",
                 "London",
                 "North East",
                 "North West",
-                "Northern Ireland",
-                "Scotland",
                 "South East",
                 "South West",
-                "Wales",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
@@ -12626,7 +12626,7 @@
                 "South West",
                 "Wales",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
@@ -15496,14 +15496,31 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Mountain Green Cover Index"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Percentage (%)"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -18750,8 +18767,10 @@
                 "Cumbria",
                 "Derbyshire",
                 "Devon",
-                "Dorset",
+                "Dorset (Cty)",
+                "East Midlands region",
                 "East Sussex",
+                "East of England region",
                 "Essex",
                 "Gloucestershire",
                 "Hampshire",
@@ -18760,18 +18779,25 @@
                 "Lancashire",
                 "Leicestershire",
                 "Lincolnshire",
+                "London region",
                 "Norfolk",
+                "North East region",
+                "North West region",
                 "North Yorkshire",
                 "Northamptonshire",
                 "Nottinghamshire",
                 "Oxfordshire",
                 "Somerset",
+                "South East region",
+                "South West region",
                 "Staffordshire",
                 "Suffolk",
                 "Surrey",
                 "Warwickshire",
+                "West Midlands region",
                 "West Sussex",
-                "Worcestershire"
+                "Worcestershire",
+                "Yorkshire and the Humber region"
               ]
             },
             "title": "County"
@@ -18929,21 +18955,17 @@
                 "",
                 "East Midlands",
                 "East of England",
+                "England",
                 "London",
                 "North East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
-                "Yorkshire and the Humber"
+                "Yorkshire and The Humber"
               ]
             },
             "title": "Region"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "Unit multiplier",
@@ -18957,7 +18979,7 @@
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           }
         ]
@@ -20652,14 +20674,31 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "",
+                "Red List Index"
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Index"
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
