@@ -2786,12 +2786,15 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }
@@ -2805,8 +2808,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "USD ($ millions)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3905,14 +3915,15 @@
             "type": "integer"
           },
           {
-            "name": "DAC classification",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Least developed countries",
-                "Lower middle income countries and territories",
-                "Other low income countries",
-                "Upper middle income countries and territories",
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }
@@ -3926,8 +3937,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "USD ($ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4722,6 +4740,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree of integrated water resources management implementation",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Water resources management category",
             "type": "string",
             "constraints": {
@@ -4744,7 +4772,7 @@
                 "National integrated water resources management (IWRM) plans",
                 "National water resources law",
                 "National water resources policy",
-                "Provincial and state water resources laws",
+                "Sub-national water resources regulations",
                 "Sub-national water resources policies",
                 "Financing for transboundary cooperation",
                 "National budget for investment including water resources infrastructure",
@@ -4752,13 +4780,14 @@
                 "Revenues raised from dedicated levies on water users at basin, aquifer or sub-national levels",
                 "Sub-national or basin budgets for investment including water resources infrastructure",
                 "Basin and aquifer level organizations for leading implementation of integrated water resources management (IWRM) plans",
-                "Business participation in water resources development, management and use at national level",
+                "Private Sector participation in water resources development, management and use at national level",
                 "Coordination between national government authorities representing different sectors on water resources, policy, planning and management",
                 "Developing integrated water resources management (IWRM) capacity at the national level",
                 "National government authority capacity for leading implementation of national integrated water resources management (IWRM) plans",
                 "Organizational framework for transboundary water management for most important basins and aquifers",
                 "Public participation in water resources, policy, planning and management at national level",
                 "Public participation in water resources, policy, planning and management at the local level",
+                "Sub-national authorities for leading IWRM implementation",
                 "Aquifer management instruments",
                 "Basin management instruments",
                 "Data and information sharing within countries at all levels",
@@ -4768,17 +4797,25 @@
                 "Pollution control from the national level",
                 "Sustainable and efficient water use management from the national level",
                 "Transboundary data and information sharing between countries",
+                "Sub-national or basin budgets for IWRM elements",
+                "Participation of vulnerable groups in water resources planning and management",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Integrated Water Resources Management score",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Unit multiplier",
@@ -5498,23 +5535,25 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "Total official development assistance to medical research and basic heath sectors, net disbursement, by recipient countries",
                 ""
               ]
             }
           },
           {
-            "name": "Aid sub-category (DAC 5 code)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Basic health (122)",
-                "Health, general (121)",
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }
@@ -5524,18 +5563,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Basic health care (12220)",
-                "Basic health infrastructure (12230)",
-                "Basic nutrition (12240)",
-                "Health education (12261)",
-                "Health personnel development (12281)",
-                "Infectious disease control (12250)",
-                "Malaria control (12262)",
-                "Tuberculosis control (12263)",
-                "Health policy and administrative management (12110)",
-                "Medical education/training (12181)",
-                "Medical research (12182)",
-                "Medical services (12191)",
+                "Basic health",
+                "Medical research",
                 ""
               ]
             }
@@ -5549,8 +5578,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "Constant USD ($ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -5865,12 +5901,15 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }
@@ -9280,32 +9319,25 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "Total official development assistance (gross disbursement) for water supply and sanitation, by recipient countries",
                 ""
               ]
             }
           },
           {
-            "name": "Aid description (CRS code)",
+            "name": "Country income classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "Basic drinking water supply (14031)",
-                "Basic drinking water supply and basic sanitation (14030)",
-                "Basic sanitation (14032)",
-                "Education and training in water supply and sanitation (14081)",
-                "River basins development (14040)",
-                "Sanitation - large systems (14022)",
-                "Waste management/disposal (14050)",
-                "Water resources policy/administrative management (14010)",
-                "Water resources protection (14015)",
-                "Water supply - large systems (14021)",
-                "Water supply & sanit. - large systems (14020)",
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }
@@ -9319,8 +9351,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "Constant USD ($ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -10615,6 +10654,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population below international poverty line",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Observation status",
             "type": "string"
           },
@@ -10623,8 +10672,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -11875,12 +11930,37 @@
             "type": "string"
           },
           {
-            "name": "Death classification",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct",
-                "Indirect",
+                "Maternal mortality rate",
+                "Maternal mortality ratio",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "19 and under",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "England",
                 ""
               ]
             }
@@ -11897,16 +11977,12 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Death classification",
             "type": "string",
             "constraints": {
               "enum": [
-                "19 and under",
-                "20 to 24",
-                "25 to 29",
-                "30 to 34",
-                "35 to 39",
-                "40 and over",
+                "Direct",
+                "Indirect",
                 ""
               ]
             }
@@ -11941,6 +12017,29 @@
           },
           {
             "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate per 100,000 maternities",
+                "Rate per 100,000 live births",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit measure",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
             "type": "string"
           },
           {
@@ -14485,12 +14584,25 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "Total official flows (disbursements) for agriculture, by recipient countries",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country income classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }
@@ -14504,8 +14616,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "Constant USD ($ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -17174,12 +17293,25 @@
             "type": "integer"
           },
           {
-            "name": "Flow of Official Development Assistance (ODA)",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bilateral",
-                "Multilateral",
+                "Value of all resources made available to strengthen statistical capacity in developing countries",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Country income classification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDCs",
+                "LMICs",
+                "Other LICs",
+                "UMICs",
+                "Unspecified",
                 ""
               ]
             }
@@ -17193,8 +17325,15 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£ thousands)",
+                "USD ($ thousands)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -18700,12 +18839,28 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total government spending on essential services, education",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Observation status",
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

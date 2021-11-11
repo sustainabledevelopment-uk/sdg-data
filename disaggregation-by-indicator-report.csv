@@ -55,18 +55,18 @@ Indicator,Disaggregations,Number of disaggregations
 #17-12-1,"Country group, Product sector",2
 #17-14-1,Mechanism,1
 #17-18-1,"Completeness of disaggregation, Goal",2
-#17-19-1,Flow of Official Development Assistance (ODA),1
+#17-19-1,Country income classification,1
 #17-6-1,Speed (mb/sec),1
 #17-8-1,"Sex, Age, Ethnicity, Ethnic group, Disability status, Region, Local Authority, Employment status",8
-#17-9-1,DAC classification,1
+#17-9-1,Country income classification,1
 #2-1-1,"Sex, Age, Measure",3
 #2-1-2,"Sex, Age, Household income, Country, Household size, Children under 16 in the household, Children under 6 in the household, Working Status, Food insecurity category",9
 #2-2-2,"Sex, Ethnicity, Country, BMI",4
 #2-3-1,"Productivity, Outputs, Inputs",3
 #2-3-2,Sex,1
 #2-5-2,Risk of extinction category,1
-#2-a-2,Flow of Official Development Assistance (ODA),1
-#3-1-1,"Age, Ethnicity, Country of birth, Death classification, Deprivation quintile",5
+#2-a-2,Country income classification,1
+#3-1-1,"Age, Ethnicity, Country of birth, Country, Death classification, Deprivation quintile",6
 #3-1-2,"Age, Region, Number of previous live births, Country, Health Board",5
 #3-2-1,"Sex, Country",2
 #3-2-2,"Sex, Age, Region, Country, Health Board, Birth weight",6
@@ -88,7 +88,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-9-3,"Sex, Age, Region, Country, Unintentional poisoning category",5
 #3-a-1,"Sex, Age, Ethnicity, Country of birth, Region, Country, Socio-economic classification",7
 #3-b-1,"Age, Region, Country, Vaccine",4
-#3-b-2,"Flow of Official Development Assistance (ODA), Aid sub-category (DAC 5 code), Aid description (CRS code)",3
+#3-b-2,"Country income classification, Aid description (CRS code)",2
 #3-c-1,"Sex, Occupation unit group, Occupation minor group",3
 #3-d-1,IHR core capacity,1
 #4-1-1,"Sex, Ethnicity, Ethnic group, Region, Subject, Special educational needs, Free school meals, Local Authority",8
@@ -115,12 +115,12 @@ Indicator,Disaggregations,Number of disaggregations
 #6-3-2,"Country, Status classification, Water body category",3
 #6-5-1,"Water resources management category, Water resources management sub-category",2
 #6-6-1,"Water type, Geography (HydroBASINs ID)",2
-#6-a-1,"Flow of Official Development Assistance (ODA), Aid description (CRS code)",2
+#6-a-1,Country income classification,1
 #7-1-1,Urban or Rural,1
 #7-1-2,Urban/Rural,1
 #7-2-1,Renewable and waste source,1
 #7-3-1,Industry sector,1
-#7-a-1,Flow of Official Development Assistance (ODA),1
+#7-a-1,Country income classification,1
 #7-b-1,"Region, Country, Renewable Source, Wind, Bioenergy",5
 #8-10-1,"Region, Country, Local Authority, Urban or rural",4
 #8-10-2,"Sex, Age, Bank account category",3
@@ -140,6 +140,6 @@ Indicator,Disaggregations,Number of disaggregations
 #9-4-1,Industry sector,1
 #9-5-1,"Region, Country, Performing/Funding, Sector, Source, Source sub-category, Product group",7
 #9-5-2,"Sex, Age, Disability status, Country of birth, Region, Nationality",6
-#9-a-1,Flow of Official Development Assistance (ODA),1
+#9-a-1,Country income classification,1
 #9-b-1,Manufacturing industry,1
 #9-c-1,Technology,1
