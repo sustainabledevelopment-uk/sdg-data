@@ -639,16 +639,16 @@
             "title": "Year"
           },
           {
-            "name": "Income/expenditure",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Income",
-                "Expenditure",
+                "Growth rates of household income per capita",
+                "Growth rates of household expenditure per capita",
                 ""
               ]
             },
-            "title": "Income/expenditure"
+            "title": "Series"
           },
           {
             "name": "Income group",
@@ -672,9 +672,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -2974,6 +2980,38 @@
             "name": "Year",
             "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of population using safely managed drinking water services",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Value",
@@ -6747,6 +6785,18 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths from exposure to forces of nature",
+                "Age-standardised mortality rates per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -6798,25 +6848,13 @@
           },
           {
             "name": "Unit multiplier",
-            "type": "string",
+            "type": "number",
             "title": "Unit multiplier"
           },
           {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deaths",
-                "Rate per 100,000 population",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "GeoCode",
@@ -9613,23 +9651,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Chikungunya and Dengue fever",
-                "Rabies",
+                "England, Wales and Northern Ireland",
+                "United Kingdom (UK)",
                 ""
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "Country",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "England, Wales and Northern Ireland",
-                ""
-              ]
-            },
-            "title": "Country"
           },
           {
             "name": "Type of Neglected Tropical Disease (NTD)",
@@ -9655,9 +9682,9 @@
                 "Sub-Saharan and Southern Africa",
                 "Other",
                 "Country not stated",
+                "Eastern Africa",
                 "Southern and Central America",
                 "Southern Europe",
-                "Eastern Africa",
                 "Other Africa",
                 "No travel",
                 "Southern Africa",
@@ -9668,9 +9695,15 @@
             "title": "Region of travel"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
@@ -10146,7 +10179,18 @@
             "title": "Year"
           },
           {
-            "name": "Urban/Rural",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with primary reliance on clean fuels and technology for cooking",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Urban or Rural",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10155,7 +10199,7 @@
                 ""
               ]
             },
-            "title": "Urban/Rural"
+            "title": "Urban or Rural"
           },
           {
             "name": "Observation status",
@@ -10168,9 +10212,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -11718,9 +11768,26 @@
             "title": "Year"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Annual growth rate of real GDP per capita",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
@@ -12376,6 +12443,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture orientation index for government expenditures",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Observation status",
             "type": "string",
             "title": "Observation status"
@@ -12386,9 +12464,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -12980,16 +13064,16 @@
             "title": "Year"
           },
           {
-            "name": "Developing country participation",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Voting rights in international organisations",
-                "Membership in international organisations",
+                "Proportion of voting rights of developing countries in international organisations, by organisation",
+                "Proportion of members of developing countries in international organisations, by organisation",
                 ""
               ]
             },
-            "title": "Developing country participation"
+            "title": "Series"
           },
           {
             "name": "Institution",
@@ -13023,9 +13107,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -13624,9 +13714,26 @@
             "title": "Year"
           },
           {
-            "name": "Unit measure",
+            "name": "Series",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Labour share of GDP",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
@@ -16740,6 +16847,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with access to electricity",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Urban or Rural",
             "type": "string",
             "constraints": {
@@ -16762,9 +16880,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -17554,9 +17678,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",
@@ -18239,6 +18369,17 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people living below 50 percent of median income",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -18276,9 +18417,15 @@
             "title": "Unit multiplier"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -21980,6 +22127,45 @@
       "title": "Proportion of girls and women aged 15–49 years who have undergone female genital mutilation/cutting, by age"
     },
     {
+      "path": "12-b-1/data.csv",
+      "name": "12-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
+    },
+    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -22194,30 +22380,6 @@
         ]
       },
       "title": "Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans, strategies as reported in adaptation communications and national communications"
-    },
-    {
-      "path": "12-b-1/data.csv",
-      "name": "12-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability"
     },
     {
       "path": "2-2-3/data.csv",

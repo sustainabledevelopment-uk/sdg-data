@@ -4,11 +4,11 @@ Indicator,Disaggregations,Number of disaggregations
 #1-4-2,"Security, Type of documentation",2
 #1-5-1,"Sex, Country, Cause of death",3
 #1-a-1,Poverty reduction aid type,1
-#10-1-1,"Income/expenditure, Income group",2
+#10-1-1,Income group,1
 #10-2-1,"Age, Sex",2
 #10-3-1,"Age, Sex, Household income, Disability status, Ethnicity, Type of hate crime, Urban or Rural",7
 #10-4-2,Retirment status,1
-#10-6-1,"Developing country participation, Institution",2
+#10-6-1,Institution,1
 #10-a-1,"Country Group, Product Sector",2
 #10-b-1,"Recipient region, Recipient country",2
 #11-1-1,"Disability status, Income group, Decent homes criteria, Urbanisation sub-category, Sub-national area, Age of oldest person, Age of youngest person, Ethnicity of household reference person (HRP)",8
@@ -75,7 +75,7 @@ Indicator,Disaggregations,Number of disaggregations
 #3-3-2,"Region, Country of birth, Country, Ethnic group",4
 #3-3-3,"Age, Sex, Region, Country of birth, Country, Region of travel, Ethnic Group, Fatality, Malaria species",9
 #3-3-4,"Age, Sex, Region",3
-#3-3-5,"Country, Type of Neglected Tropical Disease (NTD), Region of travel",3
+#3-3-5,"Type of Neglected Tropical Disease (NTD), Region of travel",2
 #3-4-1,"Age, Sex, Region, Country, Chronic respiratory disease type, Type of disease",6
 #3-4-2,"Age, Sex, Region, Country",4
 #3-5-1,"Local Authority, Deprivation decile",2
@@ -118,7 +118,7 @@ Indicator,Disaggregations,Number of disaggregations
 #6-6-1,"Water type, Geography (HydroBASINs ID)",2
 #6-a-1,Country income classification,1
 #7-1-1,Urban or Rural,1
-#7-1-2,Urban/Rural,1
+#7-1-2,Urban or Rural,1
 #7-2-1,Renewable and waste source,1
 #7-3-1,Industry sector,1
 #7-a-1,Country income classification,1

@@ -581,12 +581,12 @@
             "type": "string"
           },
           {
-            "name": "Income/expenditure",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Income",
-                "Expenditure",
+                "Growth rates of household income per capita",
+                "Growth rates of household expenditure per capita",
                 ""
               ]
             }
@@ -610,8 +610,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2708,6 +2714,34 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of population using safely managed drinking water services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -6171,6 +6205,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths from exposure to forces of nature",
+                "Age-standardised mortality rates per 100,000 population",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -6218,22 +6263,11 @@
           },
           {
             "name": "Unit multiplier",
-            "type": "string"
+            "type": "number"
           },
           {
             "name": "Unit measure",
             "type": "string"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deaths",
-                "Rate per 100,000 population",
-                ""
-              ]
-            }
           },
           {
             "name": "GeoCode",
@@ -8821,18 +8855,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Chikungunya and Dengue fever",
-                "Rabies",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Country",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "England, Wales and Northern Ireland",
+                "United Kingdom (UK)",
                 ""
               ]
             }
@@ -8860,9 +8884,9 @@
                 "Sub-Saharan and Southern Africa",
                 "Other",
                 "Country not stated",
+                "Eastern Africa",
                 "Southern and Central America",
                 "Southern Europe",
-                "Eastern Africa",
                 "Other Africa",
                 "No travel",
                 "Southern Africa",
@@ -8872,8 +8896,14 @@
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
@@ -9322,7 +9352,17 @@
             "type": "integer"
           },
           {
-            "name": "Urban/Rural",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with primary reliance on clean fuels and technology for cooking",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urban or Rural",
             "type": "string",
             "constraints": {
               "enum": [
@@ -9341,8 +9381,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -10758,8 +10804,24 @@
             "type": "integer"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual growth rate of real GDP per capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
@@ -11388,6 +11450,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture orientation index for government expenditures",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Observation status",
             "type": "string"
           },
@@ -11396,8 +11468,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -11936,12 +12014,12 @@
             "type": "integer"
           },
           {
-            "name": "Developing country participation",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Voting rights in international organisations",
-                "Membership in international organisations",
+                "Proportion of voting rights of developing countries in international organisations, by organisation",
+                "Proportion of members of developing countries in international organisations, by organisation",
                 ""
               ]
             }
@@ -11975,8 +12053,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -12520,8 +12604,24 @@
             "type": "integer"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Labour share of GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
@@ -15414,6 +15514,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population with access to electricity",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Urban or Rural",
             "type": "string",
             "constraints": {
@@ -15433,8 +15543,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -16153,8 +16269,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -16804,6 +16926,16 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of people living below 50 percent of median income",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -16837,8 +16969,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -20272,6 +20410,41 @@
       "title": "global_indicators.5-3-2-title"
     },
     {
+      "path": "12-b-1/data.csv",
+      "name": "12-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.12-b-1-title"
+    },
+    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -20467,28 +20640,6 @@
         ]
       },
       "title": "global_indicators.13-b-1-title"
-    },
-    {
-      "path": "12-b-1/data.csv",
-      "name": "12-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.12-b-1-title"
     },
     {
       "path": "2-2-3/data.csv",
