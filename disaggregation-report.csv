@@ -1,6 +1,7 @@
 Disaggregation,Number of indicators,Number of values
 Abuse sub-category,1,6
 Abuse type,2,4
+Activity,1,1
 Age at which FGM took place,1,8
 Age group,1,2
 Age of oldest person,1,3
@@ -23,7 +24,7 @@ Contraceptive method,1,2
 Corruption offence type,2,4
 Country group,2,3
 Country Group,1,3
-Country income classification,10,5
+Country income classification,11,5
 Country of birth,14,31
 Country,40,7
 County,1,36
@@ -45,7 +46,7 @@ Employment status,2,14
 Ethnic group,9,39
 Ethnic Group,1,4
 Ethnicity of household reference person (HRP),1,5
-Ethnicity,17,23
+Ethnicity,18,35
 Exposure category,1,3
 Fatality,1,2
 FGM type,1,8
@@ -74,6 +75,7 @@ Import type,2,10
 Income group,2,6
 Income quartile,1,4
 Income,1,7
+Index of Multiple Deprivation (IMD),1,5
 Industry higher sub-category,2,61
 Industry lower sub-category,2,54
 Industry middle sub-category,2,70
@@ -121,12 +123,13 @@ Renewable Source,2,7
 Retirment status,1,2
 Risk of extinction category,1,3
 Road category,1,5
+Rural or Urban,1,3
 Scottish Council Area,1,31
 Seasonally adjusted or not,1,2
 Sector,5,22
 Security,1,2
 Sex by disability,1,4
-Sex,51,9
+Sex,52,8
 Size of particulate matter,1,1
 Skill,1,10
 Socio-economic classification,2,8
@@ -141,7 +144,6 @@ Status classification,1,2
 Sub-national area,1,3
 Subject,1,3
 Sustainably managed status,1,2
-Technology,1,3
 Tenure category,1,3
 Tenure sub-category,2,8
 Tenure,1,3
@@ -159,8 +161,8 @@ Type of study,1,5
 Type of violence,1,5
 Types of contraception,1,10
 Unintentional poisoning category,1,6
-Urban or rural,4,2
 Urban or Rural,4,2
+Urban or rural,4,2
 Urbanisation sub-category,1,6
 Use a smartphone,1,1
 Vaccine,1,16
