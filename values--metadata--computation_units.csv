@@ -18,6 +18,7 @@ GBP (£),3
 Gini Coefficient,1
 "GPB (£ Millions), USD ($ Millions), Percent of GDP (%), Percentage (%)",2
 "Hectares, Percentage (%), Growth rate (%)",1
+Index (between 0.000 and 1.000),1
 Index,1
 Integrated Water Resources Management score,1
 Litres of pure alcohol,1
@@ -42,7 +43,7 @@ Percentage (%) of economically active,1
 Percentage (%)/ Percentage change (%),1
 Percentage (%),81
 Percentage(%),1
-Percentage,6
+Percentage,7
 "Rate per 1,000 live births",2
 "Rate per 1,000 women",1
 "Rate per 10,000 population",1

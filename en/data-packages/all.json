@@ -926,17 +926,16 @@
             "title": "Year"
           },
           {
-            "name": "Measure",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Median",
                 "Percentile (2.5th)",
-                "Mean",
                 ""
               ]
             },
-            "title": "Measure"
+            "title": "Series"
           },
           {
             "name": "Sex",
@@ -956,9 +955,9 @@
             "constraints": {
               "enum": [
                 "1.5 to 3",
-                "4 to 10",
                 "11 to 18",
                 "19 to 64",
+                "4 to 10",
                 "65 and over",
                 "65 to 74",
                 "75 and over",
@@ -3043,8 +3042,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -4633,16 +4660,55 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "Neonatal period",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Early neonatal",
+                "Late neonatal",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Neonatal period"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "19 and under",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 and over",
+                "Not stated",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Birthweight (grams)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 2500",
+                "Under 1500",
+                "Under 1000",
+                "1000 to 1499",
+                "1500 to 1999",
+                "2000 to 2499",
+                "2500 to 2999",
+                "3000 to 3499",
+                "3500 to 3999",
+                "4000 and over",
+                "Not stated",
+                "Implausible birthweight",
+                ""
+              ]
+            },
+            "title": "Birthweight (grams)"
           },
           {
             "name": "Country",
@@ -4673,69 +4739,54 @@
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
+                "Inner London",
+                "Outer London",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Health Board",
+            "name": "Country of birth",
             "type": "string",
             "constraints": {
               "enum": [
-                "Abertawe Bro Morgannwg University",
-                "Aneurin Bevan University",
-                "Betsi Cadwaladr University",
-                "Cardiff and Vale University",
-                "Cwm Taf University",
-                "Hywel Dda University",
-                "Powys Teaching",
+                "Born in UK‚ Isle of Man and Channel Islands",
+                "Not born in UK",
+                "Born in EU",
+                "Born in Rest of Europe (non EU)",
+                "Born in Africa",
+                "Born in the Americas and the Caribbean",
+                "Born in Middle East and Asia",
+                "Born in Antarctica and Oceania",
+                "Other/Not stated",
                 ""
               ]
             },
-            "title": "Health Board"
+            "title": "Country of birth"
           },
           {
-            "name": "Birth weight",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "1000 to 1499",
-                "1500 to 1999",
-                "2000 to 2499",
-                "2500 to 2999",
-                "3000 to 3499",
-                "3500 to 3999",
-                "4000 and over",
-                "Not stated",
-                "Under 1000",
-                "Under 1500",
-                "Under 2500",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Birth weight"
+            "title": "Sex"
           },
           {
-            "name": "Age",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "19 and under",
-                "20 to 24",
-                "25 to 29",
-                "30 to 34",
-                "35 to 39",
-                "40 and over",
+                "Rate per 1,000 live births",
                 ""
               ]
             },
-            "title": "Age"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
@@ -18930,6 +18981,62 @@
       "title": "Number of plant and animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities"
     },
     {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of women aged 15-49 years with anaemia, non-pregnant",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
+    },
+    {
       "path": "archived-17-6-1/data.csv",
       "name": "archived-17-6-1",
       "profile": "tabular-data-resource",
@@ -21898,8 +22005,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Male",
+                "Female",
                 ""
               ]
             },
@@ -22516,30 +22623,6 @@
         ]
       },
       "title": "Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space"
-    },
-    {
-      "path": "2-2-3/data.csv",
-      "name": "2-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
     },
     {
       "path": "10-7-3/data.csv",
