@@ -918,26 +918,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Accommodation and food services",
-                "Activities of households as employers; undifferentiated goods and services-producing activities of households for own use",
-                "Administrative and support service activities",
                 "Agriculture, forestry and fishing",
-                "Arts, entertainment and recreation",
-                "Construction",
-                "Education",
-                "Electricity, gas, steam and air conditioning supply",
-                "Financial and insurance activities",
-                "Human health and social work activities",
-                "Information and communication",
-                "Manufacturing",
                 "Mining and quarrying",
-                "Other service activities",
-                "Professional, scientific and technical activities",
-                "Public administration and defence; compulsory social security",
-                "Real estate activities",
-                "Transport and storage",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
                 "Water supply; sewerage, waste management and remediation activities",
+                "Construction",
                 "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Transport and storage",
+                "Accommodation and food services",
+                "Information and communication",
+                "Financial and insurance activities",
+                "Real estate activities",
+                "Professional, scientific and technical activities",
+                "Administrative and support service activities",
+                "Public administration and defence; compulsory social security",
+                "Education",
+                "Human health and social work activities",
+                "Arts, entertainment and recreation",
+                "Other service activities",
+                "Activities of households as employers; undifferentiated goods and services-producing activities of households for own use",
                 ""
               ]
             },
@@ -4201,10 +4201,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
-                "Misconduct in a public office",
-                "Offering, promising or giving bribes",
                 "Requesting, agreeing to receive and accepting bribes",
+                "Offering, promising or giving bribes",
+                "Misconduct in a public office",
+                "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
                 ""
               ]
             },
@@ -4713,7 +4713,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Percentage (%)",
                 ""
               ]
             },
@@ -7403,8 +7403,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "GBP (£ thousands)",
-                "Constant USD ($ thousands)",
+                "GBP",
+                "Constant USD",
                 ""
               ]
             },
@@ -9451,9 +9451,15 @@
             "title": "Observation status"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -10618,10 +10624,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
-                "Misconduct in a public office",
-                "Offering, promising or giving bribes",
                 "Requesting, agreeing to receive and accepting bribes",
+                "Offering, promising or giving bribes",
+                "Misconduct in a public office",
+                "Commercial organisation - failure to prevent associate bribing another with intent to obtain or retain business or advantage",
                 ""
               ]
             },
@@ -13426,10 +13432,16 @@
             "title": "Year"
           },
           {
-            "name": "Vaccine",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "Proportion of children vaccinated by 1st birthday (%)",
+                "Proportion of children vaccinated by 2nd birthday (%)",
+                "Proportion of children vaccinated by 5th birthday (%)",
+                "Proportion of girls vaccinated against HPV (%)",
+                "Proportion of boys vaccinated against HPV (%)",
+                "Vaccine",
                 "Diphtheria Tetanus Polio Pertussis Hib (primary)",
                 "Pneumococcal disease (primary)",
                 "Rotavirus (primary)",
@@ -13449,7 +13461,7 @@
                 ""
               ]
             },
-            "title": "Vaccine"
+            "title": "Series"
           },
           {
             "name": "Country",
@@ -13460,21 +13472,61 @@
                 "Northern Ireland",
                 "Scotland",
                 "Wales",
+                "Country",
                 ""
               ]
             },
             "title": "Country"
           },
           {
-            "name": "Age",
+            "name": "Vaccine",
             "type": "string",
             "constraints": {
               "enum": [
+                "Diphtheria Tetanus Polio Pertussis Hib (primary)",
+                "Pneumococcal disease (primary)",
+                "Rotavirus (primary)",
+                "Meningococcal group B (primary)",
+                "Measles mumps rubella (first dose)",
+                "Hib Meningococcal group C (booster)",
+                "Pneumococcal disease (booster)",
+                "Meningococcal group B (booster)",
+                "Diphtheria Tetanus Polio Pertussis (booster)",
+                "Measles mumps rubella (first and second dose)",
+                "Meningococcal group C (primary)",
+                "Hib (primary)",
+                "Human papillomavirus (At least 1 dose)",
+                "Human papillomavirus (At least 2 doses)",
+                "Human papillomavirus (3 doses)",
+                "Human papillomavirus (2 doses)",
+                "Age",
                 "By 1st birthday",
                 "By 2nd birthday",
                 "By 5th birthday",
                 "12 to 13",
                 "13 to 14",
+                ""
+              ]
+            },
+            "title": "Vaccine"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12 to 13",
+                "13 to 14",
+                "Region",
+                "East",
+                "East Midlands",
+                "London",
+                "North East",
+                "North West",
+                "South East",
+                "South West",
+                "West Midlands",
+                "Yorkshire and The Humber",
                 ""
               ]
             },
@@ -13494,15 +13546,25 @@
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
+                "Unit measure",
+                "Percentage (%)",
                 ""
               ]
             },
             "title": "Region"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                "Unit multiplier",
+                "Units",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Unit multiplier",
@@ -13989,7 +14051,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "England",
                 "North West",
                 "Yorkshire and The Humber",
                 "North East",
@@ -14074,7 +14135,32 @@
                 "Bexley",
                 "Brent",
                 "Bromley",
+                "Staffordshire",
+                "Somerset",
+                "Oxfordshire",
+                "Nottinghamshire",
+                "North Yorkshire",
+                "Northamptonshire",
+                "Norfolk",
+                "Lincolnshire",
+                "Leicestershire",
+                "Lancashire",
+                "Kent",
+                "Hertfordshire",
+                "Hampshire",
+                "Gloucestershire",
+                "Essex",
+                "East Sussex",
+                "Dorset (Cty)",
+                "Devon",
+                "Derbyshire",
+                "Cumbria",
+                "Cambridgeshire",
+                "Buckinghamshire",
+                "Suffolk",
                 "Southend-on-Sea",
+                "Surrey",
+                "West Sussex",
                 "Camden",
                 "Croydon",
                 "Ealing",
@@ -14102,6 +14188,8 @@
                 "Waltham Forest",
                 "Wandsworth",
                 "Westminster",
+                "Worcestershire",
+                "Warwickshire",
                 "Luton",
                 "Swindon",
                 "Blackburn with Darwen",
@@ -14138,52 +14226,6 @@
               ]
             },
             "title": "Local Authority"
-          },
-          {
-            "name": "County",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Staffordshire",
-                "Somerset",
-                "Oxfordshire",
-                "Nottinghamshire",
-                "North Yorkshire",
-                "Northamptonshire",
-                "Norfolk",
-                "Lincolnshire",
-                "Leicestershire",
-                "Lancashire",
-                "Kent",
-                "Hertfordshire",
-                "Hampshire",
-                "Gloucestershire",
-                "Essex",
-                "East Sussex",
-                "Dorset (Cty)",
-                "Devon",
-                "Derbyshire",
-                "Cumbria",
-                "Cambridgeshire",
-                "Buckinghamshire",
-                "South West region",
-                "South East region",
-                "London region",
-                "East of England region",
-                "West Midlands region",
-                "East Midlands region",
-                "Yorkshire and the Humber region",
-                "Suffolk",
-                "Surrey",
-                "West Sussex",
-                "North West region",
-                "Worcestershire",
-                "Warwickshire",
-                "North East region",
-                ""
-              ]
-            },
-            "title": "County"
           },
           {
             "name": "Observation status",
@@ -14921,7 +14963,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage",
+                "Percentage (%)",
                 ""
               ]
             },
@@ -19250,17 +19292,43 @@
             "title": "Year"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent change in spatial extent from baseline (%)",
-                "Proportion of land area (%)",
-                "Spatial extent (square km)",
+                "Open water area",
+                "Nationally derived quantity of groundwater",
+                "Lake water quality",
+                "Reservoir area",
+                "Wetlands area",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Series"
+          },
+          {
+            "name": "Water area extent",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Minimum water area",
+                "Maximum water area",
+                ""
+              ]
+            },
+            "title": "Water area extent"
+          },
+          {
+            "name": "Quality measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Turbidity",
+                "Trophic state",
+                ""
+              ]
+            },
+            "title": "Quality measure"
           },
           {
             "name": "Water type",
@@ -19274,6 +19342,20 @@
               ]
             },
             "title": "Water type"
+          },
+          {
+            "name": "Deviation level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Low",
+                "Medium",
+                "High",
+                "Extreme",
+                ""
+              ]
+            },
+            "title": "Deviation level"
           },
           {
             "name": "Geography (HydroBASINs ID)",
@@ -19324,9 +19406,18 @@
             "title": "Geography (HydroBASINs ID)"
           },
           {
-            "name": "Unit measure",
+            "name": "Units",
             "type": "string",
-            "title": "Unit measure"
+            "constraints": {
+              "enum": [
+                "% change from baseline",
+                "% of total land area",
+                "Square km",
+                "Percentage (%)",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Observation status",
