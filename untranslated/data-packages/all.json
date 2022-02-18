@@ -688,11 +688,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Woodland area net change",
-                "2) Above-ground biomass stock",
-                "3) Percentage of woodland within protected areas",
-                "4) Percentage of woodland under long-term management plan",
-                "5) Woodland area under certification scheme",
+                "Woodland area net change",
+                "Above-ground biomass stock",
+                "Percentage of woodland within protected areas",
+                "Percentage of woodland under long-term management plan",
+                "Woodland area under certification scheme",
                 ""
               ]
             }
@@ -3892,7 +3892,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -8703,21 +8703,35 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Official development assistance grants for poverty reduction (percentage of GNI)",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Poverty reduction aid type",
             "type": "string",
             "constraints": {
               "enum": [
                 "Basic education",
                 "Basic health",
-                "Basic social services",
                 "Development food aid",
                 "Water supply and sanitation",
+                "Basic social services",
                 ""
               ]
             }
           },
           {
             "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
             "type": "string"
           },
           {
@@ -9814,7 +9828,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -11489,14 +11503,11 @@
             "type": "integer"
           },
           {
-            "name": "Age",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "21 to 40",
-                "41 to 60",
-                "61 and over",
-                "20 and under",
+                "Hepatitis B incidence per 100,000 population",
                 ""
               ]
             }
@@ -11506,15 +11517,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
-                "East Midlands",
                 "London",
-                "North East",
+                "East Midlands",
+                "East",
                 "North West",
                 "South East",
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
+                "North East",
                 ""
               ]
             }
@@ -11526,6 +11537,19 @@
               "enum": [
                 "Female",
                 "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20 and under",
+                "21 to 40",
+                "41 to 60",
+                "61 and over",
                 ""
               ]
             }
@@ -13986,6 +14010,7 @@
             "constraints": {
               "enum": [
                 "PM 10",
+                "PM 2.5",
                 ""
               ]
             }
@@ -14043,7 +14068,6 @@
                 "Port Talbot",
                 "Portsmouth",
                 "Preston",
-                "Prestonpans",
                 "Reading",
                 "Rochester",
                 "Salford",
@@ -14069,6 +14093,7 @@
                 "Wirral",
                 "Wrexham",
                 "York",
+                "Prestonpans",
                 ""
               ]
             }
@@ -14188,19 +14213,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1) Proportion of fish stocks that are not overexploited",
-                "2) Proportion of fish stocks that are overexploited",
-                "3) Proportion of fish stocks with unknown level of exploitation",
-                "4) Proportion of fish stocks within biologically sustainable levels (not overexploited)",
-                "5) Proportion of fish stocks not within biologically sustainable levels (overexploited)",
-                "6) Proportion of fish stocks where biologically sustainable status is unknown",
+                "Proportion of fish stocks that are overexploited",
+                "Proportion of fish stocks that are fully exploited",
+                "Proportion of fish stocks that are not fully exploited",
+                "Proportion of fish stocks with unknown level of exploitation",
+                "Proportion of fish stocks that are not within biologically sustainable levels",
+                "Proportion of fish stocks within biologically sustainable levels",
+                "Proportion of fish stocks where biologically sustainable status is unknown",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
@@ -18066,7 +18098,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of people living below 50 percent of median income",
+                "Percentage of people in households at risk of poverty (below 50% of median UK household income)",
                 ""
               ]
             }
