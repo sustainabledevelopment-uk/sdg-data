@@ -1931,91 +1931,11 @@
             "type": "string"
           },
           {
-            "name": "Health product or service",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hospital services",
-                "Medical products appliances and equipment",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Health product or service category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Inpatient hospital services",
-                "Outpatient services",
-                "Medicines prescriptions and healthcare products",
-                "Spectacles lenses accessories and repairs",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Health product or service sub-category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National Health Service (NHS) medical optical dental and medical auxiliary services",
-                "Other services",
-                "Private medical optical dental and medical auxiliary services",
-                "Medicines and medical goods (not NHS)",
-                "National Health Service (NHS) prescription charges and payments",
-                "Nonoptical appliances and equipment (wheelchairs batteries for hearing aids shoe buildup)",
-                "Other medical products (plasters condoms hot water bottles)",
-                "Accessories or repairs to spectacles or lenses",
-                "Purchase of spectacles lenses prescription sunglasses",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Tenure category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Owner occupied",
-                "Private rented",
-                "Social rented",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Tenure sub-category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Owned outright",
-                "Owner occupied buying with a mortgage",
-                "Rent free",
-                "Rent paid furnished",
-                "Rent paid unfurnished",
-                "Council",
-                "Registered social landlord",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Occupation category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Higher professional",
-                "Intermediate occupations",
-                "Large employers and higher managerial",
-                "Long term unemployed",
-                "Lower managerial and professional",
-                "Lower supervisory",
-                "Occupation not stated",
-                "Routine",
-                "Semiroutine",
-                "Small employers",
-                "Students",
+                "Average weekly household expenditure on health",
                 ""
               ]
             }
@@ -2030,6 +1950,134 @@
                 "50 to 64",
                 "65 to 74",
                 "75 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disposable income decile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lowest ten",
+                "Second",
+                "Third",
+                "Fourth",
+                "Fifth",
+                "Sixth",
+                "Seventh",
+                "Eighth",
+                "Ninth",
+                "Highest ten",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Health product or service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medical products appliances and equipment",
+                "Hospital services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Health product or service category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medicines prescriptions and healthcare products",
+                "Spectacles lenses accessories and repairs",
+                "Outpatient services",
+                "Inpatient hospital services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Health product or service sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National Health Service (NHS) prescription charges and payments",
+                "Medicines and medical goods (not NHS)",
+                "Other medical products (plasters condoms hot water bottles)",
+                "Nonoptical appliances and equipment (wheelchairs batteries for hearing aids shoe buildup)",
+                "Purchase of spectacles lenses prescription sunglasses",
+                "Accessories or repairs to spectacles or lenses",
+                "National Health Service (NHS) medical optical dental and medical auxiliary services",
+                "Private medical optical dental and medical auxiliary services",
+                "Other services",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tenure category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owner occupied",
+                "Social rented",
+                "Private rented",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Tenure sub-category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Owned outright",
+                "Owner occupied buying with a mortgage",
+                "Council",
+                "Registered social landlord",
+                "Rent free",
+                "Rent paid unfurnished",
+                "Rent paid furnished",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Occupation category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Large employers and higher managerial",
+                "Higher professional",
+                "Lower managerial and professional",
+                "Intermediate occupations",
+                "Small employers",
+                "Lower supervisory",
+                "Semiroutine",
+                "Routine",
+                "Long term unemployed",
+                "Students",
+                "Occupation not stated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GBP (£)",
+                "Percentage of total expenditure (%)",
                 ""
               ]
             }
@@ -4461,6 +4509,45 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of companies publishing sustainability reports",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of reporting",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Advanced",
+                "Minimum",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
             "type": "string"
           },
           {
@@ -5138,6 +5225,16 @@
             "constraints": {
               "enum": [
                 "Proportion of the rural population who live within 2km of an all-season road",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urbanisation (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
                 ""
               ]
             }
@@ -12328,6 +12425,16 @@
             }
           },
           {
+            "name": "Age (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 and over",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Beverage",
             "type": "string",
             "constraints": {
@@ -12364,7 +12471,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Litres of pure alcohol",
+                "Litres pure alcohol",
                 ""
               ]
             }
@@ -12401,23 +12508,6 @@
                 "Proportion of children vaccinated by 5th birthday (%)",
                 "Proportion of girls vaccinated against HPV (%)",
                 "Proportion of boys vaccinated against HPV (%)",
-                "Vaccine",
-                "Diphtheria Tetanus Polio Pertussis Hib (primary)",
-                "Pneumococcal disease (primary)",
-                "Rotavirus (primary)",
-                "Meningococcal group B (primary)",
-                "Measles mumps rubella (first dose)",
-                "Hib Meningococcal group C (booster)",
-                "Pneumococcal disease (booster)",
-                "Diphtheria Tetanus Polio Pertussis (booster)",
-                "Measles mumps rubella (first and second dose)",
-                "Meningococcal group B (booster)",
-                "Meningococcal group C (primary)",
-                "Hib (primary)",
-                "Human papillomavirus (At least 1 dose)",
-                "Human papillomavirus (At least 2 doses)",
-                "Human papillomavirus (3 doses)",
-                "Human papillomavirus (2 doses)",
                 ""
               ]
             }
@@ -12431,7 +12521,6 @@
                 "Northern Ireland",
                 "Scotland",
                 "Wales",
-                "Country",
                 ""
               ]
             }
@@ -12457,12 +12546,6 @@
                 "Human papillomavirus (At least 2 doses)",
                 "Human papillomavirus (3 doses)",
                 "Human papillomavirus (2 doses)",
-                "Age",
-                "By 1st birthday",
-                "By 2nd birthday",
-                "By 5th birthday",
-                "12 to 13",
-                "13 to 14",
                 ""
               ]
             }
@@ -12474,16 +12557,6 @@
               "enum": [
                 "12 to 13",
                 "13 to 14",
-                "Region",
-                "East",
-                "East Midlands",
-                "London",
-                "North East",
-                "North West",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and The Humber",
                 ""
               ]
             }
@@ -12502,8 +12575,6 @@
                 "South West",
                 "West Midlands",
                 "Yorkshire and The Humber",
-                "Unit measure",
-                "Percentage (%)",
                 ""
               ]
             }
@@ -12514,8 +12585,6 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "Unit multiplier",
-                "Units",
                 ""
               ]
             }
@@ -18019,6 +18088,16 @@
             }
           },
           {
+            "name": "Age (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Under 5 years old",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -18397,6 +18476,16 @@
             "constraints": {
               "enum": [
                 "Manufacturing value added as a proportion of GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Activity (default)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing",
                 ""
               ]
             }

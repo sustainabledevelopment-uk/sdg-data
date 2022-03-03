@@ -25,6 +25,7 @@ Indicator,Disaggregations,Number of disaggregations
 #12-3-1,"Sector, Waste type, Household Waste disposal routes",3
 #12-4-2,"Treatment type, Economic activity",2
 #12-5-1,Country,1
+#12-6-1,Level of reporting,1
 #12-a-1,"Country, Region, Renewable Source, Wind, Bioenergy",5
 #13-1-1,"Sex, Country, Cause of death",3
 #13-2-2,Gas,1
@@ -49,7 +50,7 @@ Indicator,Disaggregations,Number of disaggregations
 #16-7-1,"Age, Sex, Country, Sector, Region",5
 #16-7-2,"Age, Sex, Disability status, Ethnicity, Household income, Urban or rural, Region, Citizenship",8
 #16-8-1,Institution,1
-#16-9-1,Sex,1
+#16-9-1,"Sex, Age (default)",2
 #16-b-1,"Type of hate crime, Age, Sex, Disability status, Ethnicity, Household income, Urban or rural",7
 #17-1-1,Source of revenue,1
 #17-10-1,"Country group, Product sector",2
@@ -80,11 +81,11 @@ Indicator,Disaggregations,Number of disaggregations
 #3-4-1,"Age, Sex, Country, Region, Chronic respiratory disease type, Type of disease",6
 #3-4-2,"Age, Sex, Country, Region",4
 #3-5-1,"Local Authority, Deprivation decile",2
-#3-5-2,"Sex, Beverage",2
+#3-5-2,"Sex, Age (default), Beverage",3
 #3-6-1,"Age, Sex, Country, Region",4
 #3-7-1,"Age, Region, Local Authority, Contraceptive method, Types of contraception",5
 #3-7-2,"Age, Country",2
-#3-8-2,"Age, Health product or service, Health product or service category, Health product or service sub-category, Tenure category, Tenure sub-category, Occupation category",7
+#3-8-2,"Age, Disposable income decile, Health product or service, Health product or service category, Health product or service sub-category, Tenure category, Tenure sub-category, Occupation category",8
 #3-9-1,"Region, Local Authority",2
 #3-9-2,"Sex, Country",2
 #3-9-3,"Age, Sex, Country, Region, Unintentional poisoning category",5
@@ -134,9 +135,9 @@ Indicator,Disaggregations,Number of disaggregations
 #8-8-1,"Age, Sex, Country, Industry sector, Region, Occupation",6
 #8-9-1,Product,1
 #8-a-1,Country income classification,1
-#9-1-1,"Country, Local Authority, Road category",3
+#9-1-1,"Country, Local Authority, Urbanisation (default), Road category",4
 #9-1-2,Flight category,1
-#9-2-1,"Industry higher sub-category, Industry middle sub-category, Industry lower sub-category",3
+#9-2-1,"Activity (default), Industry higher sub-category, Industry middle sub-category, Industry lower sub-category",4
 #9-2-2,"Age, Sex, Disability status, Ethnicity, Region, Nationality, Country of birth, Activity",8
 #9-3-1,"Industry sector, Industry higher sub-category, Industry middle sub-category, Industry lower sub-category",4
 #9-4-1,Industry sector,1
