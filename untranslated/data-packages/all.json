@@ -2978,13 +2978,24 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Land consumption rate",
+                "Population growth rate",
+                "Ratio of land consumption rate to population growth rate",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "1. Ratio of land consumption rate to population growth rate - UN indicator",
-                "2. Land consumption rate",
-                "3. Population growth rate",
+                "Rate of growth",
+                "Ratio",
                 ""
               ]
             }
@@ -2995,8 +3006,9 @@
             "constraints": {
               "enum": [
                 "England",
-                "Wales",
+                "Great Britain",
                 "Scotland",
+                "Wales",
                 ""
               ]
             }
@@ -3427,10 +3439,6 @@
           },
           {
             "name": "Unit measure",
-            "type": "string"
-          },
-          {
-            "name": "Unit multiplier",
             "type": "string"
           },
           {
@@ -4425,19 +4433,7 @@
               "enum": [
                 "Material footprint",
                 "Material footprint per capita",
-                "Material footprint per GDP",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Million metric tonnes",
-                "Tonnes",
-                "Tonnes per £m",
+                "Material footprint per unit of GDP",
                 ""
               ]
             }
@@ -4448,9 +4444,9 @@
             "constraints": {
               "enum": [
                 "Biomass",
-                "Fossil fuels",
                 "Metal ores excluding precious metals",
                 "Non-metallic minerals",
+                "Fossil fuels",
                 ""
               ]
             }
@@ -4464,8 +4460,16 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metric tons",
+                "Kilograms per constant USD",
+                "Tons per GDP (millions of pounds)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -9667,7 +9671,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
@@ -9675,11 +9679,6 @@
             "constraints": {
               "enum": [
                 "Number of tuberculosis case notifications per 100,000 population",
-                "Country",
-                "England",
-                "Northern Ireland",
-                "Scotland",
-                "Wales",
                 ""
               ]
             }
@@ -9693,9 +9692,6 @@
                 "Northern Ireland",
                 "Scotland",
                 "Wales",
-                "Country of birth",
-                "Born in UK",
-                "Not born in UK",
                 ""
               ]
             }
@@ -9707,25 +9703,6 @@
               "enum": [
                 "Born in UK",
                 "Not born in UK",
-                "Region",
-                "White",
-                "Indian",
-                "Pakistani",
-                "Bangledeshi",
-                "Chinese",
-                "Black African",
-                "Black Caribbean",
-                "Black Other",
-                "Mixed/Other",
-                "London",
-                "West Midlands",
-                "South East",
-                "North West",
-                "East",
-                "East Midlands",
-                "Yorkshire and The Humber",
-                "South West",
-                "North East",
                 ""
               ]
             }
@@ -9744,7 +9721,6 @@
                 "Black Caribbean",
                 "Black Other",
                 "Mixed/Other",
-                "Ethnic group",
                 ""
               ]
             }
@@ -9763,8 +9739,6 @@
                 "South East",
                 "South West",
                 "Yorkshire and The Humber",
-                "Observation status",
-                "Undefined",
                 ""
               ]
             }
@@ -9783,20 +9757,6 @@
             "constraints": {
               "enum": [
                 "Rate per 100,000 population",
-                "GeoCode",
-                "E92000001",
-                "N92000002",
-                "S92000003",
-                "W92000004",
-                "E12000007",
-                "E12000005",
-                "E12000008",
-                "E12000002",
-                "E12000006",
-                "E12000004",
-                "E12000003",
-                "E12000009",
-                "E12000001",
                 ""
               ]
             }
@@ -10375,12 +10335,12 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Dwelling (%)",
-                "Household (%)",
+                "Dwellings (%)",
+                "Households (%)",
                 ""
               ]
             }
@@ -10403,12 +10363,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "city centre",
-                "Other Rural Area",
-                "other urban centre",
-                "rural residential",
-                "suburban residential",
-                "village centre",
+                "City centre",
+                "Other rural area",
+                "Other urban centre",
+                "Rural residential",
+                "Suburban residential",
+                "Village centre",
                 ""
               ]
             }
@@ -10418,9 +10378,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "North",
+                "London and South East",
+                "Northern",
                 "Rest of England",
-                "South East",
                 ""
               ]
             }
@@ -10442,15 +10402,40 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "4 and under",
                 "15 and under",
                 "16 and over",
+                "4 and under",
                 ""
               ]
             }
           },
           {
-            "name": "Income group",
+            "name": "Disability status (household)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ethnicity of household reference person (HRP)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All minority",
+                "Asian",
+                "Black",
+                "other",
+                "White",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income quintile (household)",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10464,33 +10449,14 @@
             }
           },
           {
-            "name": "Disability status",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-disabled (GSS harmonised)",
-                "Disabled (GSS harmonised)",
+                "Percentage (%)",
                 ""
               ]
             }
-          },
-          {
-            "name": "Ethnicity of household reference person (HRP)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "White",
-                "Asian",
-                "Black",
-                "Other",
-                "All minority",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit measure",
-            "type": "string"
           },
           {
             "name": "Observation status",
@@ -12974,14 +12940,14 @@
             "type": "integer"
           },
           {
-            "name": "Area of law",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Area 1 overarching legal frameworks and public life",
-                "Area 2 violence against women",
-                "Area 3 employment and economic benefits",
-                "Area 4 marriage and family",
+                "Area 1: overarching legal frameworks and public life.",
+                "Area 2: violence against women.",
+                "Area 3: employment and economic benefits.",
+                "Area 4: marriage and family.",
                 ""
               ]
             }
@@ -12995,8 +12961,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -13700,8 +13672,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of marine protected area",
-                "Marine protected area extent",
+                "Coverage of protected areas in relation to marine area (%)",
+                "Protected marine area (square kilometres)",
+                "Average proportion of Marine Key Biodiversity Areas (KBAs) covered by protected areas (%)",
                 ""
               ]
             }
@@ -13712,7 +13685,7 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "Hectares",
+                "Square km",
                 ""
               ]
             }
@@ -13768,6 +13741,16 @@
                 "FISH",
                 "NAMA",
                 "PAPS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
                 ""
               ]
             }
@@ -14714,26 +14697,34 @@
             "type": "string"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "House of Commons",
-                "House of Lords",
-                "Welsh Assembly",
-                "Scottish Parliament",
-                "Northern Ireland Assembly",
-                "English Local Authority Councillors",
-                "Welsh Local Authority Councillors",
-                "Northern Ireland Local Authority Councils",
-                "Scottish Local Authority Councils",
+                "National parliament",
+                "Devolved administration",
+                "Local Government",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Legislative authority",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "House of Commons",
+                "House of Lords",
+                "Senedd Cymru/Welsh Parliament",
+                "Scottish Parliament/Pàrlamaid na h-Alba",
+                "Northern Ireland Assembly",
+                "English Local Authority Councillors",
+                "Welsh Local Authority Councillors",
+                "Northern Ireland Local Authority Councillors",
+                "Scottish Local Authority Councillors",
+                ""
+              ]
+            }
           },
           {
             "name": "Observation status",
@@ -14742,6 +14733,16 @@
           {
             "name": "Unit multiplier",
             "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -16159,13 +16160,13 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Material footprint (Million metric tonnes)",
-                "Material footprint per capita (Tonnes)",
-                "Material footprint per GDP (Tonnes per £m)",
+                "Material footprint",
+                "Material footprint per capita",
+                "Material footprint per unit of GDP",
                 ""
               ]
             }
@@ -16176,9 +16177,9 @@
             "constraints": {
               "enum": [
                 "Biomass",
-                "Fossil fuels",
                 "Metal ores excluding precious metals",
                 "Non-metallic minerals",
+                "Fossil fuels",
                 ""
               ]
             }
@@ -16192,8 +16193,16 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metric tons",
+                "Kilograms per constant USD",
+                "Tons per GDP (millions of pounds)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -20107,21 +20116,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Disability",
                 "Race",
                 "Religion",
                 "Sexual orientation",
-                "Disability",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Men",
-                "Women",
+                "Gender Identity",
                 ""
               ]
             }
@@ -20131,13 +20130,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16-24",
-                "25-34",
-                "35-44",
-                "45-54",
-                "55-64",
-                "65-74",
+                "16 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 to 74",
                 "75 and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disabled (GSS harmonised)",
+                "Long-term health condition",
+                "Long-term health condition - Does not limit activities",
+                "No long-term health condition",
+                "Long-standing illness or disability",
+                "No long-standing illness or disability",
                 ""
               ]
             }
@@ -20148,23 +20173,10 @@
             "constraints": {
               "enum": [
                 "White",
-                "Mixed/Multiple ethnic groups",
+                "Mixed/multiple ethnic groups",
                 "Asian/Asian British",
                 "Black/African/Caribbean/Black British",
                 "Other ethnic group",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Disability status",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Long-term health condition",
-                "Disabled (GSS harmonised)",
-                "Long-term health condition - Does not limit activities",
-                "No long-term health condition",
                 ""
               ]
             }
@@ -20175,10 +20187,10 @@
             "constraints": {
               "enum": [
                 "Less than £10,000",
-                "£10,000-less than £20,000",
-                "£20,000-less than £30,000",
-                "£30,000-less than £40,000",
-                "£40,000-less than £50,000",
+                "£10,000 to less than £20,000",
+                "£20,000 to less than £30,000",
+                "£30,000 to less than £40,000",
+                "£40,000 to less than £50,000",
                 "£50,000 or more",
                 "No income stated or not enough information provided",
                 ""
@@ -20186,12 +20198,12 @@
             }
           },
           {
-            "name": "Urban or Rural",
+            "name": "Urban or rural",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
                 "Rural",
+                "Urban",
                 ""
               ]
             }
@@ -20878,7 +20890,7 @@
             "type": "string"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -20987,7 +20999,7 @@
                 "Yorkshire and the Humber",
                 "East Midlands",
                 "West Midlands",
-                "East of England",
+                "East",
                 "London",
                 "South East",
                 "South West",
@@ -20997,15 +21009,17 @@
             }
           },
           {
-            "name": "Observation status",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
-            "type": "string"
-          },
-          {
-            "name": "Unit measure",
             "type": "string"
           },
           {

@@ -23,7 +23,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #10-7-2,notstarted,Tier II,"United Nations Department of Economic and Social Affairs (DESA), International Organization for Migration (IOM)",True,,,,line
 #10-7-3,notstarted,Tier I,International Organization for Migration,,,,,line
 #10-7-4,notstarted,Tier I,UN High Commissioner for Refugees (UNHCR),,,,,line
-#10-a-1,complete,Tier I,"The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD), World Trade Organization (WTO)",,,United Kingdom,Percentage,line
+#10-a-1,complete,Tier I,"The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD), World Trade Organization (WTO)",,,United Kingdom,Percentage (%),line
 #10-b-1,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,United Kingdom,GBP (£000s),line
 #10-c-1,complete,Tier I,World Bank (WB),,,United Kingdom,Percentage (%),line
 #11-1-1,complete,Tier I,United Nations Human Settlements Programme (UN-Habitat),,,England,Percentage (%),line
@@ -41,7 +41,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #11-b-1,complete,Tier II,United Nations International Strategy for Disaster Reduction (UNISDR),True,,,,line
 #11-b-2,complete,Tier II,United Nations International Strategy for Disaster Reduction (UNISDR),True,,,,line
 #12-1-1,complete,Tier II,UN Environment (UNEP),True,,,,line
-#12-2-1,complete,Tier II,United Nations Environment Programme (UNEP),,,United Kingdom,"Million metric tonnes, Tonnes per capita, Tonnes per GDP (£m)",line
+#12-2-1,complete,Tier II,United Nations Environment Programme (UNEP),,,United Kingdom,"Million metric tons, Tons per capita, Tons per GDP (£m), Kilograms per constant USD ($) expressed in 2019 prices",line
 #12-2-2,complete,Tier I,United Nations Environment Programme (UNEP),,,United Kingdom,"Million metric tonnes, Tonnes per capita, Tonnes per GDP (£m)",line
 #12-3-1,complete,Tier II,"Food and Agriculture Organization (FAO), UN Environment (UNEP)",,,United Kingdom,,line
 #12-4-1,complete,Tier I,UN Environment (UNEP),True,,,,line
@@ -193,7 +193,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #5-3-1,complete,Tier I,United Nations Children's Fund (UNICEFF),,,England and Wales,"Rate per 1,000 women",line
 #5-3-2,complete,Tier I,United Nations Children's Fund (UNICEF),,,England,Percentage,line
 #5-4-1,complete,Tier II,UN Statistics Division (UNSD),,,Great Britain,Percentage (%),bar
-#5-5-1,complete,Tier I,"Inter-Parliamentary Union (IPU), UN Women",,,,Percentage (%),bar
+#5-5-1,complete,Tier I,"Inter-Parliamentary Union (IPU), UN Women",,,United Kingdom,Percentage (%),line
 #5-5-2,complete,Tier I,International Labour Organization (ILO),,,United Kingdom,Percentage (%),line
 #5-6-1,complete,Tier II,United Nations Population Fund UNFPA,,,England,Thousands of women,line
 #5-6-2,complete,Tier II,United Nations Population Fund UNFPA,True,,,,line
@@ -223,7 +223,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #8-10-2,complete,Tier I,World Bank (WB),,,United Kingdom,Percentage (%),line
 #8-2-1,complete,Tier I,International Labour Organization (ILO),,,United Kingdom,Percentage (%),line
 #8-3-1,complete,Tier II,International Labour Organization (ILO),,True,United Kingdom,Percentage(%),line
-#8-4-1,complete,Tier II,United Nations Environment Programme (UNEP),,,United Kingdom,"Million metric tonnes, Tonnes per capita, Tonnes per GDP (£m)",line
+#8-4-1,complete,Tier II,United Nations Environment Programme (UNEP),,,United Kingdom,"Million metric tons, Tons per capita, Tons per GDP (£m), Kilograms per constant USD ($) expressed in 2019 prices",line
 #8-4-2,complete,Tier I,United Nations Environment Programme (UNEP),,,United Kingdom,"Million metric tonnes, Tonnes per capita, Tonnes per GDP (£m)",line
 #8-5-1,complete,Tier II,International Labour Organization (ILO),,,United Kingdom,GBP (£),line
 #8-5-2,complete,Tier I,International Labour Organization (ILO),,,United Kingdom,Percentage (%) of economically active,line

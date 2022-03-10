@@ -7,12 +7,12 @@ Indicator,Disaggregations,Number of disaggregations
 #1-a-1,Poverty reduction aid type,1
 #10-1-1,Income group,1
 #10-2-1,"Age, Sex",2
-#10-3-1,"Type of hate crime, Age, Sex, Disability status, Ethnicity, Household income, Urban or Rural",7
+#10-3-1,"Type of hate crime, Age, Sex, Disability status, Ethnicity, Household income, Urban or rural",7
 #10-4-2,Retirment status,1
 #10-6-1,Institution,1
 #10-a-1,"Country Group, Product Sector",2
 #10-b-1,"Recipient region, Recipient country",2
-#11-1-1,"Disability status, Income group, Decent homes criteria, Urbanisation sub-category, Sub-national area, Age of oldest person, Age of youngest person, Ethnicity of household reference person (HRP)",8
+#11-1-1,"Decent homes criteria, Urbanisation sub-category, Sub-national area, Age of oldest person, Age of youngest person, Disability status (household), Ethnicity of household reference person (HRP), Income quintile (household)",8
 #11-3-1,"Country, Region, Local Authority, Welsh Unitary Authority, Scottish Council Area",5
 #11-4-1,"Type of heritage, Area of spending",2
 #11-5-1,"Sex, Country, Cause of death",3
@@ -104,11 +104,11 @@ Indicator,Disaggregations,Number of disaggregations
 #4-6-1,"Sex, Educational subject",2
 #4-b-1,"Country income classification, Sector, Type of study",3
 #4-c-1,"Sex, Region, Local Authority",3
-#5-1-1,Area of law,1
 #5-2-1,"Age, Disability status, Ethnicity, Household income, Region, Ethnic group, Highest qualification, Country of birth, Type of partner abuse, Abuse sub-category",10
 #5-2-2,"Age, Disability status, Ethnicity, Household income, Region, Abuse type, Place of occurrence, Ethnic group, Migratory status, Highest qualification, Relationship to perpetrator, Frequency of sexual assault",12
 #5-3-2,"Country of birth, Local Authority, Age at which FGM took place, FGM type",4
 #5-4-1,"Age, Sex, Disability status, Number of hours",4
+#5-5-1,Legislative authority,1
 #5-5-2,"Age, Disability status, Region",3
 #5-6-1,"Age, Main method of contraception",2
 #5-a-1,Occupation unit group,1
