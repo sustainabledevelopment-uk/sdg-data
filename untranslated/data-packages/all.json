@@ -4318,8 +4318,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
                 "Female",
+                "Male",
                 ""
               ]
             }
@@ -4329,11 +4329,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IMD 1",
+                "IMD 1 (most deprived)",
                 "IMD 2",
                 "IMD 3",
                 "IMD 4",
-                "IMD 5",
+                "IMD 5 (least deprived)",
                 ""
               ]
             }
@@ -4346,18 +4346,18 @@
                 "White - British",
                 "White - Irish",
                 "Any other White background",
-                "White and Black Caribbean",
-                "White and Black African",
-                "White and Asian",
-                "Any other Mixed background",
                 "Indian",
-                "Pakistani",
                 "Bangladeshi",
+                "Pakistani",
                 "Chinese",
                 "Any other Asian background",
                 "Black - African",
                 "Black - Caribbean",
                 "Any other Black background",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed background",
                 "Any other Ethnic group",
                 "Not stated / Invalid",
                 ""
@@ -13431,33 +13431,39 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture, forestry and fishing",
-                "Mining and quarrying",
-                "Manufacturing",
-                "Electricity, gas, steam and air conditioning supply",
-                "Water supply; sewerage, waste management and remediation activities",
-                "Construction",
-                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
-                "Transport and storage",
                 "Accommodation and food services",
-                "Information and communication",
-                "Financial and insurance activities",
-                "Real estate activities",
-                "Professional, scientific and technical activities",
-                "Administrative and support service activities",
-                "Public administration and defence; compulsory social security",
-                "Education",
-                "Human health and social work activities",
-                "Arts, entertainment and recreation",
-                "Other service activities",
                 "Activities of households as employers; undifferentiated goods and services-producing activities of households for own use",
+                "Administrative and support service activities",
+                "Agriculture, forestry and fishing",
+                "Arts, entertainment and recreation",
+                "Construction",
+                "Education",
+                "Electricity, gas, steam and air conditioning supply",
+                "Financial and insurance activities",
+                "Human health and social work activities",
+                "Information and communication",
+                "Manufacturing",
+                "Mining and quarrying",
+                "Professional, scientific and technical activities",
+                "Public administration and defence; compulsory social security",
+                "Real estate activities",
+                "Transport and storage",
+                "Water supply; sewerage, waste management and remediation activities",
+                "Wholesale and retail trade; repair of motor vehicles and motorcycles",
+                "Other service activities",
                 ""
               ]
             }
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Terajoules per million pounds (TJ/£ million)",
+                ""
+              ]
+            }
           },
           {
             "name": "Unit multiplier",
@@ -16107,7 +16113,41 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Liquid assets to short term liabilities (%)",
+                "Net open position in foreign exchange to capital (%)",
+                "Non-performing loans to total gross loans (%)",
+                "Regulatory capital to assets (%)",
+                "Regulatory Tier 1 capital to risk-weighted assets (%)",
+                "Return on assets (%)",
+                "Non-performing loans net of provisions to capital (%)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
             "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -16638,6 +16678,17 @@
             "type": "string"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WHO Child Growth Standards",
+                "BMI classifications",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Country",
             "type": "string",
             "constraints": {
@@ -16655,13 +16706,31 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Any other ethnic group",
+                "White - British",
+                "White - Irish",
+                "Any other White background",
+                "Indian",
+                "Pakistani",
+                "Bangladeshi",
+                "Chinese",
+                "Any other Asian background",
+                "Black - African",
+                "Black - Caribbean",
+                "Any other Black background",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed background",
+                "Any other Ethnic group",
+                "Not stated / Invalid",
+                "White",
                 "Asian",
                 "Black",
-                "Chinese",
                 "Mixed",
+                "Any other ethnic group",
                 "Not stated",
-                "White",
+                "Chinese or other",
+                "Not known",
                 ""
               ]
             }
@@ -16678,13 +16747,69 @@
             }
           },
           {
-            "name": "BMI",
+            "name": "Type (wasting or overweight)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wasting",
+                "Overweight",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "BMI Classifications",
             "type": "string",
             "constraints": {
               "enum": [
                 "Obese",
                 "Overweight",
                 "Underweight",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "IMD Deciles (England)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 (Most deprived)",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10 (Least deprived)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "IMD Quintiles",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1 (Most deprived)",
+                "2",
+                "3",
+                "4",
+                "5 (Least deprived)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Urban or rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "Not classified",
                 ""
               ]
             }
@@ -16698,8 +16823,14 @@
             "type": "string"
           },
           {
-            "name": "Unit measure",
-            "type": "string"
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%)",
+                ""
+              ]
+            }
           },
           {
             "name": "GeoCode",
@@ -18682,6 +18813,7 @@
                 "35 to 39",
                 "40 to 44",
                 "45 and over",
+                "not stated",
                 ""
               ]
             }
