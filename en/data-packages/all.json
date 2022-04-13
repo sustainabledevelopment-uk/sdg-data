@@ -2418,8 +2418,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Metric tons",
-                "Kilograms per constant USD",
+                "Tonnes",
+                "Tonnes per $m",
                 ""
               ]
             },
@@ -10346,7 +10346,7 @@
               "enum": [
                 "Domestic material consumption",
                 "Domestic material consumption per capita",
-                "Domestic material consumption per GDP",
+                "Domestic material consumption per unit of GDP",
                 ""
               ]
             },
@@ -10357,9 +10357,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Million metric tonnes",
                 "Tonnes",
-                "Tonnes per £m",
+                "Tonnes per $m",
                 ""
               ]
             },
@@ -10388,11 +10387,6 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
-          },
-          {
-            "name": "Unit measure",
-            "type": "string",
-            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -18743,90 +18737,6 @@
             "title": "Sex"
           },
           {
-            "name": "Country",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "England",
-                "Wales",
-                ""
-              ]
-            },
-            "title": "Country"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "East",
-                "East Midlands",
-                "London",
-                "North East",
-                "North West",
-                "South East",
-                "South West",
-                "West Midlands",
-                "Yorkshire and The Humber",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Police Force Area",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Avon and Somerset",
-                "Bedfordshire",
-                "Cambridgeshire",
-                "Cheshire",
-                "City of London",
-                "Cleveland",
-                "Cumbria",
-                "Derbyshire",
-                "Devon and Cornwall",
-                "Dorset",
-                "Durham",
-                "Dyfed-Powys",
-                "Essex",
-                "Gloucestershire",
-                "Greater Manchester",
-                "Gwent",
-                "Hampshire",
-                "Hertfordshire",
-                "Humberside",
-                "Kent",
-                "Lancashire",
-                "Leicestershire",
-                "Lincolnshire",
-                "Merseyside",
-                "Metropolitan Police",
-                "Norfolk",
-                "North Wales",
-                "North Yorkshire",
-                "Northamptonshire",
-                "Northumbria",
-                "Nottinghamshire",
-                "South Wales",
-                "South Yorkshire",
-                "Staffordshire",
-                "Suffolk",
-                "Surrey",
-                "Sussex",
-                "Thames Valley",
-                "Warwickshire",
-                "West Mercia",
-                "West Midlands",
-                "West Yorkshire",
-                "Wiltshire",
-                ""
-              ]
-            },
-            "title": "Police Force Area"
-          },
-          {
             "name": "Unit measure",
             "type": "string",
             "title": "Unit measure"
@@ -18843,7 +18753,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "string",
+            "type": "number",
             "title": "GeoCode"
           },
           {

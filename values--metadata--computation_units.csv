@@ -27,10 +27,10 @@ Index,1
 Litres pure alcohol,1
 Mean quality rating,1
 Million hectares / Percentage (%),2
-"Million metric tonnes, Tonnes per capita, Tonnes per GDP (£m)",1
-"Million metric tons, Tons per capita, Kilograms per constant USD",1
 "Million metric tons, Tons per capita, Tons per GDP (£m), Kilograms per constant USD ($) expressed in 2019 prices",2
 Million tonnes carbon dioxide equivalent (MtCO2e),1
+"Million Tonnes, Tonnes per capita, Tonnes per GDP ($m)",1
+"Million tonnes, Tonnes per capita, Tonnes per GDP ($m)",1
 N/A,1
 Number of cases,1
 "Number of deaths and age-standardised mortality rates per 100,000 population",3
@@ -54,9 +54,9 @@ Percentage,2
 "Rate per 10,000 population",1
 "Rate per 100,000 maternities, Rate per 100,000 live births",1
 "Rate per 100,000 population, Number of cases, Percentage of total cases",1
-"Rate per 100,000 population",8
+"Rate per 100,000 population",9
 "Rate per 100,000 workers",1
-"Rate per 1,000,000 population",2
+"Rate per 1,000,000 population",1
 Red List Index,1
 "Square Km, Index",1
 Terajoules per million pounds (TJ/£ million),1
