@@ -2804,8 +2804,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Labour",
+                "Labour and criminal",
+                "Labour and domestic",
+                "Labour and organ harvesting",
+                "Labour and sexual",
+                "Labour, domestic and criminal",
+                "Labour, sexual and criminal",
+                "Labour, sexual and domestic",
+                "Labour, sexual and organ harvesting",
+                "Labour, sexual, domestic and criminal",
+                "Labour, sexual, domestic, organ harvesting and criminal",
+                ""
+              ]
+            },
+            "title": "Type of exploitation"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -19331,8 +19379,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tourism direct GDP as a percentage of GDP (%)",
-                "Tourism direct GDP growth rate (%)",
+                "Tourism direct GDP growth rate",
+                "Tourism direct GDP as a proportion of total GDP",
                 ""
               ]
             },
@@ -19366,7 +19414,6 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "Percentage change (%)",
                 ""
               ]
             },

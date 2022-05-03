@@ -2591,6 +2591,49 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Type of exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Labour",
+                "Labour and criminal",
+                "Labour and domestic",
+                "Labour and organ harvesting",
+                "Labour and sexual",
+                "Labour, domestic and criminal",
+                "Labour, sexual and criminal",
+                "Labour, sexual and domestic",
+                "Labour, sexual and organ harvesting",
+                "Labour, sexual, domestic and criminal",
+                "Labour, sexual, domestic, organ harvesting and criminal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
             "type": "string"
           },
           {
@@ -17863,8 +17906,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Tourism direct GDP as a percentage of GDP (%)",
-                "Tourism direct GDP growth rate (%)",
+                "Tourism direct GDP growth rate",
+                "Tourism direct GDP as a proportion of total GDP",
                 ""
               ]
             }
@@ -17896,7 +17939,6 @@
             "constraints": {
               "enum": [
                 "Percentage (%)",
-                "Percentage change (%)",
                 ""
               ]
             }

@@ -133,6 +133,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-5-1,"Age, Sex, Disability status, Region, Country, Occupation, Sex by disability, Working Pattern",8
 #8-5-2,"Age, Sex, Disability status, Region, Country, Country of birth",6
 #8-6-1,"Age, Sex, Seasonally adjusted or not",3
+#8-7-1,"Sex, Type of exploitation",2
 #8-8-1,"Age, Sex, Region, Country, Industry sector, Occupation",6
 #8-9-1,Product,1
 #8-a-1,Country income classification,1
