@@ -143,6 +143,7 @@ Indicator,Disaggregations,Number of disaggregations
 #9-1-2,Flight category,1
 #9-2-1,"Activity (default), Industry higher sub-category, Industry middle sub-category, Industry lower sub-category",4
 #9-2-2,"Sex, Age, Disability status, Region, Nationality, Country of birth, Ethnicity, Activity",8
+#9-3-1,"Industry sector, Industry higher sub-category, Industry middle sub-category, Industry lower sub-category",4
 #9-4-1,Industry sector,1
 #9-5-1,"Region, Country, Sector, Performing/Funding, Source, Source sub-category, Product group",7
 #9-5-2,"Sex, Age, Disability status, Region, Nationality, Country of birth",6
