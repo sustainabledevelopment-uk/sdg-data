@@ -902,7 +902,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -915,6 +915,48 @@
               ]
             },
             "title": "Series"
+          },
+          {
+            "name": "Bank account category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Any type of account (including POCAs)",
+                "Any type of account (excluding POCAs)",
+                "No accounts (including POCAs)",
+                "No accounts (excluding POCAs)",
+                "Any Direct Payment Account (including POCAs)",
+                "Any Direct Payment Account (excluding POCAs)",
+                "Current account",
+                "NS&I Savings Account",
+                "Basic Bank account",
+                "Post Office Card Account (POCA)",
+                "ISA",
+                "Other Bank / Building Society account",
+                "Stocks and shares / member of a Share Club",
+                "Unit trusts",
+                "Endowment Policy (not linked)",
+                "Premium Bonds",
+                "National Savings Bonds",
+                "Company Share Scheme / profit sharing",
+                "Credit Unions",
+                "Any other type of asset",
+                ""
+              ]
+            },
+            "title": "Bank account category"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Age",
@@ -934,48 +976,6 @@
               ]
             },
             "title": "Age"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Bank account category",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Any Direct Payment Account (excluding POCAs)",
-                "Any Direct Payment Account (including POCAs)",
-                "Any other type of asset",
-                "Any type of account (excluding POCAs)",
-                "Any type of account (including POCAs)",
-                "Basic Bank account",
-                "Company Share Scheme / profit sharing",
-                "Credit Unions",
-                "Current account",
-                "Endowment Policy (not linked)",
-                "ISA",
-                "National Savings Bonds",
-                "No accounts (excluding POCAs)",
-                "No accounts (including POCAs)",
-                "NS&I Savings Account",
-                "Other Bank / Building Society account",
-                "Post Office Card Account (POCA)",
-                "Premium Bonds",
-                "Stocks and shares / member of a Share Club",
-                "Unit trusts",
-                ""
-              ]
-            },
-            "title": "Bank account category"
           },
           {
             "name": "Units",
@@ -11936,8 +11936,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Northern Ireland",
+                "Scotland",
+                "Wales",
+                "England",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Suspected source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fishing",
+                "Fly-tipped",
+                "Medical",
+                "Non-sourced",
+                "Public",
+                "Sewage related debris",
+                "Shipping",
+                ""
+              ]
+            },
+            "title": "Suspected source"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Median count",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -17369,6 +17421,59 @@
             "name": "Year",
             "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12 month rolling average",
+                "Unaveraged monthly value",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Food type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All",
+                "Bread and cereal",
+                "Dairy and eggs",
+                "Fish",
+                "Fruit",
+                "Meat",
+                "Oils and fats",
+                "Sugars",
+                "Vegetables",
+                "Food not elsewhere classified",
+                ""
+              ]
+            },
+            "title": "Food type"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Value",
