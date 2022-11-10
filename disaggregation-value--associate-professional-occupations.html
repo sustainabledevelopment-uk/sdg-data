@@ -6,7 +6,7 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>Sector: Public sector - UK SDG data service</title>
+            <title>Occupation: Associate professional occupations - UK SDG data service</title>
 
             <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -51,24 +51,50 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">UK SDG data service</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
-                    <h1 style="margin:20px 0">Sector: Public sector</h1>
+                    <h1 style="margin:20px 0">Occupation: Associate professional occupations</h1>
                     <div>
                         
         <div>
             
         <div class="my-3">
-            <a href="disaggregation-value--public-sector.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-value--public-sector">Download CSV of indicators using this disaggregation value</a>
-            <div id="disaggregation-value--public-sector" class="download-info">Size: 66 Bytes</div>
+            <a href="disaggregation-value--associate-professional-occupations.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-value--associate-professional-occupations">Download CSV of indicators using this disaggregation value</a>
+            <div id="disaggregation-value--associate-professional-occupations" class="download-info">Size: 64 Bytes</div>
         </div>
         
             
@@ -84,15 +110,15 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://sdgdata.gov.uk/16-7-1">#16-7-1</a></td>
-      <td>34</td>
+      <td><a href="https://sdgdata.gov.uk/8-8-1">#8-8-1</a></td>
+      <td>1</td>
     </tr>
   </tbody>
 </table>
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['disaggregation-value-table'] = [{"Indicator":"<a href=\"https:\/\/sdgdata.gov.uk\/16-7-1\">#16-7-1<\/a>","Disaggregation combinations using this value":34}];
+            sdgBuild.tables['disaggregation-value-table'] = [{"Indicator":"<a href=\"https:\/\/sdgdata.gov.uk\/8-8-1\">#8-8-1<\/a>","Disaggregation combinations using this value":1}];
             </script>
             
         </div>
