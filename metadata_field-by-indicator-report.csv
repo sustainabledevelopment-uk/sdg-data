@@ -65,7 +65,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #14-2-1,complete,Tier II,United Nations Environment Agency (UNEP),,,United Kingdom,Percentage (%) / Million hectares,line,Joint Nature Conservation Committee (JNCC)
 #14-3-1,notstarted,Tier II,"Intergovernmental Oceanographic Commission of United Nations Educational, Scientific and Cultural Organization",,,,,line,
 #14-4-1,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,Percentage (%),line,"Department for Environment, Food and Rural Affairs (DEFRA)"
-#14-5-1,complete,Tier I,"UN Environment World Conservation Monitoring Centre (UNEP-WCMC), BirdLife International (BLI), International Union for Conservation of Nature (IUCN)",,,United Kingdom,Million hectares / Percentage (%),line,Joint Nature Conservation Committee (JNCC)
+#14-5-1,complete,Tier I,"UN Environment World Conservation Monitoring Centre (UNEP-WCMC), BirdLife International (BLI), International Union for Conservation of Nature (IUCN)",,,United Kingdom,square kilometres / Percentage (%),line,Joint Nature Conservation Committee (JNCC)
 #14-6-1,complete,Tier I,Food and Agriculture Organization (FAO),True,,,,line,
 #14-7-1,notstarted,Tier I,"Food and Agriculture Organization (FAO), UN Environment (UNEP)-World Conservation Monitoring Centre (WCMC)",,,,,line,
 #14-a-1,notstarted,Tier II,"Intergovernmental Oceanographic Commission of United Nations Educational, Scientific and Cultural Organization",,,,,line,
@@ -115,27 +115,27 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #17-11-1,complete,Tier I,"World Trade Organization (WTO), The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD)",,,United Kingdom,Percentage (%),line,Office for National Statistics
 #17-12-1,complete,Tier I,"World Trade Organization (WTO), The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD)",,,,Percentage (%),line,Eurostat
 #17-13-1,complete,Tier II,World Bank (WB),True,,United Kingdom,N/A,line,Office for National Statistics
-#17-14-1,complete,Tier II,UN Environment (UNEP),,,United Kingdom,Percentage (%),bar,Department for International Development
+#17-14-1,complete,Tier II,UN Environment (UNEP),,,United Kingdom,Percentage (%),bar,"Foreign, Commonwealth & Development Office (FCDO)"
 #17-15-1,notstarted,Tier II,"Organisation for Economic Co-operation and Development (OECD), United Nations Development Programme (UNDP)",,,,,line,
 #17-16-1,complete,Tier II,"Organisation for Economic Co-operation and Development (OECD), United Nations Development Programme (UNDP)",True,,United Kingdom,,line,
 #17-17-1,notstarted,Tier II,World Bank,,,,,,
 #17-18-1,complete,Tier II,United Nations Statistics Division (UNSD),,,UK,Percentage,bar,Office for National Statistics
 #17-18-2,complete,Tier I,PARIS21,True,,,,line,
 #17-18-3,complete,Tier I,PARIS21,True,,,,line,
-#17-19-1,complete,Tier I,Partnership in Statistics for Development in the 21st Century (PARIS21),,,United Kingdom,"GBP, USD",line,"Foreign, Commonwealth & Development Office (FCDO)"
+#17-19-1,complete,Tier I,Partnership in Statistics for Development in the 21st Century (PARIS21),,,United Kingdom,"GBP (thousands), USD (thousands)",line,"Foreign, Commonwealth & Development Office (FCDO)"
 #17-19-2,complete,Tier I,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",True,,United Kingdom,,line,UK Government
 #17-2-1,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,United Kingdom,Percentage (%),line,"Foreign, Commonwealth and Development Office (FCDO) (formerly Department for International Development)"
 #17-3-1,complete,"Tier I (FDI)/Tier II (ODA, SSC)","Organisation for Economic Co-operation and Development (OECD), United Nations Conference on Trade and Development (UNCTAD)",,,United Kingdom,Percentage (%),line,"Foreign, Commonwealth & Development Office (formerly Department for International Development)"
 #17-3-2,complete,Tier I,World Bank (WB),,,United Kingdom,Percentage (%),line,World Bank
 #17-4-1,complete,Tier I,World Bank (WB),,,United Kingdom,Percentage (%),line,Office for National Statistics
 #17-5-1,complete,Tier II,United Nations Conference on Trade and Development (UNCTAD),,,United Kingdom,GBP (£ Millions),line,"Foreign, Commonwealth & Development Office (FCDO)"
-#17-6-1,complete,Tier I,International Telecommunication Union (ITU),,,United Kingdom,"Rate per 100 population, number",line,United Nations Statistics Division (UNSD) and Ofcom
+#17-6-1,complete,Tier I,International Telecommunication Union (ITU),,,United Kingdom,"Rate per 100 population, number",line,United Nations (UN) and Ofcom
 #17-7-1,notstarted,Tier II,UN Environment (UNEP)-Climate Technology Centre and Network (CTCN),,,,,line,
 #17-8-1,complete,Tier I,International Telecommunication Union (ITU),,True,United Kingdom,Percentage (%),line,Office for National Statistics (ONS)
 #17-9-1,complete,Tier I,"Organisation for Economic Co-operation and Development (OECD), United Nations Environment (UNEP), World Bank (WB)",,,United Kingdom,"GBP, constant USD at 2020 prices",line,"Foreign, Commonwealth & Development Office (FCDO)"
 #2-1-1,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,Calories per day (kcal/day),line,Food Standards Agency and Public Health England
-#2-1-2,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,Percentage (%),bar,Department for Work and Pensions (DWP)
-#2-2-1,complete,Tier I,"United Nations Children's Fund (UNICEFF), World Health Organisation (WHO)",,,England,Percentage (%),line,Office for Health Improvement and Disparities (OHID)
+#2-1-2,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,Percentage (%),line,Department for Work and Pensions (DWP)
+#2-2-1,complete,Tier I,"United Nations Children's Fund (UNICEF), World Health Organisation (WHO), World Bank (WB)",,,England,Percentage (%),line,Office for Health Improvement and Disparities (OHID)
 #2-2-2,complete,Tier I,"United Nations Children's Fund (UNICEF), World Health Organisation (WHO), World Bank (WB)",,,"England, Scotland, Wales, Northern Ireland",Percentage (%),line,NHS Digital
 #2-2-3,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,Percentage (%),line,World Health Organisation
 #2-3-1,complete,Tier II,Food and Agriculture Organization (FAO),,,United Kingdom,Index,line,"Department for Environment, Food & Rural Affairs (Defra)"
@@ -166,8 +166,8 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #3-8-1,notstarted,Tier I,World Health Organisation (WHO),,,,,line,
 #3-8-2,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,"GBP (£), Percentage of total expenditure (%)",line,Office for National Statistics (ONS)
 #3-9-1,complete,Tier I,World Health Organisation (WHO),,True,England,Percentage (%),line,"Department for Environment, Food & Rural Affairs (DEFRA) & Air Quality and Public Health - UK Health Security Agency"
-#3-9-2,complete,Tier I,World Health Organisation (WHO),,,United Kingdom,"Rate per 1,000,000 population",line,Office for National Statistics (ONS)
-#3-9-3,complete,Tier I,World Health Organisation (WHO),,,England and Wales,"Rate per 100,000 population",line,Office for National Statistics (ONS)
+#3-9-2,complete,Tier I,World Health Organisation (WHO),,True,United Kingdom,"Rate per 100,000 population",line,Office for National Statistics (ONS)
+#3-9-3,complete,Tier I,World Health Organisation (WHO),,True,England and Wales,"Rate per 100,000 population",line,Office for National Statistics (ONS)
 #3-a-1,complete,Tier I,"World Health Organization (WHO), Framework Convention on Tobacco Control (FCTC)",,True,United Kingdom,Percentage (%),line,Office for National Statistics (ONS)
 #3-b-1,complete,Tier I,"World Health Organization (WHO),  United Nations International Children's Emergency Fund (UNICEF)",,True,United Kingdom,Percentage (%),line,National Health Service (NHS) Digital
 #3-b-2,complete,Tier I,Organisation for Economic Co-operation and Development (OECD),,,United Kingdom,GBP (£ thousands) and Constant USD ($ thousands),line,"Foreign, Commonwealth & Development Office (FCDO)"

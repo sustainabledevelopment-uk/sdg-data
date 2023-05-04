@@ -1,17 +1,20 @@
 Value,Disaggregation combinations using this value,Number of indicators
-East Midlands,1774,45
-East of England,505,17
-East,1377,28
+East Midlands,2175,46
+East of England,502,16
+East,1784,31
 Inner London,171,4
-London,2448,44
-North East,1742,45
-North West,2309,45
+London,2850,46
+Midlands,1,1
+North East and Yorkshire,1,1
+North East,2138,46
+North West,2726,47
 Northern Ireland,19,4
 Outer London,228,4
 Scotland,22,4
-South East,2305,45
-South West,1992,45
+South East,2710,47
+South West,2394,47
+Unknown,1,1
 Wales,27,9
-West Midlands,1940,45
-Yorkshire and The Humber,1899,37
-Yorkshire and the Humber,41,8
+West Midlands,2340,46
+Yorkshire and The Humber,2304,39
+Yorkshire and the Humber,38,7

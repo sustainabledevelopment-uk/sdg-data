@@ -15,7 +15,7 @@ Beverage,1,4
 Bioenergy,2,2
 Birthweight (grams),1,12
 BMI Classifications,1,3
-Cause of death,4,15
+Cause of death,5,19
 Chronic respiratory disease subtype,1,9
 Citizenship,1,4
 Completeness of disaggregation,1,3
@@ -43,10 +43,10 @@ Education indicator,1,36
 Educational measure,1,8
 Educational subject,1,3
 Employment status,3,16
-Ethnic group,9,41
+Ethnic group,11,54
 Ethnic Group,1,4
 Ethnicity of household reference person (hrp),1,5
-Ethnicity,18,36
+Ethnicity,16,21
 Exposure category,1,3
 Facility type,1,3
 Fatality,1,2
@@ -60,7 +60,7 @@ Gas,1,7
 Gender,1,2
 Geography (HydroBASINs ID),1,37
 Goal,1,13
-Health Board,1,7
+Health board,1,7
 Health product or service category,1,4
 Health product or service sub-category,1,9
 Health product or service,1,2
@@ -74,13 +74,13 @@ Household income,8,24
 Household Waste disposal routes,1,5
 IHR core capacity,1,16
 IMD Deciles (England),1,10
-IMD Quintiles,1,5
+IMD Quintiles,1,6
 Import type,2,10
 Income group,1,1
 Income quartile,1,4
 Income quintile (household),1,5
 Income,1,7
-Index of Multiple Deprivation (IMD),1,5
+Index of Multiple Deprivation (IMD),1,6
 Index of multiple deprivation quintile,1,5
 Industry higher sub-category,1,16
 Industry lower sub-category,1,28
@@ -93,7 +93,7 @@ Learning sub-category (higher),1,3
 Legislative authority,1,6
 Length of residence,1,6
 Level of reporting,1,2
-Local Authority,10,981
+Local Authority,9,570
 Local authority,3,156
 Main method of contraception,2,2
 Malaria species,1,7
@@ -128,14 +128,13 @@ Recipient country,1,177
 Recipient region,1,5
 Region of origin,1,9
 Region of travel,2,21
-Region,45,16
+Region,47,19
 Relationship to perpetrator,2,5
 Renewable and waste source,1,17
 Renewable source,2,7
 Residence type,1,2
 Retirment status,1,2
 Road category,1,5
-Rural or Urban,1,3
 Safely managed element,1,3
 Scottish Council Area,1,31
 Seasonally adjusted or not,1,2
@@ -152,7 +151,7 @@ Source of revenue,1,4
 Source sub-category,1,2
 Source,1,5
 Special educational needs,1,2
-Speed (mb/sec),1,3
+Speed (Mb/sec),1,3
 Standard accounting tools,1,2
 State support detail,1,4
 State support,1,3
@@ -180,7 +179,7 @@ Type of violence,1,5
 Type (wasting or overweight),1,2
 Unintentional poisoning category,1,6
 Urban or Rural,3,2
-Urban or rural,6,3
+Urban or rural,7,3
 Urbanisation (default),1,1
 Urbanisation sub to category,1,6
 Vaccine,1,16
