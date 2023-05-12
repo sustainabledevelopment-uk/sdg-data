@@ -1,7 +1,7 @@
 Value,Number of indicators
 "Age-standardised mortality rates per 100,000 population",1
 Agriculture Orientation Index (AOI),1
-Annual mean (ug/m3),1
+Annual mean (micrograms per cubic meter),1
 "Birth rate per 1,000 women in age group",1
 Calories per day (kcal/day),1
 Compliance with meeting commitments of agreement (%),1
@@ -43,10 +43,10 @@ Number of tables,1
 "Number (Thousands), Tonnes (Thousands)",1
 Number,4
 Parity Index,1
+Percentage change (%) and Square kilometres (km²),1
 "Percentage (%), GBP (£)",1
 Percentage (%) / Million hectares,1
 Percentage (%) of economically active,1
-"Percentage (%), Percentage change (%) and Square kilometres (km²)",1
 Percentage (%),90
 Percentage(%),1
 Percentage,1
