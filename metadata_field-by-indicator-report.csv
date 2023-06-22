@@ -75,15 +75,15 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #15-1-2,complete,Tier I,"UN Environment (UNEP)-World Conservation Monitoring Centre (WCMC), UN Environment (UNEP)",,True,United Kingdom,Percentage (%),line,Office for National Statistics
 #15-2-1,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,"Hectares, Percentage (%), Growth rate (%)",line,Forest Research
 #15-3-1,notstarted,Tier I,United Nations Convention to Combat Desertification (UNCCD),,,,,line,
-#15-4-1,notstarted,Tier I,"UN Environment (UNEP)-World Conservation Monitoring Centre (WCMC), UN Environment (UNEP)",,,,,line,
+#15-4-1,complete,Tier I,"BirdLife International (BLI), Internation Union for Conservation of Nature (IUCN), UN Environment World Conservation Monitoring Centre (UNEP-WCMC), UN Environment",,,United Kingdom,Percentage (%),line,"BirdLife International, International Union for Conservation of Nature (IUCN), and UN Environment World Conservation Monitoring Centre (UNEP-WCMC)"
 #15-4-2,complete,Tier I,Food and Agriculture Organization (FAO),,,United Kingdom,"Square Km, Index",line,Food & Agriculture Organisation (FAO)
 #15-5-1,complete,Tier I,"International Union for Conservation of Nature (IUCN), BirdLife International (BLI)",,,United Kingdom,Red List Index,line,United Nations (UN)
 #15-6-1,complete,Tier I,Convention on Biological Diversity (CBD) Secretariat,,,United Kingdom,Number,line,United Nations
 #15-7-1,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,United Kingdom,Number of seizures,line,"Border Force, UK Visas and Immigration, and Immigration Enforcement"
 #15-8-1,complete,Tier I,International Union for Conservation of Nature (IUCN),True,,,,line,
 #15-9-1,complete,Tier I (a)/Tier II (b),"United Nations Environment Programme (UN Environment), Convention on Biological Diversity (CBD), United Nations Statistics Division (UNSD) and UNEP-WCMC",True,,,,line,
-#15-a-1,complete,Tier I,Organisation for Economic Cooperation and Development (OECD),,,United Kingdom,"GPB (£ Millions), USD ($ Millions), Percent of GDP (%), Percentage (%)",line,"Foreign, Commonwealth & Development Office"
-#15-b-1,complete,Tier I,Organisation for Economic Cooperation and Development (OECD),,,United Kingdom,"GPB (£ Millions), USD ($ Millions), Percent of GDP (%), Percentage (%)",line,"Foreign, Commonwealth & Development Office"
+#15-a-1,complete,Tier I,Organisation for Economic Cooperation and Development (OECD),,,United Kingdom,"GPB (£ Millions), USD ($ Millions)",line,"Foreign, Commonwealth & Development Office (FCDO)"
+#15-b-1,complete,Tier I,Organisation for Economic Cooperation and Development (OECD),,,United Kingdom,"GPB (£ Millions), USD ($ Millions)",line,"Foreign, Commonwealth & Development Office (FCDO)"
 #15-c-1,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,United Kingdom,Number of seizures,line,"Border Force, UK Visas and Immigration, and Immigration Enforcement"
 #16-1-1,complete,Tier II,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,,England and Wales,"Rate per 100,000 population",line,Home Office - Homicide Index
 #16-1-2,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,United Kingdom,"Rate per 100,000 population",line,Ministry of Defence
@@ -181,7 +181,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #4-2-2,complete,Tier I,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,England,Percentage (%),line,Department for Education
 #4-3-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,True,England,Percentage (%),bar,Department for Education
 #4-4-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,Great Britain,Percentage (%),line,Office for National Statistics (ONS)
-#4-5-1,complete,Tier I/II depending on indice,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,United Kingdom,Parity Index,line,"United Nations Educational, Scientific and Cultural Organization Institute for Statistics (UNESCO-UIS)"
+#4-5-1,complete,Tier I/II depending on indice,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,United Kingdom,,line,UNESCO Institute for Statistics (UIS)
 #4-6-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,England,Percentage (%),line,Department for Education (DfE)
 #4-7-1,complete,Tier II,"United Nations Educational, Scientific and Cultural Organization - Institute for Statistics (UNESCO-UIS)",,,England,Index (between 0.000 and 1.000),bar,UNESCO’s Sections for Education for Sustainable Development and Global Citizenship and Peace Education.
 #4-a-1,complete,Tier I,"United Nations Educational, Scientific and Cultural Organization - Institute for Statistics (UNESCO-UIS)",True,,,,line,
@@ -214,7 +214,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #6-b-1,complete,Tier I,"World Health Organisation (WHO), UN Environment (UNEP), Organisation for Economic Co-operation and Development (OECD)",True,,,,line,
 #7-1-1,complete,Tier I,World Bank (WB),,,United Kingdom,Percentage (%),line,World Bank (WB)
 #7-1-2,complete,Tier I,"International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD), The World Trade Organization (WTO)",,,United Kingdom,Percentage (%),line,World Health Organisation
-#7-2-1,complete,Tier I,"International Energy Agency (IEA), United Nations Statistics Division (UNSD), United Nations' inter-agency mechanism on energy (UN Energy) and the SE4ALL Global Tracking Framework Consortium",,,United Kingdom,Percentage (%),line,"Office for National Statistics (ONS), Ricardo Energy and Environment"
+#7-2-1,complete,Tier I,"International Energy Agency (IEA), United Nations Statistics Division (UNSD), United Nations' inter-agency mechanism on energy (UN Energy) and the SE4ALL Global Tracking Framework Consortium",,,United Kingdom,Percentage (%),line,Office for National Statistics (ONS); Ricardo Energy and Environment
 #7-3-1,complete,Tier I,International Energy Agency (IEA) and United Nations Statistics Division (UNSD).,,,United Kingdom,Terajoules per million pounds (TJ/£ million),line,"Office for National Statistics, Ricardo Energy and Environment"
 #7-a-1,complete,Tier I,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,United Kingdom,"GBP (£ thousands), constant USD ($ thousands) at 2020 prices",line,"Foreign, Commonwealth & Development Office (FCDO)"
 #7-b-1,complete,Tier I,International Renewable Energy Agency (IRENA),,True,United Kingdom,Watts per capita,line,"Department for Business, Energy & Industrial Strategey"

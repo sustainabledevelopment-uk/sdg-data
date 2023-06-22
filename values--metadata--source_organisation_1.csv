@@ -1,5 +1,6 @@
 Value,Number of indicators
 Aquastat,1
+"BirdLife International, International Union for Conservation of Nature (IUCN), and UN Environment World Conservation Monitoring Centre (UNEP-WCMC)",1
 "Border Force, UK Visas and Immigration, and Immigration Enforcement",2
 "Department for Business, Energy & Industrial Strategey",2
 "Department for Business, Energy & Industrial Strategy (BEIS)",1
@@ -25,9 +26,8 @@ Food and Agriculture Organization (FAO),1
 Food Standards Agency and Public Health England,1
 "Foreign, Commonwealth and Development Office (FCDO) (formerly Department for International Development)",1
 "Foreign, Commonwealth and Development Office (FCDO)",1
-"Foreign, Commonwealth & Development Office (FCDO)",12
+"Foreign, Commonwealth & Development Office (FCDO)",14
 "Foreign, Commonwealth & Development Office (formerly Department for International Development)",1
-"Foreign, Commonwealth & Development Office",2
 Forest Research,2
 Health and Safety Executive (HSE),1
 HM Treasury,1
@@ -50,7 +50,7 @@ NHS Digital,4
 Nomis,3
 Ofcom,1
 Office for Health Improvement and Disparities (OHID),1
-"Office for National Statistics (ONS), Ricardo Energy and Environment",1
+Office for National Statistics (ONS); Ricardo Energy and Environment,1
 Office for National Statistics (ONS),46
 "Office For National Statistics, Ordnance Survey",1
 "Office for National Statistics, Ricardo Energy and Environment",1
@@ -65,10 +65,10 @@ UN SDG Global database (UNSDG),1
 UN Women,1
 UNEP,1
 UNESCO Institute for Statistics and The World Bank,1
+UNESCO Institute for Statistics (UIS),1
 UNESCO’s Sections for Education for Sustainable Development and Global Citizenship and Peace Education.,1
 UNICEF,1
 United Kingdom Health Security Agency (UKHSA),3
-"United Nations Educational, Scientific and Cultural Organization Institute for Statistics (UNESCO-UIS)",1
 United Nations Framework Convention on Climate Change (UNFCCC),1
 United Nations Human Rights Council (UNHRC),1
 United Nations Statistics Division (UNSD),2
