@@ -2391,7 +2391,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population below international poverty line",
+                "Proportion of population below the international poverty line",
                 ""
               ]
             },
@@ -6669,8 +6669,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Growth rate (%)",
                 "Area (000s hectares)",
+                "Growth rate (%)",
                 "Tonnes per hectare",
                 "Percentage (%)",
                 ""
@@ -6683,11 +6683,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Woodland area net change",
-                "Above-ground biomass stock",
-                "Percentage of woodland within protected areas",
-                "Percentage of woodland under long-term management plan",
-                "Woodland area under certification scheme",
+                "1) Woodland area",
+                "2) Above-ground biomass stock",
+                "3) Percentage of woodland within protected areas",
+                "4) Percentage of woodland under long-term management plan",
+                "5) Woodland area under certification schemes",
                 ""
               ]
             },
@@ -6752,17 +6752,28 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Greenhouse gas emissions within UK borders",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Gas",
             "type": "string",
             "constraints": {
               "enum": [
-                "Net CO2 emissions (emissions minus removals)",
-                "Methane (CH4)",
-                "Nitrous oxide (N2O)",
                 "Hydrofluorocarbons (HFC)",
+                "Methane (CH4)",
+                "Net CO2 emissions (emissions minus removals)",
+                "Nitrogen trifluoride (NF3)",
+                "Nitrous oxide (N2O)",
                 "Perfluorocarbons (PFC)",
                 "Sulphur hexafluoride (SF6)",
-                "Nitrogen trifluoride (NF3)",
                 ""
               ]
             },
@@ -15153,13 +15164,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Liquid assets to short term liabilities (%)",
-                "Net open position in foreign exchange to capital (%)",
-                "Non-performing loans to total gross loans (%)",
-                "Regulatory capital to assets (%)",
-                "Regulatory Tier 1 capital to risk-weighted assets (%)",
-                "Return on assets (%)",
-                "Non-performing loans net of provisions to capital (%)",
+                "Tier 1 capital to assets",
+                "Tier 1 capital to risk-weighted assets",
+                "Nonperforming loans net of provisions to capital",
+                "Nonperforming loans to total gross loans",
+                "Return on assets",
+                "Liquid assets to short-term liabilities",
+                "Net open position in foreign exchange to capital",
                 ""
               ]
             },
