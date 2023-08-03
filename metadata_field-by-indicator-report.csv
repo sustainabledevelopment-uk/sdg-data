@@ -14,7 +14,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #1-b-1,complete,Tier II,United Nations Children’s Fund (UNICEF),,,United Kingdom,Percentage (%),line,Effects of Taxes and Benefits - Office for National Statistics
 #10-1-1,complete,Tier II,World Bank (WB),,,United Kingdom,Percentage (%),line,Office for National Statistics (ONS)
 #10-2-1,complete,Tier II,"United Nations Children's Fund (UNICEF), World Bank (WB)",,,United Kingdom,Percentage (%),line,Eurostat
-#10-3-1,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,England and Wales,Percentage (%),line,Office for National Statistics
+#10-3-1,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,England and Wales,Percentage (%),line,Office for National Statistics (ONS)
 #10-4-1,complete,Tier I,International Labour Organization (ILO),,,United Kingdom,Percentage (%),line,Office for National Statistics (ONS)
 #10-4-2,complete,Tier II,The World Bank Group,,,United Kingdom,Gini Coefficient,line,Office for National Statistics (ONS)
 #10-5-1,complete,Tier I,International Monetary Fund (IMF),,,United Kingdom,Percentage (%),line,International Monetary Fund (IMF)
@@ -99,16 +99,16 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #16-3-3,notstarted,Tier II,United Nations Development Programme (UNDP)  United Nations on Drugs and Crime (UNODC)  Organization for Economic Cooperation and Development (OECD),,,,,,
 #16-4-1,notstarted,Tier II,"United Nations Office on Drugs and Crime (UNODC), United Nations Conference on Trade and Development (UNCTAD)",,,,,line,
 #16-4-2,notstarted,Tier II,"United Nations Office on Drugs and Crime (UNODC), United Nations Conference on Trade and Development (UNCTAD)",,,,,line,
-#16-5-1,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,England and Wales,Number of offences,line,Office for National Statistics
+#16-5-1,complete,Tier II,United Nations Office on Drugs and Crime (UNODC),,,England and Wales,Number of offences,line,Office for National Statistics (ONS)
 #16-5-2,complete,Tier I,United Nations Office on Drugs and Crime (UNODC),,,England and Wales,Number of offences,line,Office for National Statistics
 #16-6-1,notstarted,Tier II,World Bank (WB),,,,,line,
-#16-6-2,complete,Tier II,United Nations Development Programme (UNDP),,True,United Kingdom,Mean quality rating,line,European Quality of Life Survey
+#16-6-2,complete,Tier II,United Nations Development Programme (UNDP),,True,Great Britain,Percentage (%),bar,Office for National Statistics (ONS)
 #16-7-1,notstarted,"Tier I (a)/Tier II (b, c)",United Nations Development Programme (UNDP),,,,,line,
 #16-7-2,complete,Tier II,United Nations Development Programme (UNDP),,True,England,Percentage (%),line,"Department for Digital, Culture, Media & Sport"
 #16-8-1,complete,Tier I,United Nations Department of Economic and Social Affairs (DESA)/Financing for Development Office (FFDO),,,United Kingdom,Percentage (%),line,United Nations Statistics Division (UNSD)
 #16-9-1,complete,Tier I,"United Nations Statistics Division (UNSD), United Nations Children's Fund (UNICEFF)",,,United Kingdom,Percentage (%),line,UNICEF
 #16-a-1,complete,Tier I,Office of the United Nations High Commissioner for Human Rights (OHCHR),True,,,,line,
-#16-b-1,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,England and Wales,Percentage (%),line,Office for National Statistics
+#16-b-1,complete,Tier II,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,England and Wales,Percentage (%),line,Office for National Statistics (ONS)
 #17-1-1,complete,Tier I,International Monetary Fund (IMF),,,United Kingdom,Percentage (%),line,Office for National Statistics (ONS)
 #17-1-2,complete,Tier I,International Monetary Fund (IMF),,,United Kingdom,Percentage (%),line,Office for National Statistics (ONS)
 #17-10-1,complete,Tier I,"World Trade Organization (WTO), The International Trade Centre (ITC), United Nations Conference on Trade and Development (UNCTAD)",,,,Percentage (%),line,Eurostat
@@ -178,7 +178,7 @@ Indicator,Reporting status,UN designated tier,UN custodian agency,Non-statistica
 #4-1-1,complete,Tier I,UNESCO Institute for Statistics,,,England,Percentage (%),line,Department for Education (DfE)
 #4-1-2,complete,Tier I,UNESCO Institute for Statistics,,,"United Kingdom for completion rate, England for KS4 Achievement",Percentage (%),line,UNESCO Institute for Statistics and The World Bank
 #4-2-1,complete,Tier II,United Nations Children's Fund (UNICEF),,,England,Percentage (%),line,Department for Education (DfE)
-#4-2-2,complete,Tier I,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,England,Percentage (%),line,Department for Education
+#4-2-2,complete,Tier I,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,England,Percentage (%),line,Department for Education (DfE)
 #4-3-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,True,England,Percentage (%),bar,Department for Education
 #4-4-1,complete,Tier II,United Nations Education and Scientific Cultural Organisation - Institute of Statistics (UNESCO-UIS),,,Great Britain,Percentage (%),line,Office for National Statistics (ONS)
 #4-5-1,complete,Tier I/II depending on indice,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,United Kingdom,,line,UNESCO Institute for Statistics (UIS)
