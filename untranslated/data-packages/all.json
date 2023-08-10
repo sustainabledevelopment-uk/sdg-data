@@ -5680,16 +5680,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Labour share of GDP",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -17046,6 +17036,30 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
             "type": "string"
           },
           {
@@ -18227,6 +18241,30 @@
         "fields": [
           {
             "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Unit measure",
             "type": "string"
           },
           {
@@ -21307,7 +21345,38 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Most favoured nation status",
+                "Preferential status",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultural products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Oil",
+                "Textiles",
+                "Total or no breakdown",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
           },
           {
             "name": "Units",
@@ -21320,33 +21389,8 @@
             }
           },
           {
-            "name": "Observation status",
+            "name": "Unit multiplier",
             "type": "string"
-          },
-          {
-            "name": "Country group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Developing countries",
-                "Least developed countries",
-                "Small island developing states",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Product sector",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AGRI",
-                "FISH",
-                "NAMA",
-                "PAPS",
-                ""
-              ]
-            }
           },
           {
             "name": "Value",

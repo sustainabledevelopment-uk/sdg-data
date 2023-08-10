@@ -6156,17 +6156,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Labour share of GDP",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -18444,8 +18433,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -19723,8 +19740,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Unit measure",
+            "type": "string",
+            "title": "Unit measure"
           },
           {
             "name": "Value",
@@ -23110,8 +23155,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Most favoured nation status",
+                "Preferential status",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agricultural products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Oil",
+                "Textiles",
+                "Total or no breakdown",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "Units",
@@ -23125,36 +23204,9 @@
             "title": "Units"
           },
           {
-            "name": "Observation status",
+            "name": "Unit multiplier",
             "type": "string",
-            "title": "Observation status"
-          },
-          {
-            "name": "Country group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Developing countries",
-                "Least developed countries",
-                "Small island developing states",
-                ""
-              ]
-            },
-            "title": "Country group"
-          },
-          {
-            "name": "Product sector",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "AGRI",
-                "FISH",
-                "NAMA",
-                "PAPS",
-                ""
-              ]
-            },
-            "title": "Product sector"
+            "title": "Unit multiplier"
           },
           {
             "name": "Value",
