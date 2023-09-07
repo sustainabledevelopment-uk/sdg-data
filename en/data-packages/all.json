@@ -23,9 +23,10 @@
             "constraints": {
               "enum": [
                 "Acquaintance violence",
-                "Assault with minor injury or without injury",
+                "Assault with minor injury",
                 "Domestic violence",
                 "Stranger violence",
+                "Violence without injury",
                 "Wounding",
                 ""
               ]
@@ -14911,8 +14912,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Born in the UK",
-                "Not born in the UK",
+                "Born in UK",
+                "Not born in UK",
                 ""
               ]
             },
@@ -14923,8 +14924,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Non-disabled (GSS harmonised)",
                 "Disabled (GSS harmonised)",
+                "Non-disabled (GSS harmonised)",
                 ""
               ]
             },
@@ -14960,6 +14961,14 @@
                 "Caribbean",
                 "Any other ethnic group",
                 "Bangladeshi",
+                "Gypsy or Irish Traveller",
+                "White and Black Caribbean",
+                "White and Black African",
+                "White and Asian",
+                "Any other Mixed/Multiple ethnic background",
+                "Chinese",
+                "Any other Black/African/Caribbean background",
+                "Arab",
                 ""
               ]
             },
@@ -14976,6 +14985,7 @@
                 "£31,200 to less than £41,600",
                 "£41,600 to less than £52,000",
                 "£52,000 or more",
+                "No income stated or not enough information provided",
                 ""
               ]
             },
@@ -14986,20 +14996,61 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "East",
-                "East Midlands",
-                "London",
                 "North East",
                 "North West",
+                "Yorkshire and The Humber",
+                "East Midlands",
+                "West Midlands",
+                "East",
+                "London",
                 "South East",
                 "South West",
                 "Wales",
-                "West Midlands",
-                "Yorkshire and The Humber",
                 ""
               ]
             },
             "title": "Region"
+          },
+          {
+            "name": "Urban or rural",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Urban or rural"
+          },
+          {
+            "name": "Sexual orientation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Heterosexual/straight",
+                "Gay/Lesbian",
+                "Bisexual",
+                "Other",
+                ""
+              ]
+            },
+            "title": "Sexual orientation"
+          },
+          {
+            "name": "Highest qualification",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree or diploma",
+                "Apprenticeship or A/AS level",
+                "O level/GCSE",
+                "Other",
+                "None",
+                ""
+              ]
+            },
+            "title": "Highest qualification"
           },
           {
             "name": "Observation status",
@@ -23195,6 +23246,7 @@
               "enum": [
                 "Percentage of adults aged 16 to 59 (%)",
                 "Percentage of adults aged 16 to 74 (%)",
+                "Percentage of adults aged 16 and over (%)",
                 ""
               ]
             },
@@ -23205,8 +23257,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Female",
+                "Male",
                 ""
               ]
             },
@@ -23217,8 +23269,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Partner",
                 "Family member",
+                "Partner",
                 ""
               ]
             },
@@ -23303,7 +23355,7 @@
               "enum": [
                 "North East",
                 "North West",
-                "Yorkshire and the Humber",
+                "Yorkshire and The Humber",
                 "East Midlands",
                 "West Midlands",
                 "East",
@@ -23331,6 +23383,11 @@
             "name": "Unit multiplier",
             "type": "string",
             "title": "Unit multiplier"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
           },
           {
             "name": "GeoCode",
