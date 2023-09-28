@@ -108,7 +108,7 @@ Neonatal period,1,2
 Net weekly income (£),1,10
 Number of adults,1,3
 Number of children,1,3
-Number of hours per week providing care,1,11
+Number of hours per week providing care,1,8
 Number of previous live births,1,6
 Occupation minor group,1,4
 Occupation unit group,2,22
@@ -176,8 +176,8 @@ Type of study,1,5
 Type of violence,1,6
 Type (wasting or overweight),1,2
 Unintentional poisoning category,1,6
-Urban or Rural,1,2
 Urban or rural,9,3
+Urban or Rural,1,2
 Urbanisation (default),1,1
 Urbanisation sub-category,1,6
 Urbanisation,1,5
